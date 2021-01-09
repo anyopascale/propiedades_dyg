@@ -1,0 +1,4658 @@
+%PDF-1.2
+%âãÏÓ
+1 0 obj
+  <<
+  /CreationDate (D:20080905095216-04'00')
+  /Creator (BCN)
+  /Title (DTO-458; DFL-458)
+  >>
+endobj
+2 0 obj
+  <<
+  /Type /Encoding
+  /Differences [ 0 /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /space /exclam
+  /quotedbl /numbersign /dollar /percent /ampersand
+  /quoteright /parenleft /parenright /asterisk /plus /comma
+  /hyphen /period /slash /zero /one /two /three /four /five
+  /six /seven /eight /nine /colon /semicolon /less /equal
+  /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L
+  /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft
+  /backslash /bracketright /asciicircum /underscore
+  /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p
+  /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright
+  /asciitilde /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /dotlessi /grave /acute /circumflex /tilde /macron /breve
+  /dotaccent /dieresis /.notdef /ring /cedilla /.notdef
+  /hungarumlaut /ogonek /caron /space /exclamdown /cent
+  /sterling /currency /yen /brokenbar /section /dieresis
+  /copyright /ordfeminine /guillemotleft /logicalnot /hyphen
+  /registered /macron /degree /plusminus /twosuperior
+  /threesuperior /acute /mu /paragraph /periodcentered
+  /cedilla /onesuperior /ordmasculine /guillemotright
+  /onequarter /onehalf /threequarters /questiondown /Agrave
+  /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE
+  /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave
+  /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve
+  /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash
+  /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn
+  /germandbls /agrave /aacute /acircumflex /atilde /adieresis
+  /aring /ae /ccedilla /egrave /eacute /ecircumflex
+  /edieresis /igrave /iacute /icircumflex /idieresis /eth
+  /ntilde /ograve /oacute /ocircumflex /otilde /odieresis
+  /divide /oslash /ugrave /uacute /ucircumflex /udieresis
+  /yacute /thorn /ydieresis ]
+  >>
+endobj
+3 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F1
+  /Encoding 2 0 R
+  /BaseFont /Courier
+  >>
+endobj
+4 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F2
+  /Encoding 2 0 R
+  /BaseFont /Courier-Oblique
+  >>
+endobj
+5 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F3
+  /Encoding 2 0 R
+  /BaseFont /Courier-Bold
+  >>
+endobj
+6 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F4
+  /Encoding 2 0 R
+  /BaseFont /Courier-BoldOblique
+  >>
+endobj
+7 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F5
+  /Encoding 2 0 R
+  /BaseFont /Helvetica
+  >>
+endobj
+8 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F6
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Oblique
+  >>
+endobj
+9 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F7
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Bold
+  >>
+endobj
+10 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F8
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-BoldOblique
+  >>
+endobj
+11 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F9
+  /Encoding 2 0 R
+  /BaseFont /Times-Roman
+  >>
+endobj
+12 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F10
+  /Encoding 2 0 R
+  /BaseFont /Times-Italic
+  >>
+endobj
+13 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F11
+  /Encoding 2 0 R
+  /BaseFont /Times-Bold
+  >>
+endobj
+14 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F12
+  /Encoding 2 0 R
+  /BaseFont /Times-BoldItalic
+  >>
+endobj
+15 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F13
+  /BaseFont /Symbol
+  >>
+endobj
+16 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F14
+  /BaseFont /ZapfDingbats
+  >>
+endobj
+19 0 obj
+  <<
+  /Font
+    <<
+    /F1 3 0 R
+    /F2 4 0 R
+    /F3 5 0 R
+    /F4 6 0 R
+    /F5 7 0 R
+    /F6 8 0 R
+    /F7 9 0 R
+    /F8 10 0 R
+    /F9 11 0 R
+    /F10 12 0 R
+    /F11 13 0 R
+    /F12 14 0 R
+    /F13 15 0 R
+    /F14 16 0 R
+    >>
+  /ProcSet [ /PDF /Text ]
+  /XObject
+    <<
+
+    >>
+  >>
+endobj
+20 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 21 0 R
+  /Rotate 0
+  >>
+endobj
+21 0 obj
+  <<
+  /Length 22 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Biblioteca del Congreso Nacional) Tj
+T* (------------------------------------------------------------------------------) Tj
+T* (Identificación de la Norma  : DTO-458; DFL-458) Tj
+T* (Fecha de Publicación        : 13.04.1976) Tj
+T* (Fecha de Promulgación       : 18.12.1975) Tj
+T* (Organismo                   : MINISTERIO DE LA VIVIENDA Y URBANISMO) Tj
+T* (Ultima Modificación         : LEY-20251 04.03.2008) Tj
+T* ( ) Tj
+T* (APRUEBA NUEVA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES) Tj
+T* () Tj
+T* (    Santiago, 18 de diciembre de 1975.- Hoy se dictó el) Tj
+T* (siguiente decreto:) Tj
+T* (    NUM. 458.- Vistos: las facultades que el decreto ley) Tj
+T* (N° 602, de 5 de Agosto de 1974, otorgó al Ministerio de) Tj
+T* (la Vivienda y Urbanismo para fijar los textos) Tj
+T* (definitivos de las leyes relativas a construcciones ) Tj
+T* (y urbanización,) Tj
+T* () Tj
+T* (    Decreto:) Tj
+T* () Tj
+T* (    El nuevo texto de la Ley General de Construcciones ) Tj
+T* (y Urbanización será el siguiente:) Tj
+T* () Tj
+T* (LEY GENERAL DE URBANISMO Y CONSTRUCCIONES) Tj
+T* () Tj
+T* () Tj
+T* (    TITULO I \(ARTS. 1-26\)) Tj
+T* (    Disposiciones Generales) Tj
+T* (    CAPITULO I \(ARTS. 1-7\)) Tj
+T* (    Normas de Competencia) Tj
+T* (    Artículo 1°- Las disposiciones de la presente ley,) Tj
+T* (relativas a planificación urbana, urbanización y) Tj
+T* (construcción, y las de la Ordenanza que sobre la) Tj
+T* (materia dicte el Presidente de la República, regirán) Tj
+T* (en todo el territorio nacional.) Tj
+T* (    Artículo 2°- Esta legislación de carácter general) Tj
+T* (tendrá tres niveles de acción:) Tj
+T* (    La Ley General, que contiene los principios,) Tj
+T* (atribuciones, potestades, facultades, responsabilidades,) Tj
+T* (derechos, sanciones y demás normas que rigen a los) Tj
+T* (organismos, funcionarios, profesionales y particulares,) Tj
+T* (en las acciones de planificación urbana, urbanización) Tj
+T* (y construcción.) Tj
+T* (    La Ordenanza General, que contiene las disposiciones) Tj
+T* (reglamentarias de esta ley y que regula el procedimiento) Tj
+T* (administrativo, el proceso de Planificación urbana,) Tj
+T* (urbanización y construcción, y los standards técnicos) Tj
+T* (de diseño y construcción exigibles en los dos últimos.) Tj
+T* (    Las Normas Técnicas, que contienen y definen las) Tj
+T* (características técnicas de los proyectos, materiales) Tj
+T* (y sistemas de construcción y urbanización, para el) Tj
+T* (cumplimiento de los standards exigidos en la Ordenanza) Tj
+T* (General.) Tj
+T* (    Artículo 3°- Al Ministerio de Vivienda y Urbanismo) Tj
+T* (corresponderá proponer al Presidente de la República) Tj
+T* (las modificaciones que esta Ley requiera para adecuarla) Tj
+T* (al desarrollo nacional.) Tj
+T* (    Le corresponderá, igualmente, estudiar las) Tj
+T* (modificaciones que requiera la Ordenanza General de esta) Tj
+T* (Ley, para mantenerla al día con el avance tecnológico) Tj
+ET
+endstream
+endobj
+22 0 obj
+2952
+endobj
+23 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 24 0 R
+  /Rotate 0
+  >>
+endobj
+24 0 obj
+  <<
+  /Length 25 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (y desarrollo socio-económico, las que se aprobarán por) Tj
+T* (decreto supremo.) Tj
+T* (    Para los efectos indicados, podrá oir a los) Tj
+T* (respectivos Colegios Profesionales y asesorarse por los) Tj
+T* (técnicos que estime conveniente.) Tj
+T* (    Le corresponderá, asimismo, aprobar por decreto       LEY 18738) Tj
+T* (supremo los Planes Regionales de Desarrollo Urbano y los  ART UNICO) Tj
+T* (Planes Reguladores Intercomunales.                        1\)) Tj
+T* (    Le corresponderá, también, aprobar por decreto) Tj
+T* (supremo las Normas Técnicas que confeccionare el) Tj
+T* (Instituto Nacional de Normalización y los Reglamentos) Tj
+T* (de Instalaciones Sanitarias de Agua Potable y) Tj
+T* (Alcantarillado, y de Pavimentación.) Tj
+T* (    Los decretos supremos mencionados en los dos) Tj
+T* (últimos incisos precedentes, se dictarán por el) Tj
+T* (Ministerio de Vivienda y Urbanismo, por orden del) Tj
+T* (Presidente de la República.) Tj
+T* (     Artículo 4º- Al Ministerio de Vivienda y Urbanismo    LEY 19472) Tj
+T* (corresponderá, a través de la División de Desarrollo       ART UNICO, 1\)) Tj
+T* (Urbano, impartir las instrucciones para la aplicación      D.O.16.09.1996) Tj
+T* (de las disposiciones de esta Ley y su Ordenanza            NOTA ) Tj
+T* (General, mediante circulares, las que se mantendrán) Tj
+T* (a disposición de cualquier interesado. Asimismo, a) Tj
+T* (través de las Secretarías Regionales Ministeriales,) Tj
+T* (deberá supervigilar las disposiciones legales,) Tj
+T* (reglamentarias, administrativas y técnicas sobre) Tj
+T* (construcción y urbanización e interpretar las) Tj
+T* (disposiciones de los instrumentos de planificación) Tj
+T* (territorial.) Tj
+T* (     Las interpretaciones de los instrumentos de           LEY 19878) Tj
+T* (planificación territorial que las Secretarías              Art. único Nº 1) Tj
+T* (Regionales Ministeriales emitan en el ejercicio de         D.O. 31.05.2003) Tj
+T* (las facultades señaladas en este artículo, sólo ) Tj
+T* (regirán a partir de su notificación o publicación, ) Tj
+T* (según corresponda, y deberán evacuarse dentro de ) Tj
+T* (los plazos que señale la Ordenanza General.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (     El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 5°- A las Municipalidades corresponderá) Tj
+T* (aplicar esta Ley, la Ordenanza General, las Normas) Tj
+T* (Técnicas y demás Reglamentos, en sus acciones) Tj
+T* (administrativas relacionadas con la planificación) Tj
+T* (urbana, urbanización y construcción, y a través de) Tj
+T* (las acciones de los Servicios de utilidad pública) Tj
+T* (respectivos, debiendo velar, en todo caso, por el) Tj
+T* (cumplimiento de sus disposiciones.) Tj
+T* (    Artículo 6°- A los Intendentes y Gobernadores) Tj
+T* (corresponderá supervigilar que los bienes nacionales de) Tj
+T* (uso público se conserven como tales, impedir su) Tj
+T* (ocupación con otros fines y exigir su restitución, en) Tj
+T* (su caso, conforme a sus facultades.) Tj
+T* (    Artículo 7°.- Las disposiciones de la presente Ley) Tj
+T* (prevalecerán sobre cualquiera otra que verse sobre las) Tj
+T* (mismas materias, sin perjuicio de las disposiciones que) Tj
+T* (contenga el Decreto Ley de Reestructuración del) Tj
+ET
+endstream
+endobj
+25 0 obj
+3376
+endobj
+26 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 27 0 R
+  /Rotate 0
+  >>
+endobj
+27 0 obj
+  <<
+  /Length 28 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Ministerio de Vivienda y Urbanismo. En consecuencia, se) Tj
+T* (entenderán derogadas las disposiciones de otras leyes) Tj
+T* (que fueren contrarias a las de la presente Ley.) Tj
+T* (    CAPITULO II \(ARTS. 8-15\)) Tj
+T* (    DE LOS FUNCIONARIOS) Tj
+T* (    Artículo 8°.- En todas las Municipalidades se) Tj
+T* (consultará el cargo de Director de Obras, que deberá) Tj
+T* (ser desempeñado por un profesional con título) Tj
+T* (universitario. En aquellas comunas que tengan más de) Tj
+T* (40.000 habitantes, este cargo deberá ser desempeñado) Tj
+T* (por un arquitecto o ingeniero civil; en las demás) Tj
+T* (comunas podrá serlo, además, un constructor civil.) Tj
+T* (Para desempeñar el cargo se requerirá, además, ser) Tj
+T* (miembro activo inscrito en el Colegio Profesional) Tj
+T* (respectivo. Ningún otro funcionario municipal podrá) Tj
+T* (ejercer estas funciones.) Tj
+T* (    Cuando no hubiere oponentes al cargo, o cuando los) Tj
+T* (ingresos municipales no fueren suficientes para) Tj
+T* (costearlo, la Municipalidad deberá contratar, por un) Tj
+T* (período determinado, lo servicios de un profesional) Tj
+T* (particular o que desempeñe otro cargo en la misma comuna) Tj
+T* (o provincia. La remuneración por estos servicios se) Tj
+T* (fijará de acuerdo al arancel de honorarios del Colegio) Tj
+T* (respectivo, y será compatible con la de otros cargos) Tj
+T* (que desempeñe.) Tj
+T* (    Artículo 9°.- Serán funciones del Director de) Tj
+T* (Obras:) Tj
+T* (    a\) estudiar los antecedentes, dar los permisos de) Tj
+T* (ejecución de obras, conocer de los reclamos durante las) Tj
+T* (faenas y dar recepción final de ellas, todo de acuerdo) Tj
+T* (a las disposiciones sobre construcción contempladas en) Tj
+T* (esta Ley, la Ordenanza General, los Planes Reguladores,) Tj
+T* (sus Ordenanzas Locales y las Normas y Reglamentos) Tj
+T* (respectivos aprobados por el Ministerio de Vivienda y) Tj
+T* (Urbanismo;) Tj
+T* (    b\) dirigir las construcciones municipales que) Tj
+T* (ejecute directamente el Municipio, y supervigilar estas) Tj
+T* (construcciones cuando se contraten con terceros.) Tj
+T* (    Artículo 10.- Todas las Municipalidades que tengan) Tj
+T* (Plan Regulador aprobado, y cuya comuna tenga un centro) Tj
+T* (urbano de más de 50.000 habitantes, deberán consultar) Tj
+T* (el cargo de Asesor Urbanista desempeñado por un) Tj
+T* (arquitecto.) Tj
+T* (    Serán funciones del Asesor Urbanista:) Tj
+T* (    a\) estudiar el Plan Regulador Urbano-Comunal y) Tj
+T* (mantenerlo actualizado, propiciando las modificaciones) Tj
+T* (que sean necesarias, y preparar los Planos Seccionales) Tj
+T* (de detalle para su aplicación;) Tj
+T* (    b\) revisar todos los planos de subdivisión, loteo y) Tj
+T* (urbanización, cautelando su estricta concordancia con) Tj
+T* (las disposiciones del Plan Regulador y su Ordenanza) Tj
+T* (Local, y autorizar los "conjuntos armónicos".) Tj
+T* (    En este sentido será condición previa el informe) Tj
+T* (favorable del Asesor Urbanista, para que la Dirección) Tj
+T* (de Obras pueda extender los permisos de subdivisión,) Tj
+T* (loteo, urbanización y "conjuntos armónicos", y) Tj
+T* (    c\) estudiar los programas anuales de desarrollo) Tj
+T* (comunal para la materialización de los Planes) Tj
+T* (Reguladores, y que faciliten la confección del) Tj
+T* (presupuesto de inversiones de capital de la comuna.) Tj
+ET
+endstream
+endobj
+28 0 obj
+3385
+endobj
+29 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 30 0 R
+  /Rotate 0
+  >>
+endobj
+30 0 obj
+  <<
+  /Length 31 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 11.- A falta del Director de Obras, los) Tj
+T* (permisos serán otorgados por la Secretaría Regional) Tj
+T* (correspondiente del Ministerio de Vivienda y Urbanismo.) Tj
+T* (En estos casos, la Municipalidad sólo cobrará el 50%) Tj
+T* (de los derechos correspondientes.) Tj
+T* (    Artículo 12.- La Secretaría Regional) Tj
+T* (correspondiente del Ministerio de Vivienda y Urbanismo) Tj
+T* (podrá resolver las reclamaciones interpuestas en contra  LEY 19472) Tj
+T* (de las resoluciones dictadas por los Directores de       ART. UNICO) Tj
+T* (Obras. El reclamo deberá ser interpuesto en el plazo de  2\), a\) y b\)) Tj
+T* (30 días, contados desde la notificación administrativa   D.O.16.09.1996) Tj
+T* (del reclamante, aplicándose en este caso el              NOTA) Tj
+T* (procedimiento previsto en el artículo 118.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 13.- Prohíbese a los funcionarios) Tj
+T* (municipales intervenir en los estudios o la ejecución,) Tj
+T* (por cuenta de particulares, de las obras a que se) Tj
+T* (refiere la presente Ley, dentro de la comuna en que) Tj
+T* (ejercen sus funciones, cuando éstas deban ser aprobadas) Tj
+T* (por el Departamento Municipal donde ellos trabajan. Se) Tj
+T* (exceptúan de esta prohibición los proyectos u obras) Tj
+T* (relacionados con predios que pertenezcan, en dominio, al) Tj
+T* (empleado o a sus parientes hasta el 4° grado de) Tj
+T* (consanguinidad o 2° de afinidad, inclusive debiendo, en) Tj
+T* (estos casos, obtenerse previamente una autorización) Tj
+T* (especial de la Alcaldía.) Tj
+T* (    Los funcionarios que contravengan la prohibición) Tj
+T* (anterior serán sancionados por el Alcalde, hasta con su) Tj
+T* (destitución, previa instrucción del sumario) Tj
+T* (correspondiente.) Tj
+T* (    Artículo 14.- Los Directores de Obras y Asesores) Tj
+T* (Urbanistas deberán representar al Secretario Regional) Tj
+T* (de Vivienda y Urbanismo y a la Contraloría General de) Tj
+T* (la República las acciones ilegales del Municipio, que) Tj
+T* (vulneren las disposiciones legales y reglamentarias que) Tj
+T* (les corresponde aplicar.) Tj
+T* (    Artículo 15.- Si la División de Desarrollo Urbano      LEY 19472) Tj
+T* (del Ministerio de Vivienda y Urbanismo, o las              ART.UNICO, 3\)) Tj
+T* (Secretarías Regionales Ministeriales de Vivienda y         D.O.16.09.1996) Tj
+T* (Urbanismo, en el desempeño de sus labores o por denuncia   NOTA) Tj
+T* (fundada de cualquier persona, tuvieren conocimiento de) Tj
+T* (que algún funcionario, en el ejercicio de sus) Tj
+T* (funciones, ha contravenido las disposiciones de esta) Tj
+T* (ley, de su ordenanza general o de aquellas contenidas) Tj
+T* (en los instrumentos de planificación territorial) Tj
+T* (vigentes en la comuna, deberán solicitar la instrucción) Tj
+T* (del correspondiente sumario administrativo a la) Tj
+T* (Contraloría General de la República, debiendo informar) Tj
+T* (de ello al Alcalde respectivo, para los efectos legales) Tj
+T* (a que haya lugar y al Concejo Municipal, para su) Tj
+T* (conocimiento.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+ET
+endstream
+endobj
+31 0 obj
+3319
+endobj
+32 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 33 0 R
+  /Rotate 0
+  >>
+endobj
+33 0 obj
+  <<
+  /Length 34 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    CAPITULO III \(ARTS. 16-19\)) Tj
+T* (    DE LOS PROFESIONALES) Tj
+T* (    Artículo 16.- Toda obra sometida a las) Tj
+T* (disposiciones de la presente Ley deberá ser proyectada) Tj
+T* (y ejecutada por profesionales legalmente autorizados) Tj
+T* (para ello, de acuerdo a las normas que señale la) Tj
+T* (Ordenanza General.) Tj
+T* (    Artículo 17.- Para los efectos de la presente Ley,     LEY 19472) Tj
+T* (son arquitectos, ingenieros civiles, ingenieros            ART.UNICO, 4\)) Tj
+T* (constructores y constructores civiles, las personas que    D.O.16.09.1996) Tj
+T* (se encuentran legalmente habilitadas para ejercer dichas   NOTA ) Tj
+T* (profesiones, quienes serán responsables por sus acciones   LEY 20016) Tj
+T* (u omisiones en el ámbito de sus respectivas                Art. único Nº 1) Tj
+T* (competencias.                                              D.O. 27.05.2005) Tj
+T* (    La intervención de estos profesionales en una          NOTA 1) Tj
+T* (construcción requerirá acreditar que cuentan con patente) Tj
+T* (vigente en la comuna de su residencia o trabajo habitual.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* (NOTA 1:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 18.- El propietario primer vendedor de una    LEY 19472) Tj
+T* (construcción será responsable por todos los daños y        ART.UNICO Nº 5) Tj
+T* (perjuicios que provengan de fallas o defectos en ella,     D.O.16.09.1996) Tj
+T* (sea durante su ejecución o después de terminada, sin       NOTA) Tj
+T* (perjuicio de su derecho a repetir en contra de quienes) Tj
+T* (sean responsables de las fallas o defectos de) Tj
+T* (construcción que hayan dado origen a los daños y) Tj
+T* (perjuicios. En el caso de que la construcción no sea       LEY 20016) Tj
+T* (transferida, esta responsabilidad recaerá en el            Art. único Nº 2 a\)) Tj
+T* (propietario del inmueble respecto de terceros que sufran   D.O. 27.05.2005) Tj
+T* (daños o perjuicios como consecuencia de las fallas o       NOTA 1) Tj
+T* (defectos de aquélla.) Tj
+T* (    Los proyectistas serán responsables por los) Tj
+T* (errores en que hayan incurrido, si de éstos se han) Tj
+T* (derivado daños o perjuicios.) Tj
+T* (    Sin perjuicio de lo establecido en el N° 3 del) Tj
+T* (artículo 2003 del Código Civil, los constructores serán) Tj
+T* (responsables por las fallas, errores o defectos en la) Tj
+T* (construcción, incluyendo las obras ejecutadas por) Tj
+T* (subcontratistas y el uso de materiales o insumos) Tj
+T* (defectuosos, sin perjuicio de las acciones legales que) Tj
+T* (puedan interponer a su vez en contra de los proveedores,) Tj
+T* (fabricantes y subcontratistas.) Tj
+T* (    Las personas jurídicas serán solidariamente) Tj
+T* (responsables con el profesional competente que actúe) Tj
+T* (por ellas como proyectista o constructor respecto de) Tj
+ET
+endstream
+endobj
+34 0 obj
+3330
+endobj
+35 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 36 0 R
+  /Rotate 0
+  >>
+endobj
+36 0 obj
+  <<
+  /Length 37 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (los señalados daños y perjuicios.) Tj
+T* (    El propietario primer vendedor estará obligado a) Tj
+T* (incluir en la escritura pública de compraventa, una) Tj
+T* (nómina que contenga la individualización de los) Tj
+T* (proyectistas y constructores a quienes pueda asistir) Tj
+T* (responsabilidad de acuerdo al presente artículo.) Tj
+T* (Tratándose de personas jurídicas deberá individualizarse) Tj
+T* (a sus representantes legales. Las condiciones ofrecidas) Tj
+T* (en la publicidad se entenderán incorporadas al contrato) Tj
+T* (de compraventa. Los planos y las especificaciones) Tj
+T* (técnicas, definitivos, como asimismo el Libro de Obras) Tj
+T* (a que se refiere el artículo 143, se mantendrán en un) Tj
+T* (archivo en la Dirección de Obras Municipales a) Tj
+T* (disposición de los interesados.) Tj
+T* (    La responsabilidad civil a que se refiere este) Tj
+T* (artículo, tratándose de personas jurídicas que se hayan) Tj
+T* (disuelto, se hará efectiva respecto de quienes eran sus) Tj
+T* (representantes legales a la fecha de celebración del) Tj
+T* (contrato.) Tj
+T* (    Las acciones para hacer efectivas las                  LEY 20016) Tj
+T* (responsabilidades a que se refiere este artículo           Art. único Nº 2 b\)) Tj
+T* (prescribirán en los plazos que se señalan a                D.O. 27.05.2005) Tj
+T* (continuación:                                              NOTA 1) Tj
+T* () Tj
+T* (     1. En el plazo de diez años, en el caso de fallas o ) Tj
+T* (defectos que afecten a la estructura soportante del ) Tj
+T* (inmueble.) Tj
+T* (     2. En el plazo de cinco años, cuando se trate de ) Tj
+T* (fallas o defectos de los elementos constructivos o de ) Tj
+T* (las instalaciones.) Tj
+T* (     3. En el plazo de tres años, si hubiesen fallas o ) Tj
+T* (defectos que afecten a elementos de terminaciones o de ) Tj
+T* (acabado de las obras.) Tj
+T* (     En los casos de fallas o defectos no incorporados ) Tj
+T* (expresamente en los numerales anteriores o que no sean ) Tj
+T* (asimilables o equivalentes a los mencionados en éstos, ) Tj
+T* (las acciones prescribirán en el plazo de cinco años.) Tj
+T* (     Los plazos de prescripción se contarán desde la ) Tj
+T* (fecha de la recepción definitiva de la obra por parte de ) Tj
+T* (la Dirección de Obras Municipales, con excepción del ) Tj
+T* (señalado en el número 3, que se contará a partir de la ) Tj
+T* (fecha de la inscripción del inmueble a nombre del ) Tj
+T* (comprador en el Conservador de Bienes Raíces ) Tj
+T* (respectivo.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 19.- Las causas a que dieren lugar las        LEY 19472) Tj
+T* (acciones a que se refiere el inciso final del artículo     ART.UNICO, 6\)) Tj
+T* (18, se tramitarán conforme con las reglas del              D.O.16.09.1996) Tj
+ET
+endstream
+endobj
+37 0 obj
+3220
+endobj
+38 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 39 0 R
+  /Rotate 0
+  >>
+endobj
+39 0 obj
+  <<
+  /Length 40 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (procedimiento sumario establecido en el Título XI del      NOTA) Tj
+T* (Libro III del Código de Procedimiento Civil.) Tj
+T* (    Con todo, las partes podrán someter las) Tj
+T* (controversias a la resolución de un árbitro de derecho) Tj
+T* (que, en cuanto al procedimiento, tendrá las facultades) Tj
+T* (de arbitrador a que se refiere el artículo 223 del) Tj
+T* (Código Orgánico de Tribunales. El árbitro deberá ser) Tj
+T* (designado por el juez letrado competente y tener, a lo) Tj
+T* (menos, cinco años de ejercicio profesional.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    CAPITULO IV ) Tj
+T* (    DE LAS SANCIONES) Tj
+T* () Tj
+T* (    Artículo 20.- Toda infracción a las disposiciones      LEY 19472) Tj
+T* (de esta ley, a su ordenanza general y los instrumentos     ART.UNICO Nº 7) Tj
+T* (de planificación territorial que se apliquen en las        D.O.16.09.1996) Tj
+T* (respectivas comunas, será sancionada con multa, a          NOTA) Tj
+T* (beneficio municipal, no inferior a un 0,5% ni superior) Tj
+T* (al 20% del presupuesto de la obra, a que se refiere el) Tj
+T* (artículo 126 de la presente ley. En caso de no existir) Tj
+T* (presupuesto, el juez podrá disponer la tasación de la) Tj
+T* (obra por parte de un perito o aplicar una multa que no) Tj
+T* (será inferior a una ni superior a cien unidades) Tj
+T* (tributarias mensuales. Todo lo anterior es sin) Tj
+T* (perjuicio de la paralización o demolición de todo o) Tj
+T* (parte de la obra, según procediere, a menos que el) Tj
+T* (hecho sea constitutivo de delito o tenga una sanción) Tj
+T* (especial determinada en esta ley o en otra.) Tj
+T* (    La municipalidad que corresponda, la Secretaría) Tj
+T* (Regional Ministerial de Vivienda y Urbanismo respectiva) Tj
+T* (o cualquier persona podrán denunciar ante el Juzgado de) Tj
+T* (Policía Local correspondiente, el incumplimiento de las) Tj
+T* (disposiciones aludidas en el inciso anterior. La) Tj
+T* (denuncia deberá ser fundada y acompañarse de los medios) Tj
+T* (probatorios de que se disponga.) Tj
+T* (    Las acciones relativas a las infracciones a que se     LEY 20016) Tj
+T* (refiere este artículo, prescribirán al momento de la       Art. único Nº 3) Tj
+T* (recepción de la obra por parte de la Dirección de Obras    D.O. 27.05.2005) Tj
+T* (Municipales.                                               NOTA 1) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* (NOTA 1:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 21.- Las infracciones a las disposiciones     LEY 19472) Tj
+ET
+endstream
+endobj
+40 0 obj
+3060
+endobj
+41 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 42 0 R
+  /Rotate 0
+  >>
+endobj
+42 0 obj
+  <<
+  /Length 43 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (de esta ley, de su ordenanza general y de los              Art. único Nº 8) Tj
+T* (instrumentos de planificación territorial serán de         D.O.16.09.1996) Tj
+T* (conocimiento del Juez de Policía Local respectivo.         NOTA) Tj
+T* (Tratándose de la responsabilidad de las personas) Tj
+T* (jurídicas se estará a lo dispuesto en el artículo 28 de) Tj
+T* (la ley N° 18.287. En caso de disolución, mientras esté) Tj
+T* (pendiente el plazo de prescripción, las acciones se) Tj
+T* (seguirán en contra de los que eran sus representantes) Tj
+T* (legales a la fecha de la infracción.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 22.- Los funcionarios fiscales y) Tj
+T* (municipales serán civil, criminal y administrativamente) Tj
+T* (responsables de los actos, resoluciones u omisiones) Tj
+T* (ilegales que cometan en la aplicación de esta Ley.) Tj
+T* (    Artículo 23.- El Ministerio de Vivienda y Urbanismo) Tj
+T* (o los Secretarios Regionales del mismo podrán requerir) Tj
+T* (del Consejo de Defensa del Estado la iniciación de las) Tj
+T* (acciones criminales que procedan cuando comprobaren que) Tj
+T* (el Alcalde de una Municipalidad ha incurrido en) Tj
+T* (violaciones de las disposiciones de la presente Ley, su) Tj
+T* (Ordenanza General u Ordenanzas Locales, sin que sea) Tj
+T* (necesaria, para estos efectos, la declaración previa de) Tj
+T* (ilegalidad de los decretos del Alcalde.) Tj
+T* (    Será causal de remoción de los Alcaldes el) Tj
+T* (incumplimiento de las obligaciones que impone la) Tj
+T* (presente Ley, especialmente en los casos de) Tj
+T* (interferencia en el procedimiento de denuncia y) Tj
+T* (sanciones contemplado en este Capítulo.) Tj
+T* (    Artículo 24.- los Notarios y Conservadores de) Tj
+T* (Bienes Raíces que otorgaren escrituras o efectuaren) Tj
+T* (inscripciones en sus registros en contravención a las) Tj
+T* (disposiciones de esta Ley y de las Ordenanzas) Tj
+T* (incurrirán en la pena de suspensión de su oficio hasta) Tj
+T* (el término de seis meses, sin perjuicio de las) Tj
+T* (responsabilidades civiles que pudieren afectarles. La) Tj
+T* (suspensión será decretada por la Corte de Apelaciones) Tj
+T* (respectiva.) Tj
+T* (    Artículo 25.- El Ministerio de Vivienda y Urbanismo,   LEY 19472) Tj
+T* (respecto de las viviendas que cuenten con financiamiento   Art. único Nº 9) Tj
+T* (estatal para su construcción o adquisición, deberá         D.O.16.09.1996) Tj
+T* (disponer, para cada programa, en la forma que el           NOTA) Tj
+T* (respectivo reglamento determine, los mecanismos que) Tj
+T* (aseguren la calidad de la construcción.) Tj
+T* (    En estos mismos casos, los Servicios de Vivienda y) Tj
+T* (Urbanización, directamente o a través de terceros,) Tj
+T* (podrán hacerse parte en las causas a que dieren lugar) Tj
+T* (las acciones a que se refiere el inciso final del) Tj
+T* (artículo 18.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+ET
+endstream
+endobj
+43 0 obj
+3235
+endobj
+44 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 45 0 R
+  /Rotate 0
+  >>
+endobj
+45 0 obj
+  <<
+  /Length 46 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* () Tj
+T* (    Artículo 26.- DEROGADO.-                               LEY 19472) Tj
+T* (                                                           Art. único Nº 10) Tj
+T* (                                                           D.O.16.09.1996) Tj
+T* (                                                           NOTA ) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    TITULO II \(ARTS. 27-104\)) Tj
+T* (    DE LA PLANIFICACION URBANA) Tj
+T* (    CAPITULO I \(ART. 27-27\)) Tj
+T* (    DEFINICIONES) Tj
+T* (    Artículo 27.- Se entenderá por Planificación) Tj
+T* (Urbana, para los efectos de la presente Ley, el proceso) Tj
+T* (que se efectúa para orientar y regular el desarrollo de) Tj
+T* (los centros urbanos en función de una política) Tj
+T* (nacional, regional y comunal de desarrollo) Tj
+T* (socio-económico.) Tj
+T* (    Los objetivos y metas que dicha política nacional) Tj
+T* (establezca para el desarrollo urbano serán incorporados) Tj
+T* (en la planificación urbana en todos sus niveles.) Tj
+T* (    CAPITULO II \(ARTS. 28-51\)) Tj
+T* (    DE LA PLANIFICACION URBANA) Tj
+T* (    EN PARTICULAR) Tj
+T* (    Artículo 28.- La planificación urbana se) Tj
+T* (efectuará en cuatro niveles de acción, que) Tj
+T* (corresponden a cuatro tipos de áreas: nacional,) Tj
+T* (regional, intercomunal y comunal.) Tj
+T* (    Párrafo 1° \(ART. 29-29\)) Tj
+T* (    De la Planificación Urbana Nacional) Tj
+T* (    Artículo 29.- Corresponderá al Ministerio de) Tj
+T* (Vivienda y Urbanismo la planificación del desarrollo) Tj
+T* (urbano a nivel nacional. Le corresponderá, asimismo, a) Tj
+T* (través de la Ordenanza General de la presente Ley,) Tj
+T* (establecer normas específicas para los estudios,) Tj
+T* (revisión, aprobación y modificaciones de los) Tj
+T* (instrumentos legales a través de los cuales se aplique) Tj
+T* (la planificación urbana en los niveles antes señalados.) Tj
+T* (    Estos instrumentos, sancionados por la autoridad) Tj
+T* (correspondiente, tendrán fuerza legal en su) Tj
+T* (aplicación, incluso para las reparticiones públicas.) Tj
+T* (    Párrafo 2° \(ARTS. 30-33\)) Tj
+T* (    De la Planificación Urbana Regional) Tj
+T* (    Artículo 30.- Se entenderá por Planificación) Tj
+T* (Urbana Regional aquella que orienta el desarrollo de los) Tj
+T* (centros urbanos de las regiones.) Tj
+T* (    Artículo 31.- La Planificación Urbana Regional se) Tj
+T* (realizará por medio de un Plan Regional de Desarrollo) Tj
+T* (Urbano, que fijará los roles de los centros urbanos,) Tj
+T* (sus áreas de influencia recíproca, relaciones) Tj
+T* (gravitacionales, metas de crecimiento, etc.) Tj
+T* (    Artículo 32.- El Plan Regional de Desarrollo Urbano) Tj
+T* (será confeccionado por las Secretarías Regionales del) Tj
+T* (Ministerio de la Vivienda y Urbanismo, de acuerdo con) Tj
+T* (las políticas regionales de desarrollo) Tj
+T* (socio-económico.) Tj
+ET
+endstream
+endobj
+46 0 obj
+3042
+endobj
+47 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 48 0 R
+  /Rotate 0
+  >>
+endobj
+48 0 obj
+  <<
+  /Length 49 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 33.- Los planes regionales de desarrollo      LEY 19778) Tj
+T* (urbano serán aprobados por el consejo regional y           Art. 3º Nº 1) Tj
+T* (promulgados por el intendente respectivo, debiendo sus     D.O. 10.12.2001) Tj
+T* (disposiciones incorporarse en los planes reguladores ) Tj
+T* (metropolitanos, intercomunales y comunales.) Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 3° \(ARTS. 34-40\)) Tj
+T* (    De la Planificación Urbana Intercomunal) Tj
+T* (    Artículo 34.- Se entenderá por Planificación) Tj
+T* (Urbana Intercomunal aquella que regula el desarrollo) Tj
+T* (físico de las áreas urbanas y rurales de diversas) Tj
+T* (comunas que, por sus relaciones, se integran en una) Tj
+T* (unidad urbana.) Tj
+T* (    Cuando esta unidad sobrepase los 500.000 habitantes,) Tj
+T* (le corresponderá la categoría de área metropolitana) Tj
+T* (para los efectos de su planificación.) Tj
+T* (    La Planificación Urbana Intercomunal se realizará) Tj
+T* (por medio del Plan Regulador Intercomunal o del Plan) Tj
+T* (Regulador Metropolitano, en su caso, instrumentos) Tj
+T* (constituidos por un conjunto de normas y acciones para) Tj
+T* (orientar y regular el desarrollo físico del área) Tj
+T* (correspondiente.) Tj
+T* (    Las disposiciones de los artículos siguientes,) Tj
+T* (referentes al Plan Regulador Intercomunal, regirán) Tj
+T* (igualmente para los Planes Reguladores Metropolitanos.) Tj
+T* (    Artículo 35.- El Plan Regulador Intercomunal) Tj
+T* (estará compuesto de:) Tj
+T* (    a\) Una memoria explicativa, que contendrá los) Tj
+T* (objetivos, metas y programas de acción;) Tj
+T* (    b\) Una Ordenanza, que contendrá las disposiciones) Tj
+T* (reglamentarias pertinentes, y) Tj
+T* (    c\) Los Planos, que expresen gráficamente las) Tj
+T* (disposiciones sobre zonificación general, equipamiento,) Tj
+T* (relaciones viales, áreas de desarrollo prioritario,) Tj
+T* (límites de extensión urbana, densidades, etc.) Tj
+T* (    Para los efectos de su aprobación, modificación y) Tj
+T* (aplicación, estos documentos constituyen un solo cuerpo) Tj
+T* (legal.) Tj
+T* (    Artículo 36.- El Plan Regulador Intercomunal será) Tj
+T* (confeccionado por la Secretaría Regional de Vivienda y) Tj
+T* (Urbanismo, con consulta a las Municipalidades) Tj
+T* (correspondientes e Instituciones Fiscales que se estime) Tj
+T* (necesario, sin perjuicio de las normas especiales que se) Tj
+T* (establezcan para el Area Metropolitana.) Tj
+T* (    Elaborado un Plan Regulador Intercomunal, las) Tj
+T* (Municipalidades respectivas deberán pronunciarse sobre) Tj
+T* (dicho Plan dentro de un plazo de 60 días, contados) Tj
+T* (desde su conocimiento oficial, vencido el cual la falta) Tj
+T* (de pronunciamiento será considerada como aprobación.) Tj
+T* (    Previa autorización de la Secretaría Regional) Tj
+T* (correspondiente, un grupo de Municipalidades afectas a) Tj
+T* (relaciones intercomunales podrán confeccionar) Tj
+T* (directamente un Plan Regulador Intercomunal, el que) Tj
+T* (deberá ser aprobado por dicha Secretaría, con consulta) Tj
+T* (a los organismos fiscales que estime necesario, sin) Tj
+T* (perjuicio de lo dispuesto en el artículo siguiente.) Tj
+T* (    Artículo 37.- Los Planes Reguladores Intercomunales) Tj
+T* (serán aprobados por decreto supremo del Ministerio de) Tj
+T* (Vivienda y Urbanismo, dictado por orden del Presidente) Tj
+ET
+endstream
+endobj
+49 0 obj
+3379
+endobj
+50 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 51 0 R
+  /Rotate 0
+  >>
+endobj
+51 0 obj
+  <<
+  /Length 52 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (de la República, previa autorización del Intendente      LEY 18738) Tj
+T* (respectivo, y sus disposiciones serán obligatorias en    ART UNICO) Tj
+T* (la elaboración de los Planes Reguladores Comunales.      3\)) Tj
+T* (    Artículo 38.- Las disposiciones de los Planes) Tj
+T* (Reguladores Intercomunales, que constituyan alteraciones) Tj
+T* (a las disposiciones de los Planes Reguladores Comunales) Tj
+T* (existentes, se entenderán automáticamente incorporadas) Tj
+T* (a éstos como modificaciones.) Tj
+T* (    En las comunas que carezcan de Plan Regulador) Tj
+T* (Comunal harán los efectos de tal las disposiciones del) Tj
+T* (Plan Regulador Intercomunal, sin perjuicio de la) Tj
+T* (exigencia establecida en la letra a\) del artículo 47.) Tj
+T* (    Artículo 39.- Las Secretarías Regionales del) Tj
+T* (Ministerio de Vivienda y Urbanismo calificarán en cada) Tj
+T* (caso:) Tj
+T* (    a\) Las áreas sujetas a Planificación Urbana) Tj
+T* (Intercomunal;) Tj
+T* (    b\) Las comunas que, para los efectos de la) Tj
+T* (confección del Plan Regulador Comunal, estén sujetas a) Tj
+T* (la aprobación previa del Plan Regulador Intercomunal.) Tj
+T* (    Artículo 40.- Las Secretarías Regionales del) Tj
+T* (Ministerio de Vivienda y Urbanismo podrán designar) Tj
+T* (comisiones para asesorar en los estudios de la) Tj
+T* (Planificación Urbana Intercomunal y, posteriormente,) Tj
+T* (coordinar la programación y realización de los mismos) Tj
+T* (a través de los planes de obras estatales y) Tj
+T* (municipales.) Tj
+T* (    En las áreas metropolitanas la Secretaría Regional) Tj
+T* (del Ministerio de Vivienda y Urbanismo podrá asesorar a) Tj
+T* (las Juntas de Alcaldes que se organicen para el estudio) Tj
+T* (y resolución de problemas comunes a varios municipios,) Tj
+T* (y que se aborden en la forma dispuesta en la Ley) Tj
+T* (Orgánica de Municipalidades.) Tj
+T* (    Párrafo 4° \(ARTS. 41-51\)) Tj
+T* (    De la Planificación Urbana Comunal) Tj
+T* (    Artículo 41.- Se entenderá por Planificación) Tj
+T* (Urbana Comunal aquella que promueve el desarrollo) Tj
+T* (armónico del territorio comunal, en especial de sus) Tj
+T* (centros poblados, en concordancia con las metas) Tj
+T* (regionales de desarrollo económico-social.) Tj
+T* (    La planificación urbana comunal se realizará por) Tj
+T* (medio del Plan Regulador Comunal.) Tj
+T* (    El Plan Regulador es un instrumento constituido por) Tj
+T* (un conjunto de normas sobre adecuadas condiciones de) Tj
+T* (higiene y seguridad en los edificios y espacios urbanos,) Tj
+T* (y de comodidad en la relación funcional entre las zonas) Tj
+T* (habitacionales, de trabajo, equipamiento y) Tj
+T* (esparcimiento.) Tj
+T* (    Sus disposiciones se refieren al uso del suelo o) Tj
+T* (zonificación, localización del equipamiento) Tj
+T* (comunitario, estacionamiento, jerarquización de la) Tj
+T* (estructura vial, fijación de límites urbanos,) Tj
+T* (densidades y determinación de prioridades en la) Tj
+T* (urbanización de terrenos para la expansión de la) Tj
+T* (ciudad, en función de la factibilidad de ampliar o) Tj
+T* (dotar de redes sanitarias y energéticas, y demás) Tj
+T* (aspectos urbanísticos.) Tj
+T* (    Artículo 42.- El Plan Regulador Comunal estará) Tj
+T* (compuesto de:) Tj
+T* (    a\) Una Memoria explicativa, que contendrá los) Tj
+ET
+endstream
+endobj
+52 0 obj
+3321
+endobj
+53 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 54 0 R
+  /Rotate 0
+  >>
+endobj
+54 0 obj
+  <<
+  /Length 55 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (antecedentes socio-económicos; los relativos a) Tj
+T* (crecimiento demográfico, desarrollo industrial y demás) Tj
+T* (antecedentes técnicos que sirvieron de base a las) Tj
+T* (proposiciones, y los objetivos, metas y prioridades de) Tj
+T* (las obras básicas proyectadas;) Tj
+T* (    b\) Un estudio de factibilidad para ampliar o dotar) Tj
+T* (de agua potable y alcantarillado, en relación con el) Tj
+T* (crecimiento urbano proyectado; estudio que requerirá) Tj
+T* (consulta previa al Servicio Sanitario correspondiente de) Tj
+T* (la Región;) Tj
+T* (    c\) Una Ordenanza Local que contendrá las) Tj
+T* (disposiciones reglamentarias pertinentes, y) Tj
+T* (    d\) Los planos, que expresan gráficamente las) Tj
+T* (disposiciones sobre uso de suelo, zonificación,) Tj
+T* (equipamiento, relaciones viales, límite urbano, áreas) Tj
+T* (prioritarias de desarrollo urbano, etc.) Tj
+T* (    Para los efectos de su aprobación, modificación y) Tj
+T* (aplicación, estos documentos constituyen un solo cuerpo) Tj
+T* (legal.) Tj
+T* (    Artículo 43.- El procedimiento para la elaboración     LEY 19778) Tj
+T* (y aprobación de los planes reguladores comunales se        Art. 3º Nº 2) Tj
+T* (regirá por lo dispuesto en los incisos siguientes.         D.O. 10.12.2001) Tj
+T* () Tj
+T* (    El proyecto de plan regulador comunal será ) Tj
+T* (preparado por la municipalidad respectiva. Elaborado ) Tj
+T* (el proyecto, el concejo comunal, antes de iniciar su ) Tj
+T* (discusión, deberá:) Tj
+T* () Tj
+T* (    1. Informar a los vecinos, especialmente a los ) Tj
+T* (afectados, acerca de las principales características del ) Tj
+T* (instrumento de planificación propuesto y de sus efectos, ) Tj
+T* (lo que se hará de acuerdo con lo que señale la Ordenanza ) Tj
+T* (General de Urbanismo y Construcciones.) Tj
+T* (  ) Tj
+T* (    2. Realizar una o más audiencias públicas en ) Tj
+T* (los barrios o sectores más afectados para exponer ) Tj
+T* (el proyecto a la comunidad, en la forma indicada en) Tj
+T* (la ley Orgánica Constitucional de Municipalidades.) Tj
+T* (  ) Tj
+T* (    3. Consultar la opinión del consejo económico y ) Tj
+T* (social comunal, en sesión citada expresamente para ) Tj
+T* (este efecto.) Tj
+T* (  ) Tj
+T* (    4. Exponer el proyecto a la comunidad, con ) Tj
+T* (posterioridad a la o las audiencias públicas, por ) Tj
+T* (un plazo de treinta días.) Tj
+T* (  ) Tj
+T* (    5. Vencido dicho plazo se consultará a la ) Tj
+T* (comunidad, por medio de una nueva audiencia pública, ) Tj
+T* (y al consejo económico y social comunal, en sesión ) Tj
+T* (convocada especialmente para este efecto. En dicha ) Tj
+T* (sesión deberá presentarse un informe que sintetice ) Tj
+T* (las observaciones recibidas.) Tj
+T* () Tj
+T* (    6. Los interesados podrán formular, por escrito, ) Tj
+T* (las observaciones fundadas que estimen convenientes ) Tj
+T* (acerca del proyecto hasta quince días después de la ) Tj
+T* (audiencia pública a que se refiere el número anterior.) Tj
+T* (  ) Tj
+T* (    El lugar y plazo de exposición del proyecto y el ) Tj
+ET
+endstream
+endobj
+55 0 obj
+3063
+endobj
+56 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 57 0 R
+  /Rotate 0
+  >>
+endobj
+57 0 obj
+  <<
+  /Length 58 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (lugar, fecha y hora de las audiencias públicas deberán ) Tj
+T* (comunicarse previamente por medio de dos avisos ) Tj
+T* (publicados, en semanas distintas, en algún diario de ) Tj
+T* (los de mayor circulación en la comuna o mediante ) Tj
+T* (avisos radiales o en la forma de comunicación masiva ) Tj
+T* (más adecuada o habitual en la comuna.) Tj
+T* (  ) Tj
+T* (    Cumplidos los trámites anteriores, el alcalde ) Tj
+T* (deberá presentar el proyecto para la aprobación del ) Tj
+T* (concejo comunal, junto con las observaciones que hayan ) Tj
+T* (hecho llegar los interesados, en un plazo no inferior ) Tj
+T* (a quince ni superior a treinta días, contado desde la ) Tj
+T* (audiencia pública indicada en el Nº 5.) Tj
+T* (  ) Tj
+T* (    El concejo deberá pronunciarse sobre las ) Tj
+T* (proposiciones que contenga el proyecto de plan ) Tj
+T* (regulador, analizando las observaciones recibidas y ) Tj
+T* (adoptando acuerdos respecto de cada una de las materias ) Tj
+T* (impugnadas. En caso de que aprobare modificaciones, ) Tj
+T* (deberá cautelar que éstas no impliquen nuevos gravámenes ) Tj
+T* (o afectaciones desconocidas por la comunidad. No ) Tj
+T* (podrá, en todo caso, pronunciarse sobre materias o ) Tj
+T* (disposiciones no contenidas en el aludido proyecto, ) Tj
+T* (salvo que el proyecto modificado se exponga nuevamente ) Tj
+T* (conforme a lo dispuesto en el inciso segundo.) Tj
+T* (  ) Tj
+T* (    El proyecto aprobado será remitido, con todos sus ) Tj
+T* (antecedentes, a la secretaría regional ministerial de ) Tj
+T* (Vivienda y Urbanismo respectiva. Dicha secretaría ) Tj
+T* (ministerial dentro del plazo de sesenta días, contado ) Tj
+T* (desde su recepción, revisará el proyecto y emitirá un ) Tj
+T* (informe sobre sus aspectos técnicos.) Tj
+T* (  ) Tj
+T* (    Si la comuna está normada por un plan regulador ) Tj
+T* (metropolitano o intercomunal, el informe de la ) Tj
+T* (secretaría regional ministerial será remitido ) Tj
+T* (directamente al municipio, junto con el proyecto y sus ) Tj
+T* (antecedentes, con copia al gobierno regional. Si el ) Tj
+T* (informe es favorable, el proyecto de plan regulador o de ) Tj
+T* (plan seccional será promulgado por decreto alcaldicio.) Tj
+T* (  ) Tj
+T* (    Si el proyecto no se ajustare al plan regulador ) Tj
+T* (metropolitano o intercomunal, la secretaría regional ) Tj
+T* (ministerial de Vivienda y Urbanismo deberá emitir un ) Tj
+T* (informe negativo y lo remitirá, conjuntamente con el ) Tj
+T* (proyecto y sus antecedentes, al municipio, el cual podrá ) Tj
+T* (modificar el proyecto para concordarlo con el plan ) Tj
+T* (regulador metropolitano o intercomunal o insistir en su ) Tj
+T* (proyecto. En este último caso remitirá el proyecto, con ) Tj
+T* (todos los antecedentes, incluido el informe negativo de ) Tj
+T* (la secretaría regional ministerial de Vivienda y ) Tj
+T* (Urbanismo, al gobierno regional para que éste se ) Tj
+T* (pronuncie sobre los aspectos objetados.) Tj
+T* (  ) Tj
+T* (    Si no existiera un plan regulador metropolitano ) Tj
+T* (o intercomunal que incluya el territorio comunal, ) Tj
+T* (el informe de la secretaría regional ministerial de ) Tj
+T* (Vivienda y Urbanismo será remitido, junto con el ) Tj
+T* (proyecto y sus antecedentes, al gobierno regional ) Tj
+T* (para su aprobación por el consejo regional, con ) Tj
+ET
+endstream
+endobj
+58 0 obj
+3341
+endobj
+59 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 60 0 R
+  /Rotate 0
+  >>
+endobj
+60 0 obj
+  <<
+  /Length 61 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (copia al municipio.) Tj
+T* (  ) Tj
+T* (    El pronunciamiento del consejo regional se hará ) Tj
+T* (sobre la base del informe técnico de la secretaría ) Tj
+T* (regional ministerial. Si el informe fuere desfavorable, ) Tj
+T* (el consejo sólo podrá aprobar el proyecto mediante ) Tj
+T* (acuerdo fundado.) Tj
+T* (  ) Tj
+T* (    Aprobado el proyecto de plan regulador en la ) Tj
+T* (forma establecida en los tres incisos anteriores, ) Tj
+T* (será promulgado por resolución del intendente.) Tj
+T* (  ) Tj
+T* (    Los actos administrativos que promulguen la ) Tj
+T* (aprobación o modificación de un instrumento de ) Tj
+T* (planificación territorial deberán publicarse en el ) Tj
+T* (Diario Oficial, junto con la respectiva ordenanza. Los ) Tj
+T* (planos y la ordenanza correspondiente se archivarán en ) Tj
+T* (los Conservadores de Bienes Raíces respectivos, en la ) Tj
+T* (División de Desarrollo Urbano del Ministerio de Vivienda ) Tj
+T* (y Urbanismo, en la secretaría regional del Ministerio de ) Tj
+T* (Vivienda y Urbanismo respectiva y en las municipalidades ) Tj
+T* (correspondientes.) Tj
+T* () Tj
+T* (    La Ordenanza General contemplará normas relativas ) Tj
+T* (a los "conjuntos armónicos de edificación", en base ) Tj
+T* (a los cuales se podrá autorizar excepciones a la) Tj
+T* (Ordenanza Local del Plan Regulador Comunal.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 44.- El estudio y aprobación del Plan) Tj
+T* (Regulador Comunal, así como sus revisiones,) Tj
+T* (reactualización y modificaciones posteriores, se) Tj
+T* (efectuarán de acuerdo con las disposiciones de esta Ley  LEY 18738) Tj
+T* (y con las normas para confección de planes reguladores   ART UNICO) Tj
+T* (que establezca el Ministerio de Vivienda y Urbanismo,    5\)) Tj
+T* (según la población y rango regional de las comunas.) Tj
+T* (    Artículo 45.- Las modificaciones al Plan Regulador   LEY 18738) Tj
+T* (Comunal se sujetarán, en lo pertinente, al mismo         ART UNICO) Tj
+T* (procedimiento señalado en el inciso primero del artículo 6\)) Tj
+T* (43.) Tj
+T* (    Sin embargo, respecto de las enmiendas que incidan) Tj
+T* (en las materias que se indican a continuación, las) Tj
+T* (municipalidades podrán omitir el trámite previsto en la) Tj
+T* (letra c\) del inciso primero del artículo 43, y, en tal) Tj
+T* (caso, las publicaciones que dispone la letra d\) se) Tj
+T* (entenderán referidas al acuerdo del Consejo de) Tj
+T* (Desarrollo Comunal:) Tj
+T* (    1.- Localización del equipamiento vecinal en los) Tj
+T* (barrios o sectores;) Tj
+T* (    2.- Vialidad interna, dentro de los nuevos) Tj
+T* (proyectos cuyos trazados no alteren los consultados) Tj
+T* (en el Plano Regulador Comunal o Intercomunal, y) Tj
+T* (    3.- Disposiciones varias relativas a las condiciones) Tj
+T* (de edificación y urbanización dentro de los márgenes que) Tj
+T* (establezca la Ordenanza General de esta ley.) Tj
+T* (    Estas modificaciones no podrán ser contrarias a los) Tj
+T* (preceptos de este cuerpo legal y sus reglamentos.) Tj
+T* (    Artículo 46.- En los casos en que, para la) Tj
+T* (aplicación del Plan Regulador Comunal, se requiera de) Tj
+T* (estudios más detallados, ellos se harán mediante) Tj
+ET
+endstream
+endobj
+61 0 obj
+3202
+endobj
+62 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 63 0 R
+  /Rotate 0
+  >>
+endobj
+63 0 obj
+  <<
+  /Length 64 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Planos Seccionales en que se fijarán con exactitud los) Tj
+T* (trazados y anchos de calles, zonificación detallada,) Tj
+T* (las áreas de construcción obligatoria, de) Tj
+T* (remodelación, conjuntos armónicos, terrenos afectados) Tj
+T* (por expropiaciones, etc.) Tj
+T* (    En las comunas en que no exista Plan Regulador       LEY 18738) Tj
+T* (podrán estudiarse Planes Seccionales, los que se         ART UNICO) Tj
+T* (aprobarán conforme a lo prescrito en el inciso primero   7\)) Tj
+T* (del artículo 43.) Tj
+T* (    La confección de Planos Seccionales tendrá) Tj
+T* (carácter obligatorio en las comunas de más de 50.000) Tj
+T* (habitantes que cuenten con Asesor Urbanista, para los) Tj
+T* (efectos de fijar las líneas oficiales de edificación,) Tj
+T* (y lo será también en aquellas que califique) Tj
+T* (especialmente la Secretaría Regional correspondiente) Tj
+T* (del Ministerio de Vivienda y Urbanismo, por sus) Tj
+T* (condiciones topográficas, o por urgencia en) Tj
+T* (materializar determinadas obras públicas o) Tj
+T* (expropiaciones.) Tj
+T* (    Artículo 47.- Deberán contar con el Plan Regulador) Tj
+T* (Comunal:) Tj
+T* (    a\) las comunas que estén sujetas a Planificación) Tj
+T* (Urbana-Regional o Urbana-Intercomunal;) Tj
+T* (    b\) todos aquellos centros poblados de una comuna que) Tj
+T* (tengan una población de 7.000 habitantes o más;) Tj
+T* (    c\) aquellos centros poblados de una comuna que sean) Tj
+T* (afectados por una destrucción total o parcial, y) Tj
+T* (    d\) aquellos centros poblados de una comuna que la     LEY 18738) Tj
+T* (Secretaría Regional Ministerial de Vivienda y Urbanismo   ART UNICO) Tj
+T* (respectiva disponga mediante resolución.  La referida     8\)) Tj
+T* (Secretaría Regional Ministerial podrá encargarse de la) Tj
+T* (confección del Plan, debiendo, en todo caso, enviarlo) Tj
+T* (a la municipalidad correspondiente para su tramitación) Tj
+T* (de acuerdo al procedimiento señalado en el inciso) Tj
+T* (primero del artículo 43.) Tj
+T* (    Artículo 48.- Las Municipalidades confeccionarán o) Tj
+T* (reactualizarán su Plan Regulador Comunal dentro de los) Tj
+T* (plazos que fijare la Secretaría Regional Ministerial de   LEY 18738) Tj
+T* (Vivienda y Urbanismo, debiendo someterlo a su             ART UNICO) Tj
+T* (aprobación para los efectos de su vigencia.  Si las       9\)) Tj
+T* (Municipalidades no cumplieran con esta obligación dentro) Tj
+T* (del plazo fijado, la Secretaría Regional Ministerial) Tj
+T* (respectiva lo hará por cuenta de ellas.  En este caso,) Tj
+T* (la Municipalidad respectiva deberá modificar el) Tj
+T* (presupuesto municipal para el año siguiente, creando) Tj
+T* (la partida con cargo a cualquier ítem variable del) Tj
+T* (mismo presupuesto, para atender el gasto) Tj
+T* (correspondiente. Si así no lo hiciere, el Intendente) Tj
+T* (Regional dispondrá la modificación que corresponda del) Tj
+T* (presupuesto municipal.) Tj
+T* (    Artículo 49.- Las Municipalidades con obligación) Tj
+T* (de tener Plan Regulador Comunal podrán designar una) Tj
+T* (comisión, con representación municipal y particular,) Tj
+T* (para asesorar en su estudio y coordinar su programación) Tj
+T* (y realización. Los cargos de la comisión serán) Tj
+T* (ad-honorem y, además, voluntarios para los) Tj
+T* (particulares. Asimismo, las Municipalidades podrán) Tj
+T* (solicitar la designación de funcionarios de la) Tj
+T* (Administración Pública para que integren esta) Tj
+T* (comisión asesora.) Tj
+ET
+endstream
+endobj
+64 0 obj
+3487
+endobj
+65 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 66 0 R
+  /Rotate 0
+  >>
+endobj
+66 0 obj
+  <<
+  /Length 67 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 50.- En casos especiales de proyectos de) Tj
+T* (los Servicios Regionales o Metropolitano de Vivienda y) Tj
+T* (Urbanización éstos podrán proponer al Ministerio de) Tj
+T* (Vivienda y Urbanismo a través de la respectiva) Tj
+T* (Secretaría Regional, las modificaciones a los Planes) Tj
+T* (Reguladores que estimen necesario. El Ministerio) Tj
+T* (aprobará dichas modificaciones previo informe de la) Tj
+T* (Municipalidad respectiva, la que deberá evacuarlo en el) Tj
+T* (plazo de 30 días. Vencido este plazo, el Ministerio) Tj
+T* (podrá resolver, aunque no se haya emitido dicho) Tj
+T* (informe.) Tj
+T* (    Artículo 51.- Los trazados de los Planes) Tj
+T* (Reguladores Comunales se realizarán por el municipio) Tj
+T* (mediante:) Tj
+T* (    a\) las expropiaciones derivadas de la declaración) Tj
+T* (de utilidad pública contenida en el artículo 59;) Tj
+T* (    b\) las adquisiciones hechas en licitación pública) Tj
+T* (o compra directa por la Municipalidad, de acuerdo con su) Tj
+T* (Ley Orgánica. En el caso de compra directa, el precio) Tj
+T* (no podrá exceder de la tasación respectiva que) Tj
+T* (efectúe la Dirección de Obras Municipales. Para estas) Tj
+T* (adquisiciones, no regirá lo dispuesto en el artículo) Tj
+T* (49 de la Ley N° 17.235, y) Tj
+T* (    c\) las cesiones de terrenos que se urbanicen, de) Tj
+T* (acuerdo con las disposiciones de la presente Ley y sus) Tj
+T* (Ordenanzas, que se destinen a calles, avenidas, plazas,) Tj
+T* (espacios públicos y otros fines.) Tj
+T* (    CAPITULO III \(ARTS. 52-56\)) Tj
+T* (    DE LOS LIMITES URBANOS) Tj
+T* (    Artículo 52.- Se entenderá por límite urbano,) Tj
+T* (para los efectos de la presente Ley y de la Ley) Tj
+T* (Orgánica de Municipalidades, la línea imaginaria que) Tj
+T* (delimita las áreas urbanas y de extensión urbana que) Tj
+T* (conforman los centros poblados, diferenciándolos del) Tj
+T* (resto del área comunal.) Tj
+T* (    Artículo 53.- La fijación de límites urbanos de      LEY 18738) Tj
+T* (los centros poblados que no cuenten con Plan Regulador   ART UNICO) Tj
+T* (y sus modificaciones, se sujetarán a la misma            10\)) Tj
+T* (tramitación señalada en el inciso primero del artículo) Tj
+T* (43, debiendo recabarse, además, informe de la Secretaría) Tj
+T* (Regional Ministerial de Agricultura, organismo que) Tj
+T* (deberá emitirlo dentro del plazo de 15 días, contado) Tj
+T* (desde que le sea requerido por la municipalidad.) Tj
+T* (Vencido dicho plazo, se tendrá por evacuado sin) Tj
+T* (observaciones.) Tj
+T* (    Artículo 54.- En las ciudades en que se aprobare un) Tj
+T* (Plan Regular el límite urbano fijado por éste) Tj
+T* (reemplazará automáticamente al límite urbano) Tj
+T* (anterior.) Tj
+T* (    Cuando se amplíe el límite urbano de un Plan) Tj
+T* (Regulador, se definirá simultáneamente el uso del) Tj
+T* (suelo, que corresponda a los terrenos que se incorporen) Tj
+T* (al área urbana.) Tj
+T* (    Artículo 55.- Fuera de los límites urbanos ) Tj
+T* (establecidos en los Planes Reguladores no será permitido) Tj
+T* (abrir calles, subdividir para formar poblaciones, ni ) Tj
+T* (levantar construcciones, salvo aquellas que fueren ) Tj
+T* (necesarias para la explotación agrícola del inmueble, ) Tj
+T* (o para las viviendas del propietario del mismo y sus ) Tj
+T* (trabajadores, o para la construcción de conjuntos          LEY 19859) Tj
+ET
+endstream
+endobj
+67 0 obj
+3385
+endobj
+68 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 69 0 R
+  /Rotate 0
+  >>
+endobj
+69 0 obj
+  <<
+  /Length 70 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (habitacionales de viviendas sociales o de viviendas        Art. único Nº 1) Tj
+T* (de hasta un valor de 1.000 unidades de fomento, que        D.O. 31.01.2003) Tj
+T* (cuenten con los requisitos para obtener el subsidio ) Tj
+T* (del Estado.) Tj
+T* (    Corresponderá a la Secretaría Regional de Vivienda) Tj
+T* (y Urbanismo respectiva cautelar que las subdivisiones ) Tj
+T* (y construcciones en terrenos rurales, con fines ajenos) Tj
+T* (a la agricultura, no originen nuevos núcleos urbanos ) Tj
+T* (al margen de la Planificación urbana-regional.) Tj
+T* (    Con dicho objeto, cuando sea necesario subdividir) Tj
+T* (y urbanizar terrenos rurales para complementar alguna) Tj
+T* (actividad industrial con viviendas, dotar de) Tj
+T* (equipamiento a algún sector rural, o habilitar un) Tj
+T* (balneario o campamento turístico, o para la construcción   LEY 19859) Tj
+T* (de conjuntos habitacionales de viviendas sociales o        Art. único Nº 2) Tj
+T* (de viviendas de hasta un valor de 1.000 unidades de        D.O. 31.01.2003) Tj
+T* (fomento, que cuenten con los requisitos para obtener ) Tj
+T* (el subsidio del Estado, la autorización que otorgue la) Tj
+T* (Secretaría Regional del Ministerio de Agricultura ) Tj
+T* (requerirá del informe previo favorable de la Secretaría) Tj
+T* (Regional del Ministerio de Vivienda y Urbanismo. Este ) Tj
+T* (informe señalará el grado de urbanización que deberá       LEY 19859) Tj
+T* (tener esa división predial, conforme a lo que establezca   Art. único Nº 3 Y 4) Tj
+T* (la Ordenanza General de Urbanismo y Construcciones.        D.O. 31.01.2003) Tj
+T* (    Igualmente, las construcciones industriales, de ) Tj
+T* (equipamiento, turismo, y poblaciones, fuera de los) Tj
+T* (límites urbanos, requerirán, previamente a la) Tj
+T* (aprobación correspondiente de la Dirección de Obras) Tj
+T* (Municipales, del informe favorable de la Secretaría) Tj
+T* (Regional del Ministerio de Vivienda y Urbanismo y ) Tj
+T* (del Servicio Agrícola que correspondan.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 56.- En las áreas rurales, se prohíbe a) Tj
+T* (los dueños de predios colindantes con los caminos) Tj
+T* (públicos nacionales, definidos por la Ley de Caminos,) Tj
+T* (ocupar las franjas de 35 metros, medidas a cada lado de) Tj
+T* (los cierros actuales o los que se ejecuten en variantes) Tj
+T* (o caminos nuevos nacionales, con construcciones que en) Tj
+T* (el futuro perjudiquen su ensanche.) Tj
+T* (    La apertura de nuevos caminos o calles que) Tj
+T* (desemboquen en los caminos de carácter nacional o) Tj
+T* (regional, requerirán autorización de la Dirección de) Tj
+T* (Vialidad del Ministerio de Obras Públicas, previo) Tj
+T* (informe de la División de Desarrollo Urbano del) Tj
+T* (Ministerio de Vivienda y Urbanismo, cuando ellos incidan) Tj
+T* (en las áreas de los Planes Reguladores Intercomunales.) Tj
+T* (    CAPITULO IV \(ARTS. 57-64\)) Tj
+T* (    DEL USO DEL SUELO URBANO) Tj
+T* (    Artículo 57.- El uso del suelo urbano en las áreas) Tj
+T* (urbanas se regirá por lo dispuesto en los Planes) Tj
+T* (Reguladores, y las construcciones que se levanten en los) Tj
+T* (terrenos serán concordantes con dicho propósito.) Tj
+T* (    Artículo 58.- Igualmente, el otorgamiento de) Tj
+T* (patentes municipales será concordante con dicho uso del) Tj
+T* (suelo. Las patentes, no regidas por normas especiales) Tj
+T* (diversas, requerirán el informe previo favorable de la) Tj
+T* (Dirección de Obras Municipales. El otorgamiento de) Tj
+T* (patentes que vulneren el uso del suelo establecido en la) Tj
+T* (Planificación urbana acarreará la caducidad) Tj
+ET
+endstream
+endobj
+70 0 obj
+3620
+endobj
+71 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 72 0 R
+  /Rotate 0
+  >>
+endobj
+72 0 obj
+  <<
+  /Length 73 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (automática de éstas, y será causal de destitución) Tj
+T* (del funcionario o autoridad municipal que las hubiere) Tj
+T* (otorgado.) Tj
+T* (     Artículo 59.- Decláranse de utilidad pública, por     LEY 19939) Tj
+T* (los plazos que se indican en los incisos siguientes, los   Art. 1º Nº 1) Tj
+T* (terrenos localizados en áreas urbanas y de extensión       D.O. 13.02.2004) Tj
+T* (urbana consultados en los planes reguladores comunales e ) Tj
+T* (intercomunales destinados a vías expresas, troncales, ) Tj
+T* (colectoras, locales y de servicio y parques ) Tj
+T* (intercomunales y comunales, incluidos sus ensanches. ) Tj
+T* (Vencidos dichos plazos, caducará automáticamente la ) Tj
+T* (declaratoria de utilidad pública y todos sus efectos. ) Tj
+T* (Las nuevas normas urbanísticas aplicables a dichas áreas ) Tj
+T* (deberán ser fijadas dentro del plazo de seis meses, ) Tj
+T* (contado desde la caducidad de la declaratoria, por la ) Tj
+T* (municipalidad respectiva, mediante decreto alcaldicio, ) Tj
+T* (previo informe de la Secretaría Regional Ministerial de ) Tj
+T* (Vivienda y Urbanismo, asimilándolas a las de la zona ) Tj
+T* (predominante de las adyacentes al terreno.) Tj
+T* (     Los plazos de caducidad para las declaratorias de ) Tj
+T* (utilidad pública de los terrenos ubicados en el área ) Tj
+T* (urbana, según su destino, serán de diez años para las ) Tj
+T* (vías expresas, y de cinco años para las vías troncales y ) Tj
+T* (colectoras y los parques intercomunales y comunales.) Tj
+T* (     El plazo de caducidad de las declaratorias de ) Tj
+T* (utilidad pública de los terrenos ubicados en áreas de ) Tj
+T* (extensión urbana, cualquiera sea su destino, será de ) Tj
+T* (diez años, pudiendo prorrogarse por una vez por igual ) Tj
+T* (lapso.) Tj
+T* (     El plazo establecido para las declaratorias de ) Tj
+T* (utilidad pública de los terrenos ubicados en el área ) Tj
+T* (urbana destinados a vías troncales y colectoras y a ) Tj
+T* (parques intercomunales, podrá ser prorrogado, por una ) Tj
+T* (sola vez, por igual período. La prórroga se tramitará ) Tj
+T* (conforme al procedimiento establecido para la ) Tj
+T* (modificación del respectivo instrumento de planificación ) Tj
+T* (territorial.) Tj
+T* (     En los terrenos afectos a la declaración de ) Tj
+T* (utilidad pública y, mientras se procede a su ) Tj
+T* (expropiación o adquisición, no se podrá aumentar el ) Tj
+T* (volumen de las construcciones existentes a la fecha de ) Tj
+T* (aprobación del respectivo plan regulador, en la parte ) Tj
+T* (del inmueble que esté afecta a dicha declaratoria si ) Tj
+T* (ésta fuere parcial.) Tj
+T* (     Caducada la declaratoria de utilidad pública, el ) Tj
+T* (inmueble afectado no podrá ser declarado nuevamente ) Tj
+T* (afecto a utilidad pública para los mismos usos incluidos ) Tj
+T* (en una declaratoria anterior, a menos que el acto ) Tj
+T* (expropiatorio se dicte dentro del plazo de sesenta días ) Tj
+T* (contado desde la fecha de entrada en vigencia de la ) Tj
+T* (nueva declaratoria. Expirado dicho plazo, caducará ) Tj
+T* (automáticamente la declaratoria de utilidad pública.) Tj
+T* (     Los planes reguladores no podrán declarar de ) Tj
+T* (utilidad pública terrenos ubicados en áreas rurales.) Tj
+T* (     Lo dispuesto en los incisos precedentes no afectará ) Tj
+T* (ni se aplicará en modo alguno a los procesos de ) Tj
+T* (expropiación autorizados en otras normas legales.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 60.- El Plan Regulador señalará los) Tj
+ET
+endstream
+endobj
+73 0 obj
+3511
+endobj
+74 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 75 0 R
+  /Rotate 0
+  >>
+endobj
+75 0 obj
+  <<
+  /Length 76 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (terrenos que por su especial naturaleza y ubicación no) Tj
+T* (sean edificables. Estos terrenos no podrán subdividirse) Tj
+T* (y sólo se aceptará en ellos la ubicación de) Tj
+T* (actividades transitorias, manteniéndose las) Tj
+T* (características rústicas del predio. Entre ellos se) Tj
+T* (incluirán, cuando corresponda, las áreas de) Tj
+T* (restricción de los aeropuertos.) Tj
+T* (    Igualmente, el Plan Regulador señalará los) Tj
+T* (inmuebles o zonas de conservación histórica, en cuyo) Tj
+T* (caso edificios existentes no podrán ser demolidos o) Tj
+T* (refaccionados sin previa autorización de la Secretaría) Tj
+T* (Regional de Vivienda y Urbanismo correspondiente.) Tj
+T* (    Artículo 61.- El cambio de uso del suelo se) Tj
+T* (tramitará como modificación del Plan Regulador) Tj
+T* (correspondiente.) Tj
+T* (    La desafectación de bienes nacionales de uso) Tj
+T* (público se tramitará, por consiguiente, como una) Tj
+T* (modificación del Plan Regulador. El decreto de) Tj
+T* (desafectación dispondrá, además, la inscripción de) Tj
+T* (dominio del predio a nombre del Servicio Metropolitano o) Tj
+T* (Regional de Vivienda y Urbanización que corresponda.) Tj
+T* (    Artículo 62.- Los terrenos cuyo uso no se conformare   LEY 19744) Tj
+T* (con los instrumentos de planificación territorial          Art. único) Tj
+T* (correspondientes, se entenderán congelados. En             D.O. 10.08.2001) Tj
+T* (consecuencia, no podrá aumentarse en ellos el volumen) Tj
+T* (de construcción existente para dicho uso de suelo. Sin ) Tj
+T* (embargo, los aumentos que tengan por objeto preciso ) Tj
+T* (mitigar los impactos ambientales adversos que provocare) Tj
+T* (su actividad productiva no estarán afectos a dicho ) Tj
+T* (congelamiento, como, asimismo, las obras destinadas ) Tj
+T* (a mejorar la calidad de su arquitectura, de sus ) Tj
+T* (estructuras y de sus instalaciones, incluidas aquéllas ) Tj
+T* (que tengan un sentido estético que contribuya a mejorar) Tj
+T* (su aspecto.) Tj
+T* (    Las industrias mal ubicadas, que causen molestias ) Tj
+T* (o daños al vecindario, deberán trasladarse dentro del) Tj
+T* (plazo que les señale la Municipalidad, previo informe) Tj
+T* (del Departamento de Higiene Ambiental del Servicio) Tj
+T* (Nacional de Salud y de la Secretaría Regional) Tj
+T* (Correspondiente del Ministerio de Vivienda y ) Tj
+T* (Urbanismo. Este plazo no será inferior a un año.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 63.- La fusión de dos o más terrenos en) Tj
+T* (uno solo tendrá un beneficio de mayor densidad, a) Tj
+T* (través de aumentar el coeficiente de constructibilidad) Tj
+T* (del predio en un 30%. Cuando resulten terrenos de 2.500) Tj
+T* (m2. o más, podrán acogerse a los beneficios que otorga) Tj
+T* (el concepto de "Conjunto Armónico".) Tj
+T* (    Artículo 64.- En las áreas urbanas, los bienes) Tj
+T* (nacionales de uso público que correspondan a terrenos) Tj
+T* (de playa o riberas de mar, de ríos y de lagos) Tj
+T* (navegables, se usarán en concordancia con lo dispuesto) Tj
+T* (en el Plan Regulador y su Ordenanza Local. Las) Tj
+T* (concesiones que la Dirección del Litoral otorgare sobre) Tj
+T* (ellos requerirán el informe previo favorable de la) Tj
+T* (Dirección de Obras Municipales respectiva.) Tj
+T* (    CAPITULO V) Tj
+T* (    De la Subdivisión y la Urbanización del Suelo) Tj
+T* (    Artículo 65.- El proceso de subdivisión y) Tj
+ET
+endstream
+endobj
+76 0 obj
+3409
+endobj
+77 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 78 0 R
+  /Rotate 0
+  >>
+endobj
+78 0 obj
+  <<
+  /Length 79 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (urbanización del suelo comprende tres casos:) Tj
+T* (    a\) subdivisión de terrenos, sin que se requiera la) Tj
+T* (ejecución de obras de urbanización, por ser) Tj
+T* (suficientes las existentes;) Tj
+T* (    b\) loteos de terrenos, condicionados a la ejecución) Tj
+T* (de obras de urbanización, incluyendo como tales la) Tj
+T* (apertura de calles y formación de nuevos barrios o) Tj
+T* (poblaciones;) Tj
+T* (    c\) urbanización de loteos existentes, cuyas obras) Tj
+T* (de infraestructura sanitaria y energética y de) Tj
+T* (pavimentación no fueren realizadas oportunamente.) Tj
+T* (    El proceso de transferencia de los terrenos estará) Tj
+T* (sujeto a que el propietario de los mismos cumpla con los) Tj
+T* (requisitos que se determinan en el Párrafo 4°,) Tj
+T* (Capítulo II, del Título III de esta Ley, y en su) Tj
+T* (Ordenanza General.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 66.- La formación de nuevas poblaciones,) Tj
+T* (barrios, grupos o conjuntos habitacionales deberá) Tj
+T* (respetar las disposiciones de esta Ley y su Ordenanza) Tj
+T* (General, y del Plan Regulador y Ordenanza Local, en) Tj
+T* (cuanto al uso del suelo, trazados viales, densidades,) Tj
+T* (superficie mínima predial, coeficientes de) Tj
+T* (constructibilidad y demás disposiciones de carácter) Tj
+T* (urbanístico.) Tj
+T* (    Artículo 67.- Los proyectos de subdivisión, loteos) Tj
+T* (o urbanización de terrenos deberán ajustarse) Tj
+T* (estrictamente a los trazados y normas que consulte el) Tj
+T* (Plan Regulador y deberán llevar la firma del) Tj
+T* (profesional competente de acuerdo con la ley N° 7.211 y) Tj
+T* (la Ordenanza General.) Tj
+T* (    Artículo 68.- Los sitios o lotes resultantes de una) Tj
+T* (subdivisión, loteo o urbanización, estén edificados o) Tj
+T* (no, deberán tener acceso a un espacio de uso público y) Tj
+T* (cumplir con las disposiciones de la presente Ley, su) Tj
+T* (Ordenanza y el Plan Regulador correspondiente.) Tj
+T* (    Artículo 69.- Todo plano aprobado de subdivisión,) Tj
+T* (loteo o urbanización pasará automáticamente a ser) Tj
+T* (parte del Plan Regulador de la Comuna.) Tj
+T* (    Artículo 70.- En toda urbanización de terrenos se      LEY 19712) Tj
+T* (cederá gratuita y obligatoriamente para circulación,       Art. 80) Tj
+T* (áreas verdes, desarrollo de actividades deportivas y       D.O. 09.02.2001) Tj
+T* (recreacionales, y para equipamiento, las superficies que ) Tj
+T* (señale la Ordenanza General, las que no podrán exceder ) Tj
+T* (del 44% de la superficie total del terreno original. ) Tj
+T* (Si el instrumento de planificación territorial ) Tj
+T* (correspondiente contemplare áreas verdes de uso público) Tj
+T* (o fajas de vialidad en el terreno respectivo, las ) Tj
+T* (cesiones se materializarán preferentemente en ellas.) Tj
+T* (La municipalidad podrá permutar o enajenar los ) Tj
+T* (terrenos recibidos para equipamiento, con el ) Tj
+T* (objeto de instalar las obras correspondientes en ) Tj
+T* (una ubicación y espacio más adecuados.) Tj
+T* (    La exigencia establecida en el inciso anterior ) Tj
+T* (será aplicada proporcionalmente en relación con la) Tj
+T* (intensidad de utilización del suelo que establezca) Tj
+T* (el correspondiente instrumento de planificación ) Tj
+T* (territorial, bajo las condiciones que determine la) Tj
+T* (Ordenanza General de esta ley, la que fijará, ) Tj
+ET
+endstream
+endobj
+79 0 obj
+3374
+endobj
+80 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 81 0 R
+  /Rotate 0
+  >>
+endobj
+81 0 obj
+  <<
+  /Length 82 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (asimismo, los parámetros que se aplicarán para las) Tj
+T* (cesiones cuando se produzca crecimiento urbano por ) Tj
+T* (densificación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 71.- La subdivisión, loteo o) Tj
+T* (urbanización de terrenos fiscales en las áreas urbanas) Tj
+T* (se sujetará a las disposiciones del Plan Regulador) Tj
+T* (respectivo y cumplirán con las normas de urbanización) Tj
+T* (que señala esta Ley. En el otorgamiento de los títulos) Tj
+T* (de dominio correspondientes se dejará constancia del) Tj
+T* (uso del suelo prescrito en el Plan Regulador.) Tj
+T* (    Como parte del proceso de desarrollo urbano, dichas) Tj
+T* (subdivisiones se controlarán y aprobarán por la) Tj
+T* (Dirección de Obras Municipales.) Tj
+T* (    En las áreas rurales, la subdivisión de dichos) Tj
+T* (terrenos fiscales para una finalidad no agrícola,) Tj
+T* (requerirá el informe previo favorable de la Secretaría) Tj
+T* (Regional correspondiente del Ministerio de Vivienda y) Tj
+T* (Urbanismo. En estos casos, deberán ejecutarse las obras) Tj
+T* (mínimas de urbanización que señale para cada) Tj
+T* (subdivisión la misma Secretaría Regional.) Tj
+T* (    CAPITULO VI \(ARTS. 72-82\)) Tj
+T* (    DE LA RENOVACION URBANA) Tj
+T* (    Párrafo 1° \(ARTS.72-75\)) Tj
+T* (    De las Zonas de Remodelación) Tj
+T* (    Artículo 72.- Las Municipalidades que tengan Plan) Tj
+T* (Regulador podrán fijar "Zonas de Remodelación", en las) Tj
+T* (cuales se disponga congelar la situación existente y) Tj
+T* (establecer una política de renovación de las mismas.) Tj
+T* (    La Secretaría Regional de Vivienda y Urbanismo) Tj
+T* (podrá, asimismo, en determinados casos, fijar de oficio) Tj
+T* ("Zonas de Remodelación", de acuerdo a sus facultades.) Tj
+T* (    Para los objetos antedichos, deberá estudiarse y) Tj
+T* (aprobarse previamente un "Plano Seccional" de la zona) Tj
+T* (escogida, en que se determinen las nuevas) Tj
+T* (características de ella, como ser, el aspecto) Tj
+T* (urbanístico de uso del suelo, trazados viales,) Tj
+T* (densidades, líneas de edificación, sistemas de) Tj
+T* (agrupamiento de la edificación, coeficientes de) Tj
+T* (constructibilidad, alturas mínimas y máximas, etc.) Tj
+T* (    Artículo 73.- La declaración de zona de) Tj
+T* (remodelación se aprobará por decreto supremo del) Tj
+T* (Ministerio de Vivienda y Urbanismo, dictado "por orden) Tj
+T* (del Presidente", a propuesta o en consulta a la) Tj
+T* (Municipalidad, en la forma que determine la Ordenanza) Tj
+T* (General, y en ella se fijará el plazo dentro del cual) Tj
+T* (los propietarios deberán edificar de acuerdo a las) Tj
+T* (nuevas normas de la zona de remodelación.) Tj
+T* (    Artículo 74.- En el decreto supremo que apruebe la) Tj
+T* (zona de remodelación se fijarán las facilidades o) Tj
+T* (rebajas de derechos municipales o de urbanización u) Tj
+T* (otros incentivos semejantes que promuevan la ejecución) Tj
+T* (de la remodelación.) Tj
+T* (    Las nuevas construcciones, que se realicen en las) Tj
+T* (zonas de remodelación, tendrán preferencia en el goce) Tj
+T* (de los beneficios que otorguen los organismos del Estado) Tj
+T* (para la construcción y urbanización.) Tj
+T* (    En el mismo decreto podrán consultarse,) Tj
+T* (transitoriamente, impuestos adicionales progresivos a) Tj
+ET
+endstream
+endobj
+82 0 obj
+3301
+endobj
+83 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 84 0 R
+  /Rotate 0
+  >>
+endobj
+84 0 obj
+  <<
+  /Length 85 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (las contribuciones de bienes raíces, en las zonas de) Tj
+T* (remodelación, que no podrán exceder del 200% de la) Tj
+T* (tasa vigente de dichas contribuciones, en total, y que) Tj
+T* (se cobrarán cono recargo a dichas contribuciones, a) Tj
+T* (beneficio municipal, una vez vencido el plazo a que se) Tj
+T* (refiere el artículo anterior, sin que se hayan iniciado) Tj
+T* (las construcciones respectivas o, iniciadas, se hubieren) Tj
+T* (paralizado por más de 6 meses.) Tj
+T* (    Asimismo, podrá consultarse en el decreto la) Tj
+T* (fijación de áreas adyacentes beneficiadas cuyas) Tj
+T* (propiedades queden sujetas a reavalúo, sea durante o) Tj
+T* (una vez terminado el proceso de remodelación.) Tj
+T* (    Artículo 75.- Las características técnicas) Tj
+T* (mínimas que deberán tener los "Planos Seccionales de) Tj
+T* (Zonas de Remodelación" y el procedimiento para su) Tj
+T* (aprobación y aplicación serán regulados en la) Tj
+T* (Ordenanza General.) Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 2° \(ARTS. 76-78\)) Tj
+T* (    De las Zonas de Construcción Obligatoria) Tj
+T* (    Artículo 76.- Las Municipalidades en cuyas comunas) Tj
+T* (exista Plan Regulador podrán declarar zonas de) Tj
+T* (construcción obligatoria, en cuyo caso los propietarios) Tj
+T* (de sitios eriazos o de inmuebles declarados ruinosos o) Tj
+T* (insalubres por la autoridad competente, deberán) Tj
+T* (edificarlos dentro del plazo que se señale en el decreto) Tj
+T* (aprobatorio correspondiente.) Tj
+T* (    Si transcurrido dicho plazo, no se iniciaren las) Tj
+T* (construcciones definitivas o, iniciadas, se suspendieran) Tj
+T* (por más de seis meses, podrá aplicarse al propietario) Tj
+T* (un impuesto adicional progresivo, según determine el) Tj
+T* (mismo decreto supremo que apruebe la declaración de) Tj
+T* (zona de construcción obligatoria, el que se cobrará) Tj
+T* (conjuntamente con la contribución de bienes raíces, a) Tj
+T* (beneficio municipal, en tal caso. El monto de este) Tj
+T* (impuesto no podrá exceder del máximo que señala el) Tj
+T* (artículo 74.) Tj
+T* (    Artículo 77.- La declaración de zonas de) Tj
+T* (construcción obligatoria se aprobará por decreto) Tj
+T* (supremo del Ministerio de Vivienda y Urbanismo, dictado) Tj
+T* ("por orden del Presidente", a propuesta de la) Tj
+T* (Municipalidad respectiva, en la forma que determine la) Tj
+T* (Ordenanza General.) Tj
+T* (    En el decreto respectivo podrán contemplarse los) Tj
+T* (incentivos señalados en el artículo 74, en lo que sea) Tj
+T* (procedente.) Tj
+T* (    Artículo 78. La Municipalidad podrá declarar que) Tj
+T* (es obligatorio para los propietarios de un inmueble) Tj
+T* (tomar la línea de edificación que determine el Plan) Tj
+T* (Regulador respectivo, siempre que por lo menos en la) Tj
+T* (misma acera de la cuadra se encuentren en línea de) Tj
+T* (edificación el 60% de la superficie lineal de las) Tj
+T* (construcciones.) Tj
+T* (    La resolución respectiva fijará un plazo al) Tj
+T* (propietario para adoptar la nueva línea, el que no) Tj
+T* (podrá ser inferior a 3 años, plazo que podrá ser) Tj
+T* (ampliado hasta por dos años más por razones fundadas.) Tj
+T* (    Si para tomar la línea, quedare el resto del) Tj
+T* (terreno inapropiado para construir, el propietario) Tj
+ET
+endstream
+endobj
+85 0 obj
+3274
+endobj
+86 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 87 0 R
+  /Rotate 0
+  >>
+endobj
+87 0 obj
+  <<
+  /Length 88 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (podrá hacer uso del derecho establecido en el artículo) Tj
+T* (89 de esta Ley.) Tj
+T* (    Párrafo 3° \(ARTS. 79-82\)) Tj
+T* (    Del Saneamiento de Poblaciones) Tj
+T* (    Artículo 79.- Corresponderá a las Municipalidades) Tj
+T* (desarrollar las acciones necesarias para la) Tj
+T* (rehabilitación y saneamiento de las poblaciones) Tj
+T* (deterioradas o insalubres dentro de la comuna, en) Tj
+T* (coordinación con los planes de esta misma naturaleza y) Tj
+T* (planes habitacionales del Ministerio de Vivienda y) Tj
+T* (Urbanismo.) Tj
+T* (    Artículo 80.- En concordancia con el objetivo) Tj
+T* (expresado, la Municipalidad podrá ejecutar) Tj
+T* (directamente, con cargo a su presupuesto, las siguientes) Tj
+T* (acciones:) Tj
+T* (    a\) adquirir terrenos para la erradicación de) Tj
+T* (poblaciones mal emplazadas, con riesgos de inundación o) Tj
+T* (imposibilidad de dotarlas de la infraestructura) Tj
+T* (sanitaria;) Tj
+T* (    b\) aportar fondos, materiales, equipo y personal) Tj
+T* (para las obras de agua potable, alcantarillado,) Tj
+T* (pavimentación y energía eléctrica en las calles que) Tj
+T* (aún no disponen de esos servicios, y) Tj
+T* (    c\) ejecutar los jardines y plantaciones de las) Tj
+T* (áreas verdes de uso público.) Tj
+T* (    El cobro de los reembolsos que procedan podrá) Tj
+T* (efectuarse en cuotas junto con la contribución de) Tj
+T* (bienes raíces de los respectivos beneficiarios.) Tj
+T* (    Artículo 81.- Para prevenir el deterioro) Tj
+T* (progresivo de un sector o barrio, la Municipalidad) Tj
+T* (podrá ejercer las siguientes facultades:) Tj
+T* (    a\) fijar plazo a los propietarios para efectuar las) Tj
+T* (reparaciones necesarias para evitar el colapso parcial o) Tj
+T* (total de una construcción;) Tj
+T* (    b\) ordenar la construcción de cierros exteriores en) Tj
+T* (los sitios eriazos, en plazos no inferiores a seis) Tj
+T* (meses, con las características que señale el Plan) Tj
+T* (Regulador y su Ordenanza local, o las que se fijen a) Tj
+T* (falta de aquéllos;) Tj
+T* (    c\) fijar plazo para conectarse a las redes públicas) Tj
+T* (de agua potable y alcantarillado, cuando éstas existan,) Tj
+T* (y) Tj
+T* (    d\) ordenar demoler las construcciones que amenacen) Tj
+T* (ruina, o aquellas construidas ilegalmente vulnerando las) Tj
+T* (disposiciones del Plan Regulador, bajo apercibimiento de) Tj
+T* (ejecutar derechamente la demolición por cuenta del) Tj
+T* (rebelde.) Tj
+T* (    En el ejercicio de estas facultades, la) Tj
+T* (Municipalidad podrá apercibir a los propietarios con la) Tj
+T* (aplicación de una multa si no cumplieren con lo) Tj
+T* (ordenado, la que se hará efectiva administrativamente a) Tj
+T* (beneficio municipal.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 82.- Para el mejor cumplimiento de las) Tj
+T* (acciones señaladas anteriormente, la Municipalidad) Tj
+T* (deberá promover la participación de la comunidad y) Tj
+T* (organizarla en la forma prescrita por la Ley 16.880 o en) Tj
+T* (otros textos legales.) Tj
+T* (    Las acciones a desarrollar directamente por la) Tj
+ET
+endstream
+endobj
+88 0 obj
+3079
+endobj
+89 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 90 0 R
+  /Rotate 0
+  >>
+endobj
+90 0 obj
+  <<
+  /Length 91 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (comunidad podrán ser, entre otras, las siguientes:) Tj
+T* (    a\) conservación de los árboles y plantaciones en) Tj
+T* (los espacios de uso público;) Tj
+T* (    b\) conservación de las aceras, en la forma y con) Tj
+T* (las características que señale la Dirección de Obras) Tj
+T* (Municipales;) Tj
+T* (    c\) proposición anual de planes de obras de la) Tj
+T* (Unidad Vecinal, ante el Alcalde de la Comuna,) Tj
+T* (especificando los aportes que hará la Junta de Vecinos) Tj
+T* (respectiva, y) Tj
+T* (    d\) instalación de casetas para teléfono público y) Tj
+T* (refugios en paraderos de locomoción colectiva.) Tj
+T* (    CAPITULO VII ) Tj
+T* (    DE LAS EXPROPIACIONES) Tj
+T* () Tj
+T* (    Párrafo 1° ) Tj
+T* (    Disposiciones Generales) Tj
+T* () Tj
+T* (    Artículo 83.- Las expropiaciones que realicen las      LEY 19939) Tj
+T* (municipalidades en virtud de una declaratoria de           Art. 1º Nº 2) Tj
+T* (utilidad pública se sujetarán al procedimiento             D.O. 13.02.2004) Tj
+T* (contemplado en el decreto ley Nº 2.186, de 1978, ) Tj
+T* (Ley Orgánica de Procedimiento de Expropiaciones.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 84.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 85.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 86.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 2°) Tj
+T* (    De la Expropiación Parcial) Tj
+T* () Tj
+T* (    Artículo 87.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 2° \(ARTS. 87-90\)) Tj
+T* (    De la Expropiación Parcial) Tj
+T* (    Artículo 88.- Siempre que una propiedad adquiera) Tj
+T* (mayor valor a consecuencia de una expropiación parcial) Tj
+T* (de ella, se deducirá del monto de la indemnización el) Tj
+T* (mayor valor que adquiera la parte no expropiada, con) Tj
+T* (motivo del destino que se dé a la parte expropiada.) Tj
+T* (    Si este mayor valor fuere superior al monto que se) Tj
+T* (fije para la expropiación, se considerará, en este) Tj
+ET
+endstream
+endobj
+91 0 obj
+2806
+endobj
+92 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 93 0 R
+  /Rotate 0
+  >>
+endobj
+93 0 obj
+  <<
+  /Length 94 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (caso, compensado totalmente el precio de la) Tj
+T* (expropiación con el referido mayor valor.) Tj
+T* (    La Ordenanza determinará las normas para calcular) Tj
+T* (los mayores valores y deducciones a que se refiere el) Tj
+T* (inciso primero.) Tj
+T* (    Artículo 89.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 90.- La Municipalidad podrá vender en) Tj
+T* (pública subasta, los terrenos sobrantes que hubiere) Tj
+T* (adquirido en cualquiera forma con motivo de la) Tj
+T* (aplicación de este Capítulo. También podrá dar) Tj
+T* (opción a los propietarios colindantes para adquirir) Tj
+T* (estos terrenos, previo informe de la Dirección de Obras) Tj
+T* (Municipales, la que a su vez fijará el precio de ellos,) Tj
+T* (tomando como base el valor de la expropiación o) Tj
+T* (adquisición, reajustado al valor comercial. Cuando se) Tj
+T* (trate de apropiaciones de retazos en favor de un mismo) Tj
+T* (expropiado, los valores de aquéllas serán determinados) Tj
+T* (en forma análoga a los de la expropiación.) Tj
+T* (    Párrafo 3° ) Tj
+T* (    Del Pago de la Expropiación) Tj
+T* () Tj
+T* (    Artículo 91.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 92.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 93.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 94.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 4°) Tj
+T* (    De los Fondos para el Pago de las Expropiaciones) Tj
+T* () Tj
+T* (    Artículo 95.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+94 0 obj
+2779
+endobj
+95 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 96 0 R
+  /Rotate 0
+  >>
+endobj
+96 0 obj
+  <<
+  /Length 97 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 96.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 97.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 98.- DEROGADO                                 LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 99.- Mientras una Municipalidad no haga) Tj
+T* (efectiva la expropiación de los terrenos declarados de) Tj
+T* (utilidad pública o no edificable, de acuerdo a lo) Tj
+T* (prescrito en los artículos 59 y 60 de esta Ley, se) Tj
+T* (suspenderá a su respecto el pago de las contribuciones) Tj
+T* (de bienes raíces, siempre que dichos terrenos no) Tj
+T* (generen renta alguna.) Tj
+T* (    Esta suspensión de pago deberá solicitarse a la) Tj
+T* (Oficina de Impuestos Internos respectiva, adjuntando) Tj
+T* (certificado de la Dirección de Obras Municipales que) Tj
+T* (acredite que los terrenos, conforme al Plan Regulador) Tj
+T* (Comunal, han sido declarados de utilidad pública o no) Tj
+T* (edificables.) Tj
+T* (    Párrafo 5° ) Tj
+T* (    Del Pago de las Expropiaciones en Viviendas) Tj
+T* (Económicas) Tj
+T* () Tj
+T* (    Artículo 100.- DEROGADO                                LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 101.- DEROGADO                                LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 102.- DEROGADO                                LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 103.- DEROGADO                                LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+97 0 obj
+2744
+endobj
+98 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 99 0 R
+  /Rotate 0
+  >>
+endobj
+99 0 obj
+  <<
+  /Length 100 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 104.- DEROGADO                                LEY 19939) Tj
+T* (                                                           Art. 1º Nº 3) Tj
+T* (                                                           D.O. 13.02.2004) Tj
+T* () Tj
+T* () Tj
+T* (    TITULO III \(ARTS. 105-161\)) Tj
+T* (    DE LA CONSTRUCCION) Tj
+T* (    CAPITULO I \(ARTS. 105-115\)) Tj
+T* (    NORMAS DE DISEÑO) Tj
+T* (    Párrafo 1° \(ARTS. 105-106) Tj
+T* (    Del Diseño de Obras de Urbanización y Edificación) Tj
+T* (    Artículo 105.- El diseño de las obras de) Tj
+T* (urbanización y edificación deberán cumplir con los) Tj
+T* (standards que establezca la Ordenanza General en lo) Tj
+T* (relativo a:) Tj
+T* (    a\) trazados viales urbanos;) Tj
+T* (    b\) áreas verdes y equipamiento;) Tj
+T* (    c\) líneas de edificación, rasantes, alturas,) Tj
+T* (salientes, cierros, etc.;) Tj
+T* (    d\) dimensionamiento mínimo de los espacios, según) Tj
+T* (su uso específico \(habitación, comercio, oficina,) Tj
+T* (escolar, asistencial, circulación, etc.\);) Tj
+T* (    e\) condiciones de estabilidad y asismicidad;) Tj
+T* (    f\) condiciones de incombustibilidad;) Tj
+T* (    g\) condiciones de salubridad, iluminación y) Tj
+T* (ventilación, y) Tj
+T* (    h\) dotación de servicios sanitarios y energéticos,) Tj
+T* (y otras materias que señale la Ordenanza General.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 106.- Para alcanzar la finalidad prevista) Tj
+T* (en el artículo anterior, los materiales y sistemas a) Tj
+T* (usar en las urbanizaciones y construcciones deberán) Tj
+T* (cumplir con las "Normas Técnicas" preparadas por el) Tj
+T* (Ministerio de Vivienda y Urbanismo, sus servicios) Tj
+T* (dependientes o el Instituto Nacional de Normalización.) Tj
+T* (    Párrafo 2° \(ARTS. 107-109\)) Tj
+T* (    De los Conjuntos Armónicos) Tj
+T* (    Artículo 107.- Las normas generales de los Planes) Tj
+T* (Reguladores y su ordenanza Local, respecto a la) Tj
+T* (agrupación de las construcciones, coeficientes de) Tj
+T* (constructivilidad, alturas mínimas y máximas, y) Tj
+T* (tamaños de los predios, podrán variarse cuando los) Tj
+T* (proyectos tengan la calidad de "Conjuntos Armónicos".) Tj
+T* (    Para este efecto se considerarán como tales) Tj
+T* (aquellas agrupaciones de construcciones que, por) Tj
+T* (condiciones de uso, localización, dimensión o) Tj
+T* (ampliación de otras estén relacionadas entre sí, de) Tj
+T* (tal manera que constituyan una unidad espacial propia,) Tj
+T* (distinta del carácter general del barrio o sector.) Tj
+T* (    Artículo 108.- En los casos señalados en el) Tj
+T* (artículo precedente, los Asesores Urbanistas podrán) Tj
+T* (autorizar excepciones a la reglamentación de la) Tj
+T* (Ordenanza Local, siempre que no se afecten los espacios) Tj
+T* (de uso público, la línea de edificación, destino y el) Tj
+T* (asoleamiento mínimo de las construcciones colindantes.) Tj
+T* (    En los casos en que hubiere duda sobre la) Tj
+T* (aplicación del concepto de "Conjunto Armónico", el) Tj
+T* (Asesor Urbanista lo someterá a la consideración de la) Tj
+T* (Secretaría Regional correspondiente del Ministerio de) Tj
+ET
+endstream
+endobj
+100 0 obj
+3157
+endobj
+101 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 102 0 R
+  /Rotate 0
+  >>
+endobj
+102 0 obj
+  <<
+  /Length 103 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Vivienda y Urbanismo.) Tj
+T* (    Artículo 109.- Las condiciones mínimas de uso,) Tj
+T* (localización, dimensión o ampliación, para aplicar el) Tj
+T* (concepto de "Conjunto Armónico", serán reglamentadas) Tj
+T* (en la Ordenanza General.) Tj
+T* () Tj
+T* (    Párrafo 3° \(ARTS. 110-115\)  DEROGADO                   LEY 19537) Tj
+T* (    De los Edificios y Viviendas Acogidos a la Ley de      ART 47) Tj
+T* (Propiedad Horizontal                                       D.O.16.12.1997) Tj
+T* (    Artículo 110.- DEROGADO                                LEY 19537) Tj
+T* (                                                           ART 47) Tj
+T* (                                                           D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 111.- DEROGADO                                LEY 19537) Tj
+T* (                                                           ART 47) Tj
+T* (                                                           D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 112.- .- DEROGADO                                LEY 19537) Tj
+T* (                                                              ART 47) Tj
+T* (                                                              D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 113.- DEROGADO                                LEY 19537) Tj
+T* (                                                           ART 47) Tj
+T* (                                                           D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 114.- DEROGADO                                LEY 19537) Tj
+T* (                                                           ART 47) Tj
+T* (                                                           D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 115.- DEROGADO                                LEY 19537) Tj
+T* (                                                           ART 47) Tj
+T* (                                                           D.O.16.12.1997) Tj
+T* () Tj
+T* () Tj
+T* (     CAPITULO II ) Tj
+T* (    DE LA EJECUCION DE OBRAS DE URBANIZACION Y DE) Tj
+T* (EDIFICACION) Tj
+T* () Tj
+T* (     Párrafo 1º ) Tj
+T* () Tj
+T* (     De los Permisos) Tj
+T* () Tj
+T* (     Artículo 116.- La construcción, reconstrucción,) Tj
+T* (reparación, alteración, ampliación de edificios y) Tj
+T* (obras de urbanización de cualquier naturaleza, sean) Tj
+T* (urbanas o rurales, requerirán permiso de la Dirección) Tj
+T* (de Obras Municipales, a petición del propietario, con) Tj
+T* (las excepciones que señale la Ordenanza General.) Tj
+T* (     INCISO ELIMINADO                                      LEY 20016) Tj
+T* (     Deberán cumplir con esta obligación las               Art. único Nº 4 a\)) Tj
+ET
+endstream
+endobj
+103 0 obj
+2798
+endobj
+104 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 105 0 R
+  /Rotate 0
+  >>
+endobj
+105 0 obj
+  <<
+  /Length 106 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (urbanizaciones y construcciones fiscales, semifiscales,    D.O. 27.05.2005) Tj
+T* (de corporaciones o empresas autónomas del Estado y de      NOTA 1) Tj
+T* (las Fuerzas Armadas y de las Fuerzas de Orden y) Tj
+T* (Seguridad Pública.) Tj
+T* (     No requerirán permiso las obras de infraestructura) Tj
+T* (que ejecute el Estado, ni las obras urbanas o rurales de) Tj
+T* (carácter ligero o provisorio, en la forma que determine) Tj
+T* (la Ordenanza General.) Tj
+T* (     Sin perjuicio de lo establecido en el inciso          LEY 18513) Tj
+T* (tercero, las obras de carácter militar de las Fuerzas      Art. único b\)) Tj
+T* (Armadas y las de carácter policial de las Fuerzas de       D.O.27.05.1986) Tj
+T* (Orden y Seguridad Pública, destinadas a sus fines) Tj
+T* (propios, sean urbanas o rurales, no requerirán de los) Tj
+T* (permisos a que se refiere el inciso primero de este) Tj
+T* (artículo ni estarán sometidas a inspecciones o) Tj
+T* (recepciones de ningún tipo por las Direcciones de Obras) Tj
+T* (Municipales mientras tengan este carácter. En igual) Tj
+T* (forma no les serán aplicables las limitaciones ni) Tj
+T* (autorizaciones establecidas en el artículo 55. Estas) Tj
+T* (excepciones se extenderán igualmente, a las demás) Tj
+T* (obras ubicadas dentro del mismo predio en que se) Tj
+T* (emplacen las construcciones militares o policiales a que) Tj
+T* (se refiere este inciso, aun cuando estén destinadas a) Tj
+T* (su equipamiento o al uso habitacional. Todas estas obras) Tj
+T* (deberán ajustarse a las Normas Técnicas, a la) Tj
+T* (Ordenanza General y al Plan Regulador respectivo, en su) Tj
+T* (caso.) Tj
+T* (    El Director de Obras Municipales concederá el          LEY 20016) Tj
+T* (permiso o la autorización requerida si, de acuerdo con     Art. único Nº 4 b\)) Tj
+T* (los antecedentes acompañados, los proyectos cumplen con    D.O. 27.05.2005) Tj
+T* (las normas urbanísticas, previo pago de los derechos que   NOTA 1) Tj
+T* (procedan, sin perjuicio de las facilidades de pago ) Tj
+T* (contempladas en el artículo 128.) Tj
+T* (     Se entenderá por normas urbanísticas aquellas ) Tj
+T* (contenidas en esta ley, en su Ordenanza General y en los ) Tj
+T* (instrumentos de planificación territorial que afecten a ) Tj
+T* (edificaciones, subdivisiones, fusiones, loteos o ) Tj
+T* (urbanizaciones, en lo relativo a los usos de suelo, ) Tj
+T* (cesiones, sistemas de agrupamiento, coeficientes de ) Tj
+T* (constructibilidad, coeficientes de ocupación de suelo o ) Tj
+T* (de los pisos superiores, superficie predial mínima, ) Tj
+T* (alturas máximas de edificación, adosamientos, ) Tj
+T* (distanciamientos, antejardines, ochavos y rasantes, ) Tj
+T* (densidades máximas, estacionamientos, franjas afectas a ) Tj
+T* (declaratoria de utilidad pública y áreas de riesgo o de ) Tj
+T* (protección.) Tj
+T* (     La Dirección de Obras Municipales, a petición del     LEY 19472) Tj
+T* (interesado, emitirá un certificado de informaciones        Art. único Nº 11) Tj
+T* (previas que contenga las condiciones aplicables al         D.O.16.09.1996) Tj
+T* (predio de que se trate, de acuerdo con las normas          NOTA ) Tj
+T* (urbanísticas derivadas del instrumento de planificación) Tj
+T* (territorial respectivo. El certificado mantendrá su) Tj
+T* (validez mientas no se modifiquen las normas) Tj
+T* (urbanísticas, legales o reglamentarias pertinentes.) Tj
+T* (     Sin perjuicio de lo anterior, podrán someterse        LEY 19878) Tj
+T* (a la aprobación del Director de Obras Municipales,         Art. único Nº 2) Tj
+T* (anteproyectos de loteo, de edificación o de                D.O. 31.05.2003) Tj
+T* (urbanización. El anteproyecto aprobado mantendrá su ) Tj
+T* (vigencia respecto de todas las condiciones urbanísticas ) Tj
+T* (del instrumento de planificación territorial respectivo ) Tj
+ET
+endstream
+endobj
+106 0 obj
+3832
+endobj
+107 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 108 0 R
+  /Rotate 0
+  >>
+endobj
+108 0 obj
+  <<
+  /Length 109 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (y de las normas de la Ordenanza General de Urbanismo y ) Tj
+T* (Construcciones consideradas en aquél y con las que se ) Tj
+T* (hubiere aprobado, para los efectos de la obtención del ) Tj
+T* (permiso correspondiente, durante el plazo que determine ) Tj
+T* (la misma Ordenanza.) Tj
+T* (     La Dirección de Obras Municipales deberá exhibir,     LEY 19878) Tj
+T* (en el acceso principal a sus oficinas, durante el plazo    Art. único Nº 3) Tj
+T* (de sesenta días contado desde la fecha de su aprobación    D.O. 31.05.2003) Tj
+T* (u otorgamiento, una nómina con los anteproyectos, ) Tj
+T* (subdivisiones y permisos a que se refiere este ) Tj
+T* (artículo. Asimismo, deberá informar al concejo y a las ) Tj
+T* (juntas de vecinos de la unidad vecinal correspondiente ) Tj
+T* (y mantener, a disposición de cualquier persona que lo ) Tj
+T* (requiera, los antecedentes completos relacionados con ) Tj
+T* (dichas aprobaciones o permisos.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (     El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* (NOTA 1:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 116 bis.- Los propietarios que soliciten     LEY 20016) Tj
+T* (un permiso de edificación podrán contratar un revisor      Art. único Nº 5) Tj
+T* (independiente, persona natural o jurídica con              D.O. 27.05.2005) Tj
+T* (inscripción vigente en un registro que para estos          NOTA) Tj
+T* (efectos mantendrá el Ministerio de Vivienda y Urbanismo. ) Tj
+T* (Sin embargo, la Ordenanza General podrá determinar las ) Tj
+T* (edificaciones en que será obligatoria la contratación de ) Tj
+T* (un revisor independiente para los respectivos permisos ) Tj
+T* (de edificación o de recepción definitiva.) Tj
+T* (     En el desempeño de sus funciones, los revisores ) Tj
+T* (independientes deberán verificar que los proyectos de ) Tj
+T* (edificación y las obras cumplan con las disposiciones ) Tj
+T* (legales y reglamentarias, y emitir los informes que se ) Tj
+T* (requieran para tales efectos, cuyo contenido determinará ) Tj
+T* (la Ordenanza General. Con todo, los revisores ) Tj
+T* (independientes no verificarán el cálculo de estructuras.) Tj
+T* (Los derechos municipales a que se refiere el artículo ) Tj
+T* (130 se reducirán en el 30% cuando se acompañe el informe ) Tj
+T* (favorable del revisor independiente.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 116 bis A\).- Los propietarios que             LEY 19748) Tj
+T* (soliciten un permiso de construcción para edificios de     Art. único N° 1) Tj
+T* (uso público y edificaciones que determine la Ordenanza     D.O. 23.08.2001) Tj
+ET
+endstream
+endobj
+109 0 obj
+3182
+endobj
+110 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 111 0 R
+  /Rotate 0
+  >>
+endobj
+111 0 obj
+  <<
+  /Length 112 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (General deberán contratar la revisión del proyecto de ) Tj
+T* (cálculo estructural respectivo por parte de un tercero ) Tj
+T* (independiente del profesional u oficina que lo haya ) Tj
+T* (realizado y que cuente con inscripción en un registro ) Tj
+T* (que para estos efectos mantendrá el Ministerio de la ) Tj
+T* (Vivienda y Urbanismo. El Ministerio podrá encomendar ) Tj
+T* (dicho registro a la entidad denominada "Instituto de ) Tj
+T* (la Construcción", cuya personalidad jurídica fuera ) Tj
+T* (concedida por decreto supremo Nº 1.115, de 1996, del) Tj
+T* (Ministerio de Justicia.) Tj
+T* (    La Ordenanza General de Urbanismo y Construcciones) Tj
+T* (establecerá el alcance, las condiciones, las ) Tj
+T* (diversidades geográficas y los demás aspectos que ) Tj
+T* (deberán contemplarse en la revisión del cálculo ) Tj
+T* (estructural.) Tj
+T* (    El reglamento que se dicte para regular el ) Tj
+T* (registro a que se refiere el inciso primero, ) Tj
+T* (establecerá los requisitos de inscripción, las causales) Tj
+T* (de inhabilidad, de incompatibilidad, así como las de ) Tj
+T* (amonestación, suspensión y eliminación del mismo.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 116 Bis B\).- DEROGADO                         LEY 20016) Tj
+T* (                                                           Art. único Nº 6) Tj
+T* (                                                           D.O. 27.05.2005) Tj
+T* (                                                           NOTA) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 116 bis C.- Aprobado por el Director de      LEY 19878) Tj
+T* (Obras Municipales un anteproyecto u otorgada una           Art. único Nº 4) Tj
+T* (autorización para subdividir, o un permiso de              D.O. 31.05.2003) Tj
+T* (edificación, de urbanización o de cambio de destino ) Tj
+T* (de un edificio existente, el propietario podrá informar ) Tj
+T* (al público sobre dicha gestión administrativa, para lo ) Tj
+T* (cual deberá comunicar por escrito a la Dirección de ) Tj
+T* (Obras Municipales que se acoge al procedimiento de ) Tj
+T* (publicidad que regula este artículo.) Tj
+T* (     La Ordenanza General establecerá la forma, plazo ) Tj
+T* (y condiciones mediante las cuales se podrá informar al ) Tj
+T* (público, al concejo y a las juntas de vecinos de la ) Tj
+T* (unidad vecinal correspondiente de la aprobación a que ) Tj
+T* (alude el inciso anterior. Entre dichas medidas, se ) Tj
+T* (considerará la instalación de un letrero visible en el ) Tj
+T* (lugar de la obra, la comunicación por escrito a los ) Tj
+T* (vecinos afectados y la comunicación a través de algún ) Tj
+T* (medio masivo, como radio o periódico, de acuerdo a las ) Tj
+T* (características de los proyectos. En todo caso, se ) Tj
+T* (deberá contemplar, como último trámite, la obligación ) Tj
+T* (de publicar un aviso en el Diario Oficial, el cual ) Tj
+T* (dará a conocer a la comunidad las características ) Tj
+T* (esenciales de la actuación de que se trate, la que se ) Tj
+T* (presumirá de derecho conocida desde la publicación del ) Tj
+ET
+endstream
+endobj
+112 0 obj
+3326
+endobj
+113 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 114 0 R
+  /Rotate 0
+  >>
+endobj
+114 0 obj
+  <<
+  /Length 115 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (mencionado aviso.) Tj
+T* (     Transcurridos treinta días desde la publicación a ) Tj
+T* (que se refiere el inciso anterior, la Municipalidad, a ) Tj
+T* (petición de parte, emitirá un certificado en que deje ) Tj
+T* (constancia que, hasta la fecha de su emisión, no han ) Tj
+T* (ingresado reclamos ni se le han notificado ) Tj
+T* (judicialmente recursos que recaigan sobre la gestión ) Tj
+T* (publicitada.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 116 bis D\).- La Ordenanza General de esta    LEY 20251) Tj
+T* (ley podrá establecer normas especiales y procedimientos    Art. único Nº 1) Tj
+T* (simplificados de aprobación y recepción, para la           D.O. 04.03.2008) Tj
+T* (regularización de construcciones existentes y la ) Tj
+T* (aprobación de nuevas construcciones que se realicen en ) Tj
+T* (zonas que hubieren sido decretadas zona afectada por ) Tj
+T* (catástrofe.) Tj
+T* (  ) Tj
+T* (     La Ordenanza General deberá establecer los plazos ) Tj
+T* (en que se aplicarán las disposiciones que se establecen ) Tj
+T* (en el inciso primero de este artículo.) Tj
+T* (  ) Tj
+T* (     Durante dicho período las regularizaciones y ) Tj
+T* (permisos de viviendas sociales, y de viviendas cuyo ) Tj
+T* (valor de tasación de la construcción no sea superior a ) Tj
+T* (520 unidades de fomento, calculado conforme a la tabla ) Tj
+T* (de costos unitarios por metro cuadrado de construcción ) Tj
+T* (del Ministerio de Vivienda y Urbanismo, estarán exentos ) Tj
+T* (del pago de derechos municipales a que se refiere el ) Tj
+T* (artículo 130 de la Ley General de Urbanismo y ) Tj
+T* (Construcciones.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 117.- Los permisos de subdivisión, loteo) Tj
+T* (o urbanización predial y de construcciones podrán) Tj
+T* (postergarse hasta por un plazo de tres meses, cuando el) Tj
+T* (sector de ubicación del terreno esté afectado por) Tj
+T* (estudios sobre modificaciones del Plan Regulador) Tj
+T* (Intercomunal o Comunal, aprobados por resolución del) Tj
+T* (Alcalde. Esta postergación deberá ser informada previa) Tj
+T* (y favorablemente por la Secretaría Regional) Tj
+T* (correspondiente del Ministerio de Vivienda y Urbanismo.) Tj
+T* (    En caso necesario, el citado plazo de tres meses     LEY 18738) Tj
+T* (podrá ser prorrogado hasta completar un máximo de doce   ART UNICO) Tj
+T* (meses.  La prórroga se dispondrá por decreto supremo     11\)) Tj
+T* (del Ministerio de Vivienda y Urbanismo dictado "por) Tj
+T* (orden del Presidente de la República" o por resolución) Tj
+T* (del Secretario Regional Ministerial de Vivienda y) Tj
+T* (Urbanismo respectivo, según se trate de estudios sobre) Tj
+T* (modificaciones de un Plan Regulador Intercomunal o de) Tj
+T* (un Plan Regulador Comunal, en su caso.  Tanto el decreto) Tj
+T* (supremo como la resolución se publicarán en el Diario) Tj
+T* (Oficial y en algún diario de los de mayor circulación) Tj
+T* (en la comuna.) Tj
+T* (    Artículo 118.- La Dirección de Obras Municipales       LEY 19472) Tj
+T* (tendrá un plazo de 30 días, contados desde la              Art. único Nº 13) Tj
+T* (presentación de la solicitud, para pronunciarse sobre      D.O. 16.09.1996) Tj
+T* (los permisos de construcción.                              NOTA ) Tj
+T* (    Dicho plazo se reducirá a 15 días, si a la solicitud) Tj
+ET
+endstream
+endobj
+115 0 obj
+3321
+endobj
+116 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 117 0 R
+  /Rotate 0
+  >>
+endobj
+117 0 obj
+  <<
+  /Length 118 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (de permiso se acompañare el informe favorable de un) Tj
+T* (revisor independiente o del arquitecto proyectista en su) Tj
+T* (caso.) Tj
+T* (    Si cumplidos dichos plazos no hubiere) Tj
+T* (pronunciamiento por escrito sobre el permiso o éste) Tj
+T* (fuere denegado, el interesado podrá reclamar ante la) Tj
+T* (Secretaría Regional correspondiente del Ministerio de) Tj
+T* (Vivienda y Urbanismo. La Secretaría Regional) Tj
+T* (Ministerial, dentro de los 3 días hábiles siguientes a) Tj
+T* (la recepción del reclamo, deberá solicitar a la) Tj
+T* (Dirección de Obras Municipales que dicte su resolución,) Tj
+T* (si no se hubiere pronunciado o evacue el informe) Tj
+T* (correspondiente en el caso de denegación del permiso.) Tj
+T* (La Dirección de Obras Municipales dispondrá de un plazo) Tj
+T* (de 15 días para evacuar el informe o dictar la) Tj
+T* (resolución, según corresponda. En este último caso y) Tj
+T* (vencido este nuevo plazo sin que aún hubiere) Tj
+T* (pronunciamiento, se entenderá denegado el permiso.) Tj
+T* (    Denegado el permiso por la aludida Dirección, sea) Tj
+T* (expresa o presuntivamente, la Secretaría Regional,) Tj
+T* (dentro del plazo de 15 días hábiles, deberá) Tj
+T* (pronunciarse sobre el reclamo y si fuere procedente) Tj
+T* (ordenará que se otorgue en tal caso, el permiso, previo) Tj
+T* (pago de los derechos.) Tj
+T* (    El interesado tendrá el plazo fatal de 30 días para) Tj
+T* (deducir el reclamo a que se refiere este artículo,) Tj
+T* (contado desde la fecha en que se denegare expresamente) Tj
+T* (el permiso o en que venza el plazo para pronunciarse.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 119.- Toda obra de urbanización o) Tj
+T* (edificación deberá ejecutarse con sujeción estricta a) Tj
+T* (los planos, especificaciones, y demás antecedentes) Tj
+T* (aprobados por la Dirección de Obras Municipales.) Tj
+T* (    Si después de concedido un permiso hubiere) Tj
+T* (necesidad de introducir modificaciones o variantes en el) Tj
+T* (proyecto o en las obras correspondientes, tales) Tj
+T* (modificaciones se tramitarán en la forma que señale la) Tj
+T* (Ordenanza General.) Tj
+T* (    La Dirección de Obras proveerá por escrito la) Tj
+T* (información u observaciones sobre el proyecto al) Tj
+T* (propietario o profesional que interviene, en formulario) Tj
+T* (tipo, a solicitud del interesado. Será responsabilidad) Tj
+T* (del profesional aportar los antecedentes necesarios y) Tj
+T* (adecuar el proyecto a las exigencias que se le formulen.) Tj
+T* (    Artículo 120.- La vigencia, caducidad y prórroga) Tj
+T* (de un permiso, como asimismo los efectos derivados de) Tj
+T* (una paralización de obra o la ejecución de una obra) Tj
+T* (sin permiso, se sujetarán a las normas que señale la) Tj
+T* (Ordenanza General.) Tj
+T* (    Contra las resoluciones del Alcalde que ordenaren la) Tj
+T* (demolición de obras ejecutadas sin previo permiso) Tj
+T* (procederán los recursos contemplados en los artículos) Tj
+T* (152 y 154 de esta Ley.) Tj
+T* (    Párrafo 2° \(ARTS. 121-125\)) Tj
+ET
+endstream
+endobj
+118 0 obj
+3222
+endobj
+119 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 120 0 R
+  /Rotate 0
+  >>
+endobj
+120 0 obj
+  <<
+  /Length 121 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    De las Autorizaciones Especiales para Edificación) Tj
+T* (    Artículo 121.- En los terrenos a que se refiere el) Tj
+T* (artículo 59 no podrán efectuarse nuevas construcciones) Tj
+T* (y si estuvieren edificados, no será permitido) Tj
+T* (reconstruir los edificios, alterarlos o repararlos.) Tj
+T* (    Sin embargo, por motivos justificados, podrá la) Tj
+T* (Dirección de Obras Municipales, previa autorización) Tj
+T* (del Municipio, permitir la construcción,) Tj
+T* (reconstrucción parcial u otras alteraciones en los) Tj
+T* (edificios a que se refiere el inciso precedente, siempre) Tj
+T* (que el propietario del inmueble renuncie por escritura) Tj
+T* (pública a toda indemnización o pago por dichas mejoras) Tj
+T* (u otras obras, cuando posteriormente se lleve a cabo la) Tj
+T* (expropiación. En dicha escritura se fijará el valor de) Tj
+T* (expropiación y el plazo dentro del cual deberá) Tj
+T* (adoptarse la línea oficial, siendo de su cargo la) Tj
+T* (demolición. La escritura será inscrita en el Registro) Tj
+T* (de Gravámenes del Conservador de Bienes Raíces y la) Tj
+T* (renuncia afectará a todos los sucesores del) Tj
+T* (renunciante, a cualquier título, en el dominio del) Tj
+T* (inmueble.) Tj
+T* (    En caso de incumplimiento del interesado, la) Tj
+T* (Municipalidad podrá desalojar el edificio con el) Tj
+T* (auxilio de la fuerza pública y demolerlo en la parte) Tj
+T* (que corresponda por cuenta del propietario, sin) Tj
+T* (perjuicio de las acciones legales que correspondan,) Tj
+T* (hasta el reintegro total de los costos del desalojo y ) Tj
+T* (la demolición. Los gastos de la demolición y desalojo) Tj
+T* (podrán imputarse al valor de la expropiación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 122.- En casos calificados de interés) Tj
+T* (general, las Direcciones de Obras Municipales podrán) Tj
+T* (transitoriamente autorizar transformaciones de) Tj
+T* (edificios, aunque éstos no adopten la altura) Tj
+T* (obligatoria, siempre que se ciñan de inmediato a la) Tj
+T* (línea oficial de edificación y cumplan con las demás) Tj
+T* (disposiciones de las Ordenanzas General y Local, y que) Tj
+T* (el propietario ceda gratuitamente los terrenos que) Tj
+T* (resulten afectados por expropiación.) Tj
+T* (    Si con posterioridad a la cesión gratuita caducare     LEY 19939) Tj
+T* (la declaratoria de utilidad pública, el cedente podrá      Art. 1º Nº 4) Tj
+T* (solicitar a la municipalidad la restitución del inmueble   D.O. 13.02.2004) Tj
+T* (cedido. La municipalidad deberá realizar dicha ) Tj
+T* (restitución, a título gratuito, en un plazo no superior ) Tj
+T* (a tres meses desde el requerimiento. Los costos que se ) Tj
+T* (originen serán de cargo del solicitante.) Tj
+T* (    En los edificios ubicados en terrenos afectados por) Tj
+T* (antejardines contemplados en los Planes Reguladores,) Tj
+T* (sólo podrá efectuarse reconstrucciones, ampliaciones y) Tj
+T* (otras alteraciones siempre que el propietario del) Tj
+T* (inmueble se comprometa por escritura pública a adoptar) Tj
+T* (la línea oficial de edificación en el plazo que señale) Tj
+T* (la Dirección de Obras Municipales. Si al vencimiento) Tj
+T* (del plazo no se adoptare la línea oficial, la) Tj
+T* (Municipalidad quedará facultada para aplicar sanciones,) Tj
+T* (sin perjuicio de ordenar la demolición correspondiente,) Tj
+T* (conforme a lo señalado en el N° 4 del artículo 148.) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+121 0 obj
+3423
+endobj
+122 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 123 0 R
+  /Rotate 0
+  >>
+endobj
+123 0 obj
+  <<
+  /Length 124 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 123.- En aquellas propiedades que no) Tj
+T* (cumplan con las disposiciones del Plan Regulador y que) Tj
+T* (fueren parcialmente afectadas por siniestros, las) Tj
+T* (Direcciones de Obras Municipales podrán autorizar la) Tj
+T* (ejecución de trabajos de emergencia y de carácter) Tj
+T* (transitorio, destinados a su mantenimiento, por un plazo) Tj
+T* (no mayor a seis meses, el que sólo podrá ser) Tj
+T* (prorrogado por una sola vez hasta por otro período) Tj
+T* (igual, siempre que existan causas justificadas.) Tj
+T* (    Vencidos los plazos señalados en el inciso anterior,) Tj
+T* (el Alcalde, a petición del Director de Obras) Tj
+T* (Municipales, podrá ordenar la demolición de los) Tj
+T* (edificios existentes y el desalojo de sus ocupantes con) Tj
+T* (el auxilio de la fuerza pública, con cargo al) Tj
+T* (propietario, sin perjuicio de las demás sanciones que) Tj
+T* (procedan.) Tj
+T* (    Artículo 124.- El Director de Obras Municipales) Tj
+T* (podrá autorizar la ejecución de construcciones) Tj
+T* (provisorias por una sola vez, hasta por un máximo de) Tj
+T* (tres años, en las condiciones que determine en cada) Tj
+T* (caso. Sólo en casos calificados podrá ampliarse este) Tj
+T* (plazo, con la autorización expresa de la Secretaría) Tj
+T* (Regional respectiva del Ministerio de Vivienda y) Tj
+T* (Urbanismo.) Tj
+T* (    Si, vencido el plazo correspondiente, el) Tj
+T* (beneficiario no retirare las referidas construcciones,) Tj
+T* (el Alcalde podrá ordenar el desalojo y la demolición) Tj
+T* (de las construcciones, con cargo al propietario, con el) Tj
+T* (auxilio de la fuerza pública si fuere necesario, sin) Tj
+T* (perjuicio de imponer las multas que correspondan.) Tj
+T* (    Artículo 125.- La Dirección de Obras Municipales) Tj
+T* (no dará curso a los permisos de edificación que se) Tj
+T* (soliciten de acuerdo con los artículos 121, 122 y 123) Tj
+T* (en aquellos terrenos en que la Municipalidad hubiere) Tj
+T* (resuelto su expropiación, de conformidad al artículo) Tj
+T* (85 de esta Ley.) Tj
+T* (    Párrafo 3° \(ARTS. 126-133\)) Tj
+T* (    De los Derechos Municipales y Garantías) Tj
+T* (    Artículo 126.- Los permisos de urbanización,) Tj
+T* (subdivisión, loteo y construcción se otorgarán previo) Tj
+T* (pago de los derechos municipales correspondientes.) Tj
+T* (    Los permisos de subdivisión y loteos de terrenos) Tj
+T* (pagarán solamente el derecho de subdivisión, que se) Tj
+T* (calculará sobre el avalúo fiscal del total del terreno) Tj
+T* (a subdividir. Los permisos de urbanización estarán) Tj
+T* (exentos de derechos.) Tj
+T* (    Los permisos de construcción pagarán un derecho) Tj
+T* (que se calculará sobre el monto del presupuesto de la) Tj
+T* (obra. Dicho presupuesto se confeccionará aplicando la) Tj
+T* (tabla de costos unitarios por metro cuadrado de) Tj
+T* (construcción, que se menciona más adelante, conforme a) Tj
+T* (los tipos y materiales de construcción a emplearse.) Tj
+T* (    Las Direcciones de Obras Municipales podrán disponer   LEY 19472) Tj
+T* (que, al momento de ingresar una solicitud de aprobación    Art. único Nº 14) Tj
+T* (de anteproyecto o de permiso, se consigne un monto no      D.O. 16.09.1996) Tj
+T* (superior al 10% del valor del derecho municipal a          NOTA ) Tj
+T* (cancelar conforme al artículo 130. Dicho monto se) Tj
+T* (descontará al momento del pago del permiso.) Tj
+T* () Tj
+T* (NOTA:) Tj
+ET
+endstream
+endobj
+124 0 obj
+3420
+endobj
+125 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 126 0 R
+  /Rotate 0
+  >>
+endobj
+126 0 obj
+  <<
+  /Length 127 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 127.- Para los efectos de lo dispuesto en) Tj
+T* (el artículo anterior, el Ministerio de Vivienda y) Tj
+T* (Urbanismo llevará una estadística del costo de la) Tj
+T* (construcción, y confeccionará anualmente una tabla de) Tj
+T* (costos unitarios por metro cuadrado de construcción,) Tj
+T* (que será enviada a todas las Municipalidades antes del) Tj
+T* (31 de Diciembre de cada año.) Tj
+T* (    Las Direcciones de Obras Municipales reajustarán) Tj
+T* (dichos precios unitarios trimestralmente, de acuerdo al) Tj
+T* (Indice de Costo de Edificación determinado por el mismo) Tj
+T* (Ministerio.) Tj
+T* (    Las alteraciones, reparaciones, obras menores y) Tj
+T* (provisorias, y demoliciones, pagarán derechos sobre un) Tj
+T* (presupuesto que determinará el Director de Obras en) Tj
+T* (cada caso.) Tj
+T* (    Artículo 128.- A petición del interesado, el) Tj
+T* (Director de Obras podrá compensar los derechos de) Tj
+T* (edificación, en todo o en parte, con el valor de la) Tj
+T* (expropiación a que esté afecto el inmueble.) Tj
+T* (    El Director de Obras podrá otorgar facilidades para) Tj
+T* (el pago de derechos por permisos de edificación,) Tj
+T* (mediante cuotas bimestrales o trimestrales, que se) Tj
+T* (reajustarán según el Indice de Precios al Consumidor) Tj
+T* (de la Dirección Nacional de Estadística. Estos) Tj
+T* (derechos, en todo caso, deberán cancelarse) Tj
+T* (íntegramente antes de la recepción definitiva de la) Tj
+T* (obra.) Tj
+T* (    Artículo 129.- La garantía de urbanización por el) Tj
+T* (monto total de las obras, que exige esta Ley para el) Tj
+T* (efecto de autorizar ventas y adjudicaciones de sitios) Tj
+T* (antes de estar ejecutada y recibida la urbanización,) Tj
+T* (podrá consistir indistintamente en valores hipotecarios) Tj
+T* (reajustables u otros garantizados por el Estado, boletas) Tj
+T* (bancarias o pólizas de seguros.) Tj
+T* (    Las instituciones bancarias y aseguradoras, que) Tj
+T* (hubieren emitido el respectivo documento de garantía) Tj
+T* (por la urbanización, pagarán los valores garantizados) Tj
+T* (o la parte de ellos que corresponda con el solo mérito) Tj
+T* (del certificado que otorgue el Director de Obras) Tj
+T* (Municipales, en el sentido de que las obras no se han) Tj
+T* (ejecutado, total o parcialmente, y que el plazo) Tj
+T* (correspondiente se encuentra vencido, indicando además) Tj
+T* (el monto proporcional de la garantía que deba hacerse) Tj
+T* (efectivo.) Tj
+T* (    En los loteos que ejecuten los Servicios Regionales) Tj
+T* (o Metropolitano Sector Vivienda, por sí o a través de) Tj
+T* (terceros, bastará que dichas Instituciones otorguen a) Tj
+T* (la respectiva Municipalidad una carta de resguardo que) Tj
+T* (garantice que las obras de urbanización se ejecutarán) Tj
+T* (conforme a los proyectos aprobados, para que la) Tj
+T* (Dirección de Obras Municipales proceda a la recepción) Tj
+T* (definitiva de las viviendas, locales comerciales y obras) Tj
+T* (de equipamiento comunitario que se encuentren terminadas) Tj
+T* (y ejecutadas conforme a los correspondientes permisos o) Tj
+T* (sus modificaciones. Se señalará en estos casos, en los) Tj
+ET
+endstream
+endobj
+127 0 obj
+3337
+endobj
+128 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 129 0 R
+  /Rotate 0
+  >>
+endobj
+129 0 obj
+  <<
+  /Length 130 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (certificados de recepción, que las obras de) Tj
+T* (urbanización se han garantizado conforme a lo dispuesto) Tj
+T* (en este inciso.) Tj
+T* (    Artículo 130.- Los derechos municipales a cancelar) Tj
+T* (por permisos de subdivisión, loteos, construcción,) Tj
+T* (etc. no constituyen impuesto, sino el cobro) Tj
+T* (correspondiente al ejercicio de una labor de revisión,) Tj
+T* (inspección y recepción, y se regularán conforme a la) Tj
+T* (siguiente tabla:) Tj
+T* ( =======================================================) Tj
+T* (      Tipos de Obras                Derecho municipal) Tj
+T* ( -------------------------------------------------------) Tj
+T* ( 1. Subdivisiones y loteos- - -     2,0% del avalúo) Tj
+T* (                                    fiscal del terreno.) Tj
+T* ( 2. Obra nueva y ampliación- -     1,5% del presupuesto) Tj
+T* ( 3. Alteraciones, reparaciones,) Tj
+T* (    obras menores y provisorias-    1,0%  "       ") Tj
+T* ( 4. Planos Tipo autorizados por) Tj
+T* (    el Ministerio de Vivienda y) Tj
+T* (    Urbanismo- - - - - - - - - -    1,0%  "       ") Tj
+T* ( 5. Reconstrucción - - - - - - -    1.0%  "       ") Tj
+T* ( 6. Modificaciones de proyecto -    0,75% "       ") Tj
+T* ( 7. Demoliciones - - - - - - - -    0,5%  "       ") Tj
+T* ( 8. Aprobación de planos) Tj
+T* (    para venta por pisos - - - -   2  cuotas de ahorro) Tj
+T* (                                   para vivienda, por) Tj
+T* (                                   unidad a vender.) Tj
+T* ( 9. Certificados de número,) Tj
+T* (    línea, recepción, venta) Tj
+T* (    por pisos, etc. - - - - - -    1 cuota de ahorro) Tj
+T* (                                   para vivienda.) Tj
+T* ( =======================================================) Tj
+T* (    Las edificaciones fiscales y de sus organismos) Tj
+T* (descentralizados pagarán igualmente estos derechos) Tj
+T* (municipales.) Tj
+T* (    En virtud de lo dispuesto en este artículo, se       DL 3063-1979) Tj
+T* (entienden derogadas todas las exenciones, totales y      ART. 67.-) Tj
+T* (parciales, contenidas en leyes generales o especiales,) Tj
+T* (reglamentos, decretos y todo otro texto legal o) Tj
+T* (reglamentario, que digan relación con los derechos) Tj
+T* (municipales por permisos de urbanización o de) Tj
+T* (construcción. Lo anterior se aplicará aun en los casos) Tj
+T* (en que las disposiciones legales o reglamentarias) Tj
+T* (otorguen exenciones reales o personales de toda clase de) Tj
+T* (impuestos, contribuciones o derechos, presentes o) Tj
+T* (futuros, y cualquiera que sea la exigencia especial que) Tj
+T* (la norma legal o reglamentaria que las concedió, haya) Tj
+T* (señalado para su derogación. Exclusivamente se) Tj
+T* (exceptúan de esta disposición las exenciones o) Tj
+T* (franquicias que se conceden subordinadas a reciprocidad,) Tj
+T* (en virtud de normas o principios reconocidos por el) Tj
+T* (derecho internacional.) Tj
+T* (    Artículo 131.- En los conjuntos habitacionales con) Tj
+T* (unidades repetidas, los derechos municipales se) Tj
+T* (rebajarán de acuerdo a las siguientes normas:) Tj
+T* (    Se considerará como unidad repetida la casa) Tj
+T* (individual aislada o pareada, ya sea de uno o dos pisos,) Tj
+T* (que se repite en el conjunto, y en los edificios en) Tj
+T* (altura con piso tipo repetido la totalidad de un piso) Tj
+T* (que se repite.) Tj
+ET
+endstream
+endobj
+130 0 obj
+3376
+endobj
+131 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 132 0 R
+  /Rotate 0
+  >>
+endobj
+132 0 obj
+  <<
+  /Length 133 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* ( =======================================================) Tj
+T* (    N° de unidades               Disminución derechos) Tj
+T* ( -------------------------------------------------------) Tj
+T* (        3 a  5                           10%) Tj
+T* (        6 a 10                           20%) Tj
+T* (       11 a 20                           30%) Tj
+T* (       21 a 40                           40%) Tj
+T* (       41 o más                          50%) Tj
+T* ( =======================================================) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 132.- Los derechos, aportes, garantías u) Tj
+T* (otros pagos, que dicen relación con uniones, empalmes,) Tj
+T* (extensiones, refuerzos o dación de servicios sanitarios) Tj
+T* (y de pavimentación, serán establecidos por resolución) Tj
+T* (del respectivo Servicio, previa aprobación del) Tj
+T* (Ministerio de Vivienda y Urbanismo.) Tj
+T* (    Artículo 133.- Las construcciones que se ejecutaren) Tj
+T* (sin el previo permiso de construcción, desde la) Tj
+T* (publicación de la presente Ley, pagarán un recargo del) Tj
+T* (50% del derecho municipal que correspondiere pagar al) Tj
+T* (momento en que el interesado solicitare regularizar su) Tj
+T* (situación.) Tj
+T* (    Si el infractor no regularizare su situación, el) Tj
+T* (Director de Obras formulará, en cualquier tiempo, la) Tj
+T* (correspondiente denuncia ante el Juez de Policía Local,) Tj
+T* (el que, además de la multa por la infracción,) Tj
+T* (condenará también al infractor a pagar el valor de los) Tj
+T* (derechos correspondientes a la edificación que se) Tj
+T* (hubiere levantado sin permiso, recargado en 100%.) Tj
+T* (    El Juez de Policía Local aplicará la sanción en) Tj
+T* (esta parte conforme a la liquidación que practique el) Tj
+T* (Director de Obras Municipales, de acuerdo a los valores) Tj
+T* (establecidos, más el recargo aludido.) Tj
+T* (    Verificado el pago en este último caso, se) Tj
+T* (extenderá un certificado final, trámite con el cual se) Tj
+T* (entenderá regularizada la construcción, sin otros) Tj
+T* (requisitos, siempre que no vulnere las disposiciones del) Tj
+T* (Plan Regulador.) Tj
+T* () Tj
+T* () Tj
+T* (    Párrafo 4° ) Tj
+T* (    De las Obligaciones del Urbanizador) Tj
+T* () Tj
+T* (    Artículo 134.- Para urbanizar un terreno, el           LEY 19525) Tj
+T* (propietario del mismo deberá ejecutar, a su costa, el      ART 5) Tj
+T* (pavimento de las calles y pasajes, las plantaciones y      D.O.10.11.1997) Tj
+T* (obras de ornato, las instalaciones sanitarias y            NOTA) Tj
+T* (energéticas, con sus obras de alimentación y desagües de ) Tj
+T* (aguas servidas y de aguas lluvias, y las obras de ) Tj
+T* (defensa y de servicio del terreno.) Tj
+T* (    Sin embargo, cuando las obras de alimentación y ) Tj
+T* (desagüe que deban ejecutarse beneficien también a otros ) Tj
+T* (propietarios, el servicio respectivo determinará el pago ) Tj
+T* (proporcional que corresponda al propietario en estas ) Tj
+T* (obras, en la forma que determine la Ordenanza General.) Tj
+T* (    Las plantaciones y obras de ornato deberán ser         LEY 19057) Tj
+T* (aprobadas y recibidas por la Dirección de Obras            Art. único Nº 2) Tj
+T* (Municipales respectiva.                                    D.O. 03.05.1991) Tj
+T* () Tj
+ET
+endstream
+endobj
+133 0 obj
+3313
+endobj
+134 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 135 0 R
+  /Rotate 0
+  >>
+endobj
+135 0 obj
+  <<
+  /Length 136 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (NOTA :) Tj
+T* (     Ver el artículo 6 de la Ley 19525, publicada en ) Tj
+T* (el Diario Oficial de 10.11.1997.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 135.- Terminados los trabajos a que se       LEY 20218) Tj
+T* (refiere el articulo anterior, o las obras de               Art. único) Tj
+T* (edificación, en su caso, el propietario y el arquitecto    D.O. 29.09.2007) Tj
+T* (solicitarán su recepción al Director de Obras ) Tj
+T* (Municipales. Cuando la Dirección de Obras Municipales ) Tj
+T* (acuerde la recepción indicada, se considerarán, por este ) Tj
+T* (solo hecho, incorporadas:) Tj
+T* (  ) Tj
+T* (a\)   Al dominio nacional de uso público, todas las ) Tj
+T* (     calles, avenidas, áreas verdes y espacios públicos) Tj
+T* (     en general, contemplados como tales en el proyecto,) Tj
+T* (     y) Tj
+T* (b\)   Al dominio municipal, los terrenos cedidos de ) Tj
+T* (     conformidad al artículo 70 de esta ley para ) Tj
+T* (     localizar equipamientos. Para el solo efecto de ) Tj
+T* (     mantener la historia de la propiedad raíz, dichos ) Tj
+T* (     terrenos se inscribirán a nombre del municipio ) Tj
+T* (     respectivo, en el Registro de Propiedad del ) Tj
+T* (     Conservador de Bienes Raíces, presentando el ) Tj
+T* (     certificado de recepción definitiva. La Ordenanza) Tj
+T* (     General indicará las menciones que deberá incluir ) Tj
+T* (     el certificado para poder ser inscrito en el ) Tj
+T* (     mencionado Registro.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 136.- Mientras en una población, apertura) Tj
+T* (de calles, formación de un nuevo barrio, loteo o) Tj
+T* (subdivisión de un predio, no se hubieren ejecutado) Tj
+T* (todos los trabajos de urbanización que exigen los dos) Tj
+T* (artículos precedentes y la Ordenanza General, no será) Tj
+T* (lícito al propietario, loteador o urbanizador de los) Tj
+T* (terrenos correspondientes, enajenarlos, acordar) Tj
+T* (adjudicaciones en lote, celebrar contratos de) Tj
+T* (compraventa, promesas de venta, reservas de sitios,) Tj
+T* (constituir comunidades o sociedades tendientes a la) Tj
+T* (formación de nuevas poblaciones o celebrar cualquier) Tj
+T* (clase de actos o contratos que tengan por finalidad) Tj
+T* (última o inmediata la transferencia del dominio de) Tj
+T* (dichos terrenos.) Tj
+T* (    La venta, promesa de venta o cualquier otro acto o) Tj
+T* (contrato que tenga análoga finalidad sobre un predio no) Tj
+T* (urbanizado, en favor de una comunidad, se presumirá que) Tj
+T* (tiene por objeto la subdivisión del mismo sin la) Tj
+T* (necesaria urbanización.) Tj
+T* (    No obstante, la Dirección de Obras podrá autorizar) Tj
+T* (las ventas y adjudicaciones, extendiendo el) Tj
+T* (correspondiente certificado de urbanización, previo) Tj
+T* (otorgamiento de las garantías que señala el artículo) Tj
+T* (129, por el monto total de las obras de urbanización) Tj
+T* (pendientes.) Tj
+T* (    El depósito de estas garantías permitirá a la) Tj
+T* (Dirección de Obras Municipales efectuar la recepción) Tj
+T* (definitiva de los edificios.) Tj
+T* (    No podrá inscribirse en el Conservador de Bienes) Tj
+ET
+endstream
+endobj
+136 0 obj
+3131
+endobj
+137 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 138 0 R
+  /Rotate 0
+  >>
+endobj
+138 0 obj
+  <<
+  /Length 139 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Raíces ninguna transferencia parcial del dominio o) Tj
+T* (adjudicación de terrenos sin un certificado de la) Tj
+T* (Dirección de Obras, que acredite que la calle o avenida) Tj
+T* (en que se halla situado el predio está debidamente) Tj
+T* (urbanizado o que su urbanización ha sido garantizada en) Tj
+T* (la forma prescrita en el artículo 129.) Tj
+T* (    Artículo 137.- No obstante lo dispuesto en los) Tj
+T* (artículos precedentes, el propietario de los terrenos) Tj
+T* (podrá enajenar parte de ellos en favor de las) Tj
+T* (cooperativas de viviendas, sin cumplir con las) Tj
+T* (exigencias de urbanización necesarias, previa) Tj
+T* (autorización de la Secretaría Regional correspondiente) Tj
+T* (del Ministerio de Vivienda y Urbanismo, otorgada a la) Tj
+T* (respectiva cooperativa. En tal caso, la cooperativa de) Tj
+T* (vivienda asumirá la responsabilidad de ejecutar las) Tj
+T* (obras de urbanización señaladas en el artículo 134 de) Tj
+T* (esta Ley. En el cumplimiento de esta obligación no) Tj
+T* (estará sujeta a los requisitos ni excepciones que se) Tj
+T* (establecen en el artículo 97 del DFL. RRA. N° 20, de) Tj
+T* (1963.) Tj
+T* (    La cooperativa de vivienda podrá cumplir su) Tj
+T* (obligación de urbanizar en dos etapas. En la primera) Tj
+T* (etapa ejecutará las redes de agua potable,) Tj
+T* (alcantarillado y electricidad y la pavimentación) Tj
+T* (básica parcial que señale la Ordenanza General. La) Tj
+T* (Dirección de Obras Municipales hará la recepción de) Tj
+T* (estas obras. Cumplido este trámite, la Dirección se) Tj
+T* (recibirá de las viviendas que se construyan o se hayan) Tj
+T* (construido. Esta recepción permitirá a la cooperativa) Tj
+T* (entregar las viviendas para el uso y goce de sus socios.) Tj
+T* (    En la segunda etapa, la cooperativa deberá ejecutar) Tj
+T* (las restantes obras de pavimentación, de acuerdo al) Tj
+T* (proyecto y presupuesto respectivo que se hubiere) Tj
+T* (aprobado inicialmente, calculado en "cuotas de ahorro) Tj
+T* (para la vivienda" a su valor provisional a esa fecha. En) Tj
+T* (relación a dicho presupuesto, la cooperativa hará) Tj
+T* (efectivo un plan de ahorro o de capitalización que le) Tj
+T* (permita reunir los recursos correspondientes para esta) Tj
+T* (etapa.) Tj
+T* (    Mientras no estén ejecutadas y recibidas las obras) Tj
+T* (de pavimentación de esta segunda etapa, la cooperativa) Tj
+T* (no podrá efectuar las transferencias de dominio o) Tj
+T* (adjudicaciones de los respectivos lotes y viviendas a) Tj
+T* (sus socios.) Tj
+T* (    Los Notarios no autorizarán las escrituras ni los) Tj
+T* (Conservadores de Bienes Raíces inscribirán las) Tj
+T* (transferencias y adjudicaciones que no cumplan con los) Tj
+T* (requisitos señalados en los incisos precedentes, para) Tj
+T* (cuyo efecto aquéllos deberán exigir el correspondiente) Tj
+T* (certificado del Secretario Regional Ministerial o del) Tj
+T* (Director de Obras Municipales, que se insertará en la) Tj
+T* (escritura respectiva.) Tj
+T* (    Artículo 138.- Será sancionado con la pena de) Tj
+T* (presidio menor en su grado máximo a presidio mayor en) Tj
+T* (su grado mínimo el propietario, loteador, o urbanizador) Tj
+T* (que realice cualquiera clase de actos o contratos que) Tj
+T* (tengan por finalidad última o inmediata la) Tj
+T* (transferencia del dominio, tales como ventas, promesas) Tj
+T* (de venta, reservas de sitios, adjudicaciones en lote o) Tj
+T* (constitución de comunidades o sociedades tendientes a) Tj
+ET
+endstream
+endobj
+139 0 obj
+3490
+endobj
+140 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 141 0 R
+  /Rotate 0
+  >>
+endobj
+141 0 obj
+  <<
+  /Length 142 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (la formación de nuevas poblaciones, en contravención a) Tj
+T* (lo dispuesto en el presente párrafo.) Tj
+T* (     Artículo 138 bis.- Las personas naturales o           LEY 19932) Tj
+T* (jurídicas que tengan por giro la actividad inmobiliaria    Art. 1º) Tj
+T* (o aquellas que construyan o encarguen construir bienes     D.O. 03.02.2004) Tj
+T* (raíces destinados a viviendas, locales comerciales u ) Tj
+T* (oficinas, que no cuenten con recepción definitiva          LEY 20007) Tj
+T* (y que celebren contratos de promesa de                     Art. único) Tj
+T* (compraventa en los cuales el promitente comprado           Nº 1 y 2) Tj
+T* (entregue todo o parte del precio del bien raíz,            D.O. 11.04.2005) Tj
+T* (deberán otorgarlos mediante instrumentos ) Tj
+T* (privados autorizados ante notario y caucionarlos ) Tj
+T* (mediante póliza de seguro o boleta bancaria, aceptada ) Tj
+T* (por el promitente comprador. Esta garantía, debidamente ) Tj
+T* (identificada, se incorporará al contrato a favor del ) Tj
+T* (promitente comprador, en un valor igual a la parte del ) Tj
+T* (precio del bien raíz entregado por éste y establecido en ) Tj
+T* (el contrato de promesa respectivo, para el evento de que ) Tj
+T* (éste no se cumpla dentro del plazo o al cumplimiento de ) Tj
+T* (la condición establecidos por el promitente vendedor. La ) Tj
+T* (garantía permanecerá vigente mientras el inmueble se ) Tj
+T* (encuentre sujeto a cualquier gravamen o prohibición ) Tj
+T* (emanado directamente de obligaciones pendientes e ) Tj
+T* (imputables al promitente vendedor y hasta la inscripción ) Tj
+T* (del dominio en el registro de propiedad del respectivo ) Tj
+T* (conservador de bienes raíces, a favor del promitente ) Tj
+T* (comprador.) Tj
+T* (     Los notarios públicos no autorizarán los contratos ) Tj
+T* (de promesa de compraventa a que se refiere el inciso ) Tj
+T* (anterior si no se ha constituido la garantía a favor del) Tj
+T* (promitente comprador.) Tj
+T* () Tj
+T* (     La obligación del promitente vendedor de otorgar      LEY 20007) Tj
+T* (la garantía no será exigible respecto de la parte del      Art. único) Tj
+T* (precio que sea depositada por el promitente comprador en   Nº 3) Tj
+T* (alguno de los siguientes instrumentos, de lo que se        D.O. 11.04.2005) Tj
+T* (dejará constancia en el contrato de promesa:) Tj
+T* (  ) Tj
+T* (a\) Cuenta de ahorro de la cual no pueda girar fondos el ) Tj
+T* (   promitente comprador.) Tj
+T* (b\) Depósitos a plazo en favor del promitente vendedor, ) Tj
+T* (   que deberán mantenerse en custodia del notario ) Tj
+T* (   autorizante.) Tj
+T* (  ) Tj
+T* (     En los casos indicados en las letras a\) y b\) del ) Tj
+T* (inciso precedente, los montos anticipados serán puestos ) Tj
+T* (a disposición del promitente vendedor una vez que se ) Tj
+T* (celebre el contrato de compraventa y se inscriba el ) Tj
+T* (inmueble a nombre del promitente comprador en el ) Tj
+T* (Conservador de Bienes Raíces respectivo.) Tj
+T* (  ) Tj
+T* (     Los depósitos a plazo y las cuentas de ahorro a que ) Tj
+T* (alude esta norma deberán cumplir con los requisitos ) Tj
+T* (generales establecidos por las disposiciones legales, ) Tj
+T* (reglamentarias y normativa de la Superintendencia de ) Tj
+T* (Bancos e Instituciones Financieras vigentes y, además, ) Tj
+T* (con los requisitos específicos que al efecto establezca ) Tj
+T* (la Ordenanza General de Urbanismo y Construcciones.) Tj
+T* (En los casos previstos en las letras a\) y b\) del inciso ) Tj
+T* (tercero deberá estipularse un plazo para el cumplimiento ) Tj
+ET
+endstream
+endobj
+142 0 obj
+3585
+endobj
+143 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 144 0 R
+  /Rotate 0
+  >>
+endobj
+144 0 obj
+  <<
+  /Length 145 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (de la condición de inscribir el dominio del inmueble a ) Tj
+T* (nombre del promitente comprador y si nada se dijere se ) Tj
+T* (entenderá que dicho plazo es de 1 año contado desde la ) Tj
+T* (fecha de la promesa.) Tj
+T* (  ) Tj
+T* (     Las disposiciones anteriores se aplicarán a ) Tj
+T* (cualquier acto jurídico que implique la entrega de una ) Tj
+T* (determinada cantidad de dinero para la adquisición del ) Tj
+T* (dominio de una vivienda, local comercial u oficina, que ) Tj
+T* (no cuente con recepción definitiva, excepto a aquellos ) Tj
+T* (regidos por la Ley General de Cooperativas o la ley Nº ) Tj
+T* (19.281, sobre arrendamiento de viviendas con promesa de ) Tj
+T* (compraventa, aun cuando no cuenten con recepción ) Tj
+T* (definitiva. En todo caso, las disposiciones contenidas ) Tj
+T* (en el presente artículo se aplicarán a las compraventas ) Tj
+T* (de viviendas, locales comerciales u oficinas cuando al ) Tj
+T* (momento de celebrarse dicho contrato el inmueble se ) Tj
+T* (encuentre hipotecado, en cuyo evento la garantía que se ) Tj
+T* (otorgue se mantendrá vigente mientras no se proceda al ) Tj
+T* (alzamiento de dicha hipoteca, salvo que el acreedor ) Tj
+T* (hipotecario concurra a la escritura de compraventa ) Tj
+T* (alzando la hipoteca y la prohibición de gravar o ) Tj
+T* (enajenar si la hubiere.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 139.- Las Municipalidades, los Intendentes) Tj
+T* (y Gobernadores y los Servicios Regionales o) Tj
+T* (Metropolitano del Sector Vivienda estarán obligados a) Tj
+T* (ejercitar las correspondientes acciones penales cuando) Tj
+T* (tengan conocimiento de la comisión de alguno de los) Tj
+T* (delitos descritos en el artículo anterior.) Tj
+T* (    Dichas autoridades y entidades gozarán del) Tj
+T* (privilegio de pobreza en las querellas y denuncias que) Tj
+T* (presenten para perseguir a los responsables de tales) Tj
+T* (delitos, y estarán exentas de las obligaciones de) Tj
+T* (rendir fianza de calumnia y de ratificar las querellas) Tj
+T* (respectivas ante el Tribunal.) Tj
+T* (    Será competente para conocer de los delitos a que) Tj
+T* (se refiere este artículo el Juez del lugar en que) Tj
+T* (estuviere ubicado el inmueble. En el caso de terrenos o) Tj
+T* (poblaciones ubicadas dentro del radio jurisdiccional de) Tj
+T* (dos o más juzgados, será competente el Juez que) Tj
+T* (primero hubiere comenzado a instruir el proceso.) Tj
+T* (    Artículo 140.- La Dirección de Obras Municipales) Tj
+T* (podrá, excepcionalmente y sólo en las zonas urbanas,) Tj
+T* (autorizar la subdivisión y enajenación de terrenos en) Tj
+T* (lotes de dos hectáreas cada uno, a lo menos, frente a) Tj
+T* (calles existentes, sin cumplir con las exigencias de) Tj
+T* (urbanización establecidas en este párrafo, siempre que) Tj
+T* (el propietario ceda gratuitamente los espacios de uso) Tj
+T* (público contemplados en los Planes Reguladores o Planos) Tj
+T* (Seccionales y sus Ordenanzas. Será necesario, sin) Tj
+T* (embargo, que el adquirente del respectivo lote rinda) Tj
+T* (garantía de urbanización por la parte del lote que) Tj
+T* (adquiere, en la forma prevista en el artículo 129.) Tj
+T* (    En el plano de subdivisión que se aprobare, se) Tj
+T* (dejará expresa constancia de que cada lote resultante) Tj
+T* (sólo podrá enajenarse a una persona, natural o) Tj
+T* (jurídica.) Tj
+T* (    El Conservador de Bienes Raíces respectivo no) Tj
+ET
+endstream
+endobj
+145 0 obj
+3422
+endobj
+146 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 147 0 R
+  /Rotate 0
+  >>
+endobj
+147 0 obj
+  <<
+  /Length 148 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (inscribirá los títulos que no cumplan con las) Tj
+T* (exigencias precedentes, en estos casos.) Tj
+T* (    En el evento de que, en cualquiera de dichos lotes,) Tj
+T* (se efectuare posteriormente algunos de los actos) Tj
+T* (señalados en el artículo 136, habiendo caducado las) Tj
+T* (garantías correspondientes o sin cumplir con los) Tj
+T* (requisitos que prescribe este párrafo, el propietario) Tj
+T* (del respectivo lote, o su representante legal si fuere   NOTA 2) Tj
+T* (una persona jurídica, será sancionado con las penas) Tj
+T* (que establece el artículo 139.-) Tj
+T* (NOTA:   2) Tj
+T* (    Ver alcance de la Contraloría General de la) Tj
+T* (República, al final de este texto.) Tj
+T* (    Artículo 141.- DEROGADO.-                            LEY 19057) Tj
+T* (                                                         Art. único) Tj
+T* (                                                         3\)) Tj
+T* (    Párrafo 5° \(ARTS. 142-145\)) Tj
+T* (    De las Inspecciones y Recepciones de Obras) Tj
+T* (    Artículo 142.- Corresponderá a la Dirección de         LEY 19472) Tj
+T* (Obras Municipales fiscalizar las obras de edificación y    Art. único Nº 15) Tj
+T* (de urbanización que se ejecuten dentro de la               D.O. 16.09.1996) Tj
+T* (comuna, como asimismo el destino que se dé a los           NOTA ) Tj
+T* (edificios.) Tj
+T* (    Los funcionarios municipales tendrán libre acceso a) Tj
+T* (todas las obras de edificación y urbanización que se) Tj
+T* (ejecuten en la comuna, para ejercer las inspecciones que) Tj
+T* (sean necesarias.) Tj
+T* (    Los revisores independientes a que se refiere el       LEY 19472) Tj
+T* (artículo 116 Bis, tendrán igualmente libre acceso a        Art. único Nº 16) Tj
+T* (todas las obras de edificación y urbanización que les      D.O. 16.09.1996) Tj
+T* (corresponda informar.                                      NOTA) Tj
+T* (    Asimismo, después de recepcionadas las obras, las) Tj
+T* (Direcciones de Obras Municipales podrán fiscalizar el) Tj
+T* (cumplimiento de las normas sobre seguridad y) Tj
+T* (conservación de las edificaciones.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 143.- Durante la ejecución de una obra,       LEY 19472) Tj
+T* (el constructor a cargo de ella deberá velar porque en la   Art. único Nº17) Tj
+T* (construcción se adopten medidas de gestión y control de    D.O. 16.09.1996) Tj
+T* (calidad para que ésta se ejecute conforme a las normas     NOTA ) Tj
+T* (de la Ley General de Urbanismo y Construcciones y de la) Tj
+T* (Ordenanza General, y se ajuste a los planos y) Tj
+T* (especificaciones del respectivo proyecto. Terminada la) Tj
+T* (obra, dicho profesional deberá informar las medidas de) Tj
+T* (gestión y de control de calidad adoptadas y certificar) Tj
+T* (que éstas se han aplicado. El propietario podrá designar) Tj
+T* (a una empresa o a un profesional distinto del) Tj
+T* (constructor para el desempeño de la labor señalada en) Tj
+T* (este inciso.) Tj
+T* (    Tratándose de edificios de uso público deberá) Tj
+T* (existir una inspección técnica, independiente del) Tj
+T* (constructor, encargada de fiscalizar que la obra se) Tj
+T* (ejecute conforme a las normas de construcción aplicables) Tj
+T* (en la materia y al permiso de construcción aprobado.) Tj
+ET
+endstream
+endobj
+148 0 obj
+3453
+endobj
+149 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 150 0 R
+  /Rotate 0
+  >>
+endobj
+150 0 obj
+  <<
+  /Length 151 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Se deberá mantener en el lugar de la obra, en forma) Tj
+T* (permanente y actualizada, un Libro de Obras, en el cual) Tj
+T* (se consignarán, debidamente firmadas, las instrucciones) Tj
+T* (y observaciones sobre el desarrollo de la construcción,) Tj
+T* (por parte de los profesionales proyectistas, el) Tj
+T* (constructor y el profesional mencionado en el inciso) Tj
+T* (anterior, sin perjuicio de las observaciones que) Tj
+T* (registren los inspectores municipales cuando lo) Tj
+T* (requieran.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 19472,) Tj
+T* (publicada el 16.09.1996, dispuso su vigencia ) Tj
+T* (noventa días después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 144.- Terminada una obra o parte de la ) Tj
+T* (misma que pueda habilitarse independientemente, el ) Tj
+T* (propietario y el arquitecto solicitarán                    LEY 20016) Tj
+T* (su recepción definitiva por la Dirección de Obras          Art. único Nº 7 a\)) Tj
+T* (Municipales. Sin perjuicio de las recepciones              D.O. 27.05.2005) Tj
+T* (definitivas parciales, habrá, en todo caso, una            NOTA) Tj
+T* (recepción definitiva del total de las obras.) Tj
+T* (    A la solicitud de recepción deberá adjuntarse un       LEY 20016) Tj
+T* (informe del arquitecto, y del revisor independiente        Art. único Nº 7 b\)) Tj
+T* (cuando lo hubiere, en que se certifique que las obras se   D.O. 27.05.2005) Tj
+T* (han ejecutado de acuerdo al permiso aprobado, incluidas    NOTA) Tj
+T* (sus modificaciones, conforme a lo indicado en el inciso ) Tj
+T* (segundo del artículo 119 de esta ley. En caso que la ) Tj
+T* (construcción hubiere contado con un inspector técnico de ) Tj
+T* (obra \(ITO\) también deberá acompañarse un informe de ) Tj
+T* (dicho profesional.) Tj
+T* (     El Director de Obras deberá revisar únicamente el ) Tj
+T* (cumplimiento de las normas urbanísticas aplicables a la ) Tj
+T* (obra, conforme al permiso otorgado, y procederá a ) Tj
+T* (efectuar la recepción, si fuere procedente.) Tj
+T* (    Lo dispuesto en el artículo 118 será aplicable al) Tj
+T* (caso de las recepciones definitivas parciales o totales.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El Art. Transitorio de la LEY 20016, publicada el) Tj
+T* (27.05.2005, dispone que las modificaciones que introduce) Tj
+T* (a la presente norma, comenzarán a regir noventa días ) Tj
+T* (después de su publicación.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 145° Ninguna obra podrá ser habitada o      LEY 18.101) Tj
+T* (destinada a uso alguno antes de su recepción definitiva  ART. 27 a\)) Tj
+T* (parcial o total.) Tj
+T* (    Los inmuebles construidos o que se construyan,) Tj
+T* (según los permisos municipales, para viviendas no) Tj
+T* (podrán ser destinados a otros fines, a menos que la) Tj
+T* (municipalidad respectiva autorice el cambio de destino y) Tj
+T* (el propietario obtenga la aprobación de los planos y) Tj
+T* (pague el valor de los permisos correspondientes, cuando) Tj
+T* (procediere.) Tj
+T* (    No se considerará alteración del destino de un) Tj
+T* (inmueble la instalación en él de pequeños comercios o) Tj
+T* (industrias artesanales, o el ejercicio de una actividad) Tj
+ET
+endstream
+endobj
+151 0 obj
+3223
+endobj
+152 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 153 0 R
+  /Rotate 0
+  >>
+endobj
+153 0 obj
+  <<
+  /Length 154 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (profesional, si su principal destinación subsiste como) Tj
+T* (habitacional.) Tj
+T* (    Sin perjuicio de las multas que se contemplan en el) Tj
+T* (artículo 20°, la infracción a lo dispuesto en el) Tj
+T* (inciso primero de este artículo podrá sancionarse,) Tj
+T* (además, con la inhabilidad de la obra, hasta que se) Tj
+T* (obtenga su recepción, y el desalojo de los ocupantes,) Tj
+T* (con el auxilio de la fuerza pública, que decretará el) Tj
+T* (Alcalde, a petición del Director de obras Municipales.) Tj
+T* (    Párrafo 6° \(ARTS. 146-147\)) Tj
+T* (    De la Paralización de Obras) Tj
+T* (    Artículo 146.- El Director de Obras Municipales,) Tj
+T* (mediante resolución fundada, podrá ordenar la) Tj
+T* (paralización de cualquier obra en los casos en que) Tj
+T* (hubiere lugar a ello.) Tj
+T* (    Comprobando que una obra se estuviere ejecutando sin) Tj
+T* (el permiso correspondiente o en disconformidad con él,) Tj
+T* (o con ausencia de supervisión técnica, o que ello) Tj
+T* (implique un riesgo no cubierto, sin perjuicio de las) Tj
+T* (sanciones que corresponda, ordenará de inmediato su) Tj
+T* (paralización, fijando un plazo prudencial para que se) Tj
+T* (proceda a subsanar las observaciones que se formulen.) Tj
+T* (    Artículo 147.- El incumplimiento de lo resuelto por) Tj
+T* (el Director de Obras será sancionado en la forma) Tj
+T* (establecida por los artículos 20 y 21, en cuyo caso el) Tj
+T* (Juez deberá, además, fijar un último plazo para) Tj
+T* (regularizar la infracción, vencido el cual ordenará la) Tj
+T* (clausura de la obra.) Tj
+T* (    La clausura sólo podrá ser alzada para dar lugar) Tj
+T* (al cumplimiento de las observaciones formuladas,) Tj
+T* (subsanadas las cuales podrá continuarse la ejecución) Tj
+T* (de la obra.) Tj
+T* (    Párrafo 7° \(ARTS. 148-157\)) Tj
+T* (    De las Demoliciones) Tj
+T* (    Artículo 148.- El Alcalde, a petición del Director) Tj
+T* (de Obras, podrá ordenar la demolición, total o) Tj
+T* (parcial, a costa del propietario, de cualquiera obra en) Tj
+T* (los siguientes casos:) Tj
+T* (    1.- Obras que se ejecuten en disconformidad con las) Tj
+T* (disposiciones de la presente Ley, su Ordenanza General u) Tj
+T* (Ordenanza Local respectiva.) Tj
+T* (    2.- Obras que se ejecuten fuera de la línea de) Tj
+T* (cierro o en bienes de uso público, sin la autorización) Tj
+T* (correspondiente.) Tj
+T* (    3.- Obras que no ofrezcan las debidas garantías de) Tj
+T* (salubridad y seguridad, o que amenacen ruina.) Tj
+T* (    4.- Obras ejecutadas de conformidad a las) Tj
+T* (autorizaciones señaladas en los artículos 121, 122y) Tj
+T* (123, que no se hubieren demolido al vencimiento de los) Tj
+T* (plazos estipulados.) Tj
+T* (    Artículo 149.- Cualquiera persona podrá denunciar) Tj
+T* (a la Municipalidad las obras que amenacen ruina o que,) Tj
+T* (por el mal estado de ciertas partes de ella, pudieren) Tj
+T* (originar la caída de materiales o elementos de la) Tj
+T* (construcción, sin perjuicio de la obligación de la) Tj
+T* (Dirección de Obras Municipales de solicitar del Alcalde) Tj
+T* (que ordene la demolición del todo o parte de dichas) Tj
+T* (obras.) Tj
+T* (    Artículo 150.- Recibida la denuncia, el Director de) Tj
+T* (Obras Municipales hará practicar un reconocimiento de) Tj
+ET
+endstream
+endobj
+154 0 obj
+3287
+endobj
+155 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 156 0 R
+  /Rotate 0
+  >>
+endobj
+156 0 obj
+  <<
+  /Length 157 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (la obra y propondrá a la Alcaldía las medidas que) Tj
+T* (estime procedentes.) Tj
+T* (    La Alcaldía, con el informe de la Dirección de) Tj
+T* (Obras Municipales, fijará al propietario un plazo) Tj
+T* (prudencial para la demolición de ésta o de la parte de) Tj
+T* (la misma que amenazare derrumbarse.) Tj
+T* (    Artículo 151.-La resolución que expida la) Tj
+T* (Alcaldía, en conformidad con el artículo anterior,) Tj
+T* (será notificada al propietario, y si éste no fuere) Tj
+T* (habido ni tuviere representante legal o mandatario) Tj
+T* (conocido, la notificación se hará por medio de avisos,) Tj
+T* (que se publicarán tres veces en un periódico de la) Tj
+T* (ciudad cabecera de la provincia. En el caso de los) Tj
+T* (edificios, se notificará además a los arrendatarios u) Tj
+T* (ocupantes del mismo, si los hubiere.) Tj
+T* (    Artículo 152.- Dentro del plazo fijado por la) Tj
+T* (Alcaldía para la ejecución de la demolición, contado) Tj
+T* (desde la fecha de la notificación o de la publicación) Tj
+T* (del último aviso, el propietario de la obra podrá) Tj
+T* (pedir reposición de la resolución respectiva y que se) Tj
+T* (proceda, a su costa, a una nueva revisión de la obra) Tj
+T* (por el Director de Obras Municipales, asesorado del) Tj
+T* (ingeniero o arquitecto que designe el propietario.) Tj
+T* (    Artículo 153.- Transcurrido el plazo a que se) Tj
+T* (refiere el artículo 150 o desechada la solicitud de) Tj
+T* (reposición en el caso del artículo precedente, la) Tj
+T* (Alcaldía dispondrá que se proceda, sin más trámite,) Tj
+T* (a la demolición de la obra ruinosa o de la misma que) Tj
+T* (corresponda, por cuenta del propietario y con el auxilio) Tj
+T* (de la fuerza pública, previo desalojo de los ocupantes) Tj
+T* (del inmueble.) Tj
+T* (    Artículo 154.- Decretada una demolición y) Tj
+T* (notificada al propietario del inmueble la resolución) Tj
+T* (respectiva en la forma prescrita por el artículo 151,) Tj
+T* (aquél podrá reclamar de ella ante la justicia) Tj
+T* (ordinaria, dentro del plazo de 10 días hábiles, a) Tj
+T* (contar de la fecha de su notificación, sin perjuicio de) Tj
+T* (la reposición a que alude el artículo 152, la que) Tj
+T* (podrá siempre deducirse.) Tj
+T* (    Si dentro del plazo que se hubiere fijado para la) Tj
+T* (demolición, el Alcalde no recibiere orden de no) Tj
+T* (innovar, decretada por Juez competente, aquél) Tj
+T* (procederá sin más trámite a la demolición ordenada,) Tj
+T* (previo desalojo de los ocupantes que hubiere. En caso) Tj
+T* (contrario, suspenderá la ejecución de la resolución) Tj
+T* (respectiva hasta el pronunciamiento definitivo de la) Tj
+T* (justicia.) Tj
+T* (    Lo dispuesto en el inciso precedente es sin) Tj
+T* (perjuicio de la facultad que confiere a los Alcaldes el) Tj
+T* (artículo 156 de esta Ley.) Tj
+T* (    Artículo 155.- Las reclamaciones se deducirán ante) Tj
+T* (el Juzgado de Letras de turno de Mayor Cuantía en lo) Tj
+T* (Civil del Departamento en que estuviere situado el) Tj
+T* (inmueble y la substanciación de ellas se someterá a) Tj
+T* (los trámites del juicio sumario.) Tj
+T* (    Artículo 156.- Cuando el peligro de derrumbe de una) Tj
+T* (obra o de parte de ella fuere inminente, la Alcaldía) Tj
+T* (podrá adoptar de inmediato todas las medidas necesarias) Tj
+T* (para eliminar el peligro, incluso la de demoler sin más) Tj
+T* (trámite, total o parcialmente la obra, todo por cuenta) Tj
+ET
+endstream
+endobj
+157 0 obj
+3428
+endobj
+158 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 159 0 R
+  /Rotate 0
+  >>
+endobj
+159 0 obj
+  <<
+  /Length 160 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (del propietario del inmueble.) Tj
+T* (    En este caso, deberán hacerse constar en un acta) Tj
+T* (los trabajos que se ejecuten, los gastos que éstos) Tj
+T* (originen y los demás antecedentes e informaciones que) Tj
+T* (procedan. Esta acta será firmada por el Director de) Tj
+T* (Obras Municipales, el Jefe de Carabineros del Sector y) Tj
+T* (un actuario o ministro de fe, que designará el Alcalde.) Tj
+T* (    Artículo 157.- El Secretario Regional de Vivienda y) Tj
+T* (Urbanismo podrá, fundadamente y con auxilio de la) Tj
+T* (fuerza pública, si fuere necesario, ordenar la) Tj
+T* (paralización y por resolución fundada, la demolición) Tj
+T* (total o parcial de las obras que se ejecuten en) Tj
+T* (contravención a los Planes Reguladores o sin haber) Tj
+T* (obtenido el correspondiente permiso municipal, con el) Tj
+T* (solo informe del Director de Obras Municipales) Tj
+T* (respectivo, quien deberá emitirlo dentro del plazo) Tj
+T* (máximo de 15 días.) Tj
+T* (    La resolución que ordene la demolición deberá) Tj
+T* (notificarse por un ministro de fe en la forma) Tj
+T* (establecida en el artículo 151, y en su contra sólo) Tj
+T* (procederá la reclamación ante la justicia ordinaria) Tj
+T* (dentro del plazo de 10 días hábiles a contar desde la) Tj
+T* (fecha de notificación.) Tj
+T* (    Transcurridos 10 días hábiles desde el vencimiento) Tj
+T* (del plazo indicado en el inciso anterior, sin que haya) Tj
+T* (sido notificado el reclamo, el Servicio Regional) Tj
+T* (respectivo del Ministerio de Vivienda y Urbanismo) Tj
+T* (procederá, sin más trámite, a la demolición.) Tj
+T* (    La reclamación se someterá a los trámites) Tj
+T* (indicados en el artículo 155.) Tj
+T* (    Los gastos que irrogue la aplicación de este) Tj
+T* (artículo serán de cargo a los fondos consultados en el) Tj
+T* (presupuesto del Servicio Regional respectivo.) Tj
+T* (    Párrafo 8° \(ARTS. 158-161\)) Tj
+T* (    De la Seguridad, Conservación y Reparación de) Tj
+T* (Edificios) Tj
+T* (    Artículo 158.- La Dirección de Obras Municipales) Tj
+T* (podrá exigir la terminación de las obras de) Tj
+T* (edificación de un inmueble, que hubieren sido) Tj
+T* (paralizadas, siempre que por su falta de terminación) Tj
+T* (presentaren mal aspecto, o implicaren riesgo de daño a) Tj
+T* (terceros.) Tj
+T* (    Del mismo modo, podrá la Dirección de Obras exigir) Tj
+T* (que sean reparados los edificios que, por su vetustez o) Tj
+T* (mal estado de conservación, hicieren desmerecer el) Tj
+T* (aspecto general de la vía o espacio público que) Tj
+T* (enfrentan, o implicaren riesgo de daño a terceros.) Tj
+T* (Edificios) Tj
+T* (    Artículo 159.- Los propietarios de los) Tj
+T* (establecimientos industriales, comerciales o de) Tj
+T* (edificios de cualquiera índole que no ofrecieren las) Tj
+T* (debidas garantías de salubridad, higiene o seguridad,) Tj
+T* (estarán obligados a efectuar en dichos establecimientos) Tj
+T* (o edificios, dentro del plazo que señale la) Tj
+T* (Municipalidad, todas aquellas mejoras o reparaciones que) Tj
+T* (determine la Dirección de Obras Municipales, de acuerdo) Tj
+T* (con la Ordenanza General o Local.) Tj
+T* (    Artículo 160.- En el caso de establecimientos) Tj
+T* (industriales o locales de almacenamiento, expuestos a) Tj
+T* (peligro de explosión o de incendio, y los que) Tj
+ET
+endstream
+endobj
+160 0 obj
+3324
+endobj
+161 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 162 0 R
+  /Rotate 0
+  >>
+endobj
+162 0 obj
+  <<
+  /Length 163 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (produjeren emanaciones dañinas o desagradables, ruidos,) Tj
+T* (trepidaciones u otras molestias al vecindario, la) Tj
+T* (Municipalidad fijará, previo informe de la Secretaría) Tj
+T* (Regional correspondiente del Ministerio de Vivienda y) Tj
+T* (Urbanismo y del Servicio Nacional de Salud, el plazo) Tj
+T* (dentro del cual deberán retirarse del sector en que) Tj
+T* (estuvieren establecidos. Dicho plazo no podrá ser) Tj
+T* (inferior a un año, contado desde la fecha de la) Tj
+T* (notificación de la resolución respectiva.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 161.- La Alcaldía podrá clausurar los) Tj
+T* (establecimientos o locales comerciales o industriales) Tj
+T* (que contravinieren las disposiciones de la presente Ley,) Tj
+T* (de la Ordenanza General y de las Ordenanzas Locales.) Tj
+T* (     TITULO IV \(ARTS. 162-167\)) Tj
+T* () Tj
+T* (     DE LAS VIVIENDAS ECONOMICAS) Tj
+T* () Tj
+T* (     Artículo 162° Son "viviendas económicas" las que      LEY 18.101) Tj
+T* (tienen una superficie edificada no superior a 140 metros   ART. 27 b\)) Tj
+T* (cuadrados por unidad de vivienda y reúnen los) Tj
+T* (requisitos, características y condiciones que se) Tj
+T* (determinan en el decreto con fuerza de ley 2, de 1959,) Tj
+T* (en la presente ley y en el Reglamento Especial de) Tj
+T* (Viviendas Económicas.) Tj
+T* (     Las viviendas económicas gozarán del régimen de) Tj
+T* (beneficios, franquicias y exenciones del decreto con) Tj
+T* (fuerza de ley 2, de 1959.) Tj
+T* (     Las viviendas ya construidas por las ex) Tj
+T* (Corporaciones de la Vivienda, de Servicios) Tj
+T* (Habitacionales y de Mejoramiento Urbano y las que en el) Tj
+T* (futuro construyan los Servicios de Vivienda y) Tj
+T* (Urbanización se considerarán viviendas económicas) Tj
+T* (para todos los efectos legales, siempre que no excedan) Tj
+T* (la superficie máxima permitida.) Tj
+T* (     Los edificios ya construídos, que al ser alterados    LEY 19021,) Tj
+T* (o reparados se transformen en viviendas de una             Art.1°, a\)) Tj
+T* (superficie edificada no superior a 140 metros cuadrados) Tj
+T* (por unidad de vivienda, podrán acogerse a los ) Tj
+T* (beneficios, franquicias y exenciones de las viviendas ) Tj
+T* (económicas y se considerarán como tales para todos los ) Tj
+T* (efectos legales, siempre que reúnan las características,) Tj
+T* (requisitos y condiciones que se determinan en este) Tj
+T* (Título, en el decreto con fuerza de ley N° 2, de 1959,) Tj
+T* (en el Reglamento Especial de Viviendas Económicas y en) Tj
+T* (los casos que corresponda, además, cumplan los) Tj
+T* (requisitos de la ley N° 6.071 y su Ordenanza. El ) Tj
+T* (permiso de alteración o reparación, una vez aprobado ) Tj
+T* (por la Dirección de Obras Municipales, deberá ) Tj
+T* (reducirse a escritura pública en la forma y ) Tj
+T* (condiciones que determina el artículo 18° del decreto ) Tj
+T* (con fuerza de ley N° 2, de 1959.) Tj
+T* (     En las viviendas económicas podrá también             LEY 19063) Tj
+T* (instalarse un pequeño comercio, sin perder las             Art. único) Tj
+T* (franquicias otorgadas por el decreto con fuerza de ley) Tj
+T* (N° 2, de 1959, del Ministerio de Hacienda, cuyo texto) Tj
+T* (definitivo fue fijado por el decreto supremo N° 1.101,) Tj
+T* (de 1960, del Ministerio de Obras Públicas, siempre que) Tj
+T* (su principal destino subsista como habitacional. Con) Tj
+ET
+endstream
+endobj
+163 0 obj
+3401
+endobj
+164 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 165 0 R
+  /Rotate 0
+  >>
+endobj
+165 0 obj
+  <<
+  /Length 166 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (todo, no podrán acogerse a la disposición anterior los) Tj
+T* (comercios que tengan por objeto el expendio y/o venta) Tj
+T* (de bebidas alcohólicas, el establecimiento de juegos) Tj
+T* (electrónicos, salones de pool, juegos de azar, la) Tj
+T* (exhibición de videos u otros que provoquen ruidos u) Tj
+T* (olores molestos y demás cuyo giro esté prohibido por) Tj
+T* (ordenanzas locales o municipales.) Tj
+T* (     En las viviendas económicas podrá consultarse el) Tj
+T* (funcionamiento de pequeños talleres artesanales o el) Tj
+T* (ejercicio de una actividad profesional, si su principal) Tj
+T* (destino subsiste como habitacional.) Tj
+T* (     Sólo podrá autorizarse el cambio de destinación) Tj
+T* (respecto de viviendas que, por su construcción,            LEY 19021,) Tj
+T* (alteración o reparación, hayan gozado, gocen o sigan       Art.1°, b\)) Tj
+T* (gozando de cualquier franquicia o exención tributaria o) Tj
+T* (de otra naturaleza, sea en forma directa o indirecta,) Tj
+T* (cuando hayan transcurrido a lo menos cinco años desde) Tj
+T* (la fecha del certificado de recepción definitiva.) Tj
+T* (     El cambio de destinación en estos casos hará) Tj
+T* (caducar de pleno derecho las franquicias, beneficios o) Tj
+T* (exenciones que se encuentren subsistentes.) Tj
+T* (     Sin perjuicio de lo señalado en los incisos           LEY 19864) Tj
+T* (anteriores, en las viviendas económicas podrá también      Art. 3º) Tj
+T* (instalarse un jardín infantil, sin necesidad de cambio     D.O. 08.04.2003) Tj
+T* (de destino y sin perder las franquicias otorgadas por ) Tj
+T* (el decreto con fuerza de ley Nº 2, del Ministerio de ) Tj
+T* (Hacienda, de 1959. El uso de una vivienda económica ) Tj
+T* (como jardín infantil será incompatible con cualquier ) Tj
+T* (otro uso, sea éste habitacional, de pequeño comercio ) Tj
+T* (o para taller.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 163.- La vivienda económica podrá) Tj
+T* (emplazarse en cualquier zona habitacional del área) Tj
+T* (urbana. También podrá emplazarse en sectores rurales,) Tj
+T* (siempre que ellas se destinen a habitaciones que) Tj
+T* (complementen actividades agrícolas, industriales,) Tj
+T* (mineras o pesqueras, en cuyo caso se requerirá la) Tj
+T* (autorización previa de la Secretaría Regional) Tj
+T* (correspondiente del Ministerio de Vivienda y Urbanismo.) Tj
+T* (    Los propietarios de predios agrícolas requerirán) Tj
+T* (solamente del respectivo permiso municipal para la) Tj
+T* (construcción de su propia vivienda económica.) Tj
+T* (    Artículo 164.- Las subdivisiones y las) Tj
+T* (urbanizaciones, destinadas a viviendas económicas, y) Tj
+T* (las obras de construcción necesarias para su) Tj
+T* (ejecución, se regirán por las disposiciones de la) Tj
+T* (presente Ley y su Ordenanza General.) Tj
+T* (    Artículo 165.- Los grupos de Viviendas Económicas) Tj
+T* (podrán tener locales destinados a comercio y) Tj
+T* (profesionales, estacionamientos y bodegas, servicios) Tj
+T* (públicos o de beneficio común, siempre que no excedan) Tj
+T* (los siguientes porcentajes:) Tj
+T* (    a\) 20% del total de la superficie construida en los) Tj
+T* (conjuntos habitacionales de viviendas con terreno propio) Tj
+T* (de uno o dos pisos, o conjuntos mixtos con viviendas en) Tj
+T* (altura;) Tj
+T* (    b\) 30% del total de la superficie edificada en los) Tj
+T* (conjuntos habitacionales formados exclusivamente por) Tj
+T* (edificios de departamentos de 3 o más pisos, pudiendo) Tj
+ET
+endstream
+endobj
+166 0 obj
+3480
+endobj
+167 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 168 0 R
+  /Rotate 0
+  >>
+endobj
+168 0 obj
+  <<
+  /Length 169 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (estos locales ubicarse solamente en el primer piso, o) Tj
+T* (hasta el segundo piso en su caso.) Tj
+T* (    Cuando el Plan Regulador exija destino comercial) Tj
+T* (obligatorio en primer piso y cuota mínima de) Tj
+T* (estacionamiento, se podrán exceder los porcentajes) Tj
+T* (antes señalados, siempre que se construya el máximo de) Tj
+T* (superficie permitida para ese terreno.) Tj
+T* (     Artículo 166.- A las ampliaciones de viviendas        LEY 20251) Tj
+T* (sociales, viviendas progresivas e infraestructuras         Art. único Nº 2) Tj
+T* (sanitarias, emplazadas en áreas urbana o rural, sólo       D.O. 04.03.2008) Tj
+T* (les serán aplicables las disposiciones de los planes ) Tj
+T* (reguladores y las normas técnicas que se indican a ) Tj
+T* (continuación:) Tj
+T* (  ) Tj
+T* (     a\) Disposiciones de los planes reguladores ) Tj
+T* (referidas a zonas de riesgo o protección, declaraciones ) Tj
+T* (de utilidad pública y uso de suelo.) Tj
+T* (  ) Tj
+T* (     b\) Normas técnicas de habitabilidad, seguridad, ) Tj
+T* (estabilidad y de las instalaciones interiores de ) Tj
+T* (electricidad, y, cuando corresponda, de agua potable, ) Tj
+T* (alcantarillado y gas.) Tj
+T* (  ) Tj
+T* (     El cumplimiento de dichas disposiciones y normas ) Tj
+T* (será certificado sólo por el profesional competente que ) Tj
+T* (suscriba la solicitud del permiso de edificación y de ) Tj
+T* (recepción de obras.) Tj
+T* (  ) Tj
+T* (     Los permisos de edificación y la recepción ) Tj
+T* (definitiva de las ampliaciones de que trata este ) Tj
+T* (artículo, se tramitarán conforme al procedimiento ) Tj
+T* (simplificado de obra menor de vivienda social, que para ) Tj
+T* (estos efectos establecerá la Ordenanza General.) Tj
+T* (  ) Tj
+T* (     Las disposiciones del presente artículo se ) Tj
+T* (aplicarán asimismo a la regularización de las ) Tj
+T* (edificaciones construidas con anterioridad al 31 de ) Tj
+T* (julio de 1959.) Tj
+T* (Los derechos municipales serán los que se establecen en ) Tj
+T* (el artículo 130 de la Ley General de Urbanismo y ) Tj
+T* (Construcciones, rebajados, a lo menos, en 50% en los ) Tj
+T* (casos contemplados en el inciso primero de este ) Tj
+T* (artículo.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 167.- Corresponderá al Servicio de) Tj
+T* (Impuestos Internos supervigilar que las Viviendas) Tj
+T* (Económicas mantengan los requisitos, características y) Tj
+T* (condiciones en que fueron aprobadas. Dicho Servicio) Tj
+T* (podrá, mediante resolución, dejar sin efecto los) Tj
+T* (beneficios, franquicias y exenciones de aquellas) Tj
+T* (viviendas en que se comprobare la existencia de alguna) Tj
+T* (infracción, situación prevista en el artículo 5° del) Tj
+T* (DFL. N° 2, de 1959, y declarará caducados los mismos) Tj
+T* (beneficios, franquicias y exenciones en los casos) Tj
+T* (previstos, a su vez, en el artículo 18 del mismo) Tj
+T* (decreto con fuerza de ley, sin perjuicio de la multa que) Tj
+T* (corresponda aplicar.) Tj
+T* (    De la resolución de Impuestos Internos que aplique) Tj
+ET
+endstream
+endobj
+169 0 obj
+3055
+endobj
+170 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 171 0 R
+  /Rotate 0
+  >>
+endobj
+171 0 obj
+  <<
+  /Length 172 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (las referidas sanciones, el afectado podrá apelar ante) Tj
+T* (la Secretaría Regional correspondiente del Ministerio) Tj
+T* (de Vivienda y Urbanismo, dentro del plazo de 30 días,) Tj
+T* (contados desde su notificación, la que resolverá en) Tj
+T* (definitiva.) Tj
+T* (    TITULO FINAL \(ARTS. 168-170\)) Tj
+T* (    Artículo 168.- El Ministerio de Vivienda y) Tj
+T* (Urbanismo fijará, por decreto supremo, el nuevo texto) Tj
+T* (de la Ordenanza General de esta Ley, que derogue y) Tj
+T* (reemplace totalmente a la anterior.) Tj
+T* (    Artículo 169.- Derógase el Decreto con Fuerza de) Tj
+T* (Ley N° 224, de 1953, cuyo texto definitivo fue fijado) Tj
+T* (por el Decreto Supremo N° 880, de 18 de abril de 1963,) Tj
+T* (de Obras Públicas, publicado en el Diario Oficial de 16) Tj
+T* (de Mayo del mismo año, en la parte que fija, a su vez,) Tj
+T* (el texto definitivo de la Ley General de Construcciones) Tj
+T* (y Urbanización.) Tj
+T* (    Subsistirán las disposiciones del cuerpo legal que) Tj
+T* (se deroga, en la parte relativa al texto definitivo de) Tj
+T* (la Ley N° 6.071, en lo que no se oponga a las normas de) Tj
+T* (la presente Ley y mientras no se promulgue el decreto) Tj
+T* (ley que fije el nuevo texto de la Ley de Propiedad) Tj
+T* (Horizontal.) Tj
+T* (    Deróganse, asimismo, los artículos 22 y 23 de la) Tj
+T* (Ley N° 17.235 y las disposiciones de otras leyes o) Tj
+T* (cuerpos legales que fueren contrarias a las de la) Tj
+T* (presente Ley General de Urbanismo y Construcciones.) Tj
+T* (    Artículo 170.- Todas las funciones que este cuerpo) Tj
+T* (legal entrega a las Secretarías Regionales del) Tj
+T* (Ministerio de Vivienda y Urbanismo, deberán ejercerse) Tj
+T* (de acuerdo a lo que exprese el Decreto Ley de) Tj
+T* (Reestructuración de dicho Ministerio.) Tj
+T* (    ARTICULOS TRANSITORIOS \(ARTS. 1-10\)) Tj
+T* (    Artículo 1°.- La ejecución de construcciones y de) Tj
+T* (obras de urbanización que se hubieren iniciado con) Tj
+T* (anterioridad a la vigencia de la presente Ley, se) Tj
+T* (regirán por las disposiciones vigentes a la fecha del) Tj
+T* (respectivo permiso en lo relativo a construcción, y por) Tj
+T* (lo dispuesto en la presente Ley en lo relativo a) Tj
+T* (urbanización.) Tj
+T* (    Artículo 2°.- La Actual Ordenanza General de) Tj
+T* (Construcciones y Urbanización continuará rigiendo) Tj
+T* (hasta la dictación de la nueva Ordenanza, en lo que no) Tj
+T* (se oponga a las disposiciones de la presente Ley.) Tj
+T* (    Artículo 3°.- Los actuales Reglamentos de) Tj
+T* (Instalaciones Sanitarias de Agua Potable y) Tj
+T* (Alcantarillado, y de Pavimentación, deberán adecuarse) Tj
+T* (a las normas de la nueva Ordenanza General que se dicte,) Tj
+T* (en el plazo que ésta señale.) Tj
+T* (    Las modificaciones correspondientes a dichos) Tj
+T* (Reglamentos se aprobarán por decreto del Ministerio de) Tj
+T* (Vivienda y Urbanismo, dictado "por orden del) Tj
+T* (Presidente".) Tj
+T* (    Artículo 4°.- Las disposiciones técnicas) Tj
+T* (contenidas en la Ley General de Construcciones y) Tj
+T* (Urbanización, cuyo texto se reemplaza por la presente) Tj
+T* (Ley, y que esta última remite a la nueva Ordenanza) Tj
+T* (General, seguirán vigentes hasta la aprobación de esta) Tj
+T* (Ordenanza.) Tj
+T* (    Artículo 5°.- Las construcciones o sus ampliaciones) Tj
+ET
+endstream
+endobj
+172 0 obj
+3330
+endobj
+173 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 174 0 R
+  /Rotate 0
+  >>
+endobj
+174 0 obj
+  <<
+  /Length 175 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (que se hubieren ejecutado sin permiso y que, en su) Tj
+T* (conjunto, no excedan de 60 m2., podrán regularizar su) Tj
+T* (situación dentro del plazo de un año, contado desde la) Tj
+T* (fecha de publicación de la presente Ley.) Tj
+T* (    Para los efectos indicados, la solicitud respectiva) Tj
+T* (deberá ser acompañada de los siguientes documentos:) Tj
+T* (    a\) Plano de arquitectura a escala mínima de 1:100;) Tj
+T* (    b\) Croquis de ubicación a escala de 1:500; y) Tj
+T* (    c\) Certificados de funcionamiento del agua potable,) Tj
+T* (alcantarillado y luz.) Tj
+T* (    Será suficiente, en estos casos, que los planos) Tj
+T* (aludidos sean suscritos por el Servicio de atención) Tj
+T* (gratuita del Colegio de Arquitectos de la respectiva) Tj
+T* (región o provincia.) Tj
+T* (    El permiso correspondiente se otorgará previo pago) Tj
+T* (solamente del 50% de los derechos municipales.) Tj
+T* (    Artículo 6°.- Lo dispuesto en el artículo 137 de) Tj
+T* (esta Ley será también aplicable a las cooperativas de) Tj
+T* (viviendas que hubieren adquirido terrenos u obtenido) Tj
+T* (permiso de urbanización y construcción con) Tj
+T* (anterioridad a la fecha de publicación de esta Ley.) Tj
+T* (    Los Directores de Obras Municipales se entenderán) Tj
+T* (autorizados para otorgar recepciones de obras de acuerdo) Tj
+T* (a las nuevas normas referidas, pudiendo aceptar que los) Tj
+T* (proyectos de urbanización ya aprobados sean ejecutados) Tj
+T* (en las dos etapas que menciona dicho artículo, sin) Tj
+T* (cobro de derechos adicionales.) Tj
+T* (    Los Conservadores de Bienes Raíces procederán, de) Tj
+T* (oficio, a cancelar las prohibiciones e hipotecas de) Tj
+T* (carácter general que se hubieren inscrito en garantía) Tj
+T* (de la ejecución de las obras de urbanización por parte) Tj
+T* (de las cooperativas, sin perjuicio de la prohibición) Tj
+T* (que se establece en el expresado artículo 137.) Tj
+T* (    Artículo 7°.- Las menciones que este texto legal) Tj
+T* (hace de los Servicios del Ministerio de Vivienda y) Tj
+T* (Urbanismo, se entenderán referidas a las Divisiones que) Tj
+T* (contemple el Decreto Ley de Reestructuración del mismo) Tj
+T* (Ministerio, que tengan análogas funciones, aun cuando) Tj
+T* (este último les asigne otra denominación.) Tj
+T* (    Artículo 8°.- Para los efectos previstos en el) Tj
+T* (inciso tercero del artículo 29 de la Ley N° 16.959, y) Tj
+T* (el artículo 29 bis del mismo cuerpo legal, se) Tj
+T* (entenderán incorporadas a la presente Ley las) Tj
+T* (disposiciones del Decreto Supremo N° 525, de Vivienda y) Tj
+T* (Urbanismo, de 7 de Octubre de 1974, publicado en el) Tj
+T* (Diario Oficial de 14 de Noviembre de 1974.) Tj
+T* (    Las viviendas y obras de equipamiento comunitario) Tj
+T* (construidas por el Ministerio de Vivienda y Urbanismo o) Tj
+T* (sus Corporaciones con anterioridad a la vigencia de la) Tj
+T* (presente Ley, deberán ser recibidas por las Direcciones) Tj
+T* (de Obras Municipales, aun cuando les faltaren las) Tj
+T* (plantaciones y obras de ornato; el pavimento de calles,) Tj
+T* (pasajes o veredas, siempre que se hubieren colocado las) Tj
+T* (soleras; los certificados de agua potable,) Tj
+T* (alcantarillado y alumbrado, y/o los jardines infantiles) Tj
+T* (a que se refiere el artículo 25 de la Ley 17.301.) Tj
+T* (    En los casos en que dichas viviendas o equipamiento) Tj
+T* (no contaren con el permiso de edificación, será) Tj
+T* (suficiente la presentación de los planos respectivos) Tj
+T* (para el otorgamiento simultáneo del permiso y la) Tj
+ET
+endstream
+endobj
+175 0 obj
+3564
+endobj
+176 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 177 0 R
+  /Rotate 0
+  >>
+endobj
+177 0 obj
+  <<
+  /Length 178 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (recepción final.) Tj
+T* (    Artículo 9°.- Las tasas y porcentajes establecidos) Tj
+T* (en los artículos 130 y 131, respectivamente, de esta) Tj
+T* (Ley, se mantendrán mientras no fueren modificados por) Tj
+T* (el nuevo texto que se fijare a la Ley de Rentas) Tj
+T* (Municipales.) Tj
+T* (    Artículo 10°.- La arborización de las áreas verdes,    LEY 19057) Tj
+T* (calles y obras de ornato, que debieron ejecutarse en los   Art. único) Tj
+T* (loteos y urbanizaciones iniciados con anterioridad a la    4\)) Tj
+T* (publicación de la presente ley, se regirán por las) Tj
+T* (disposiciones vigentes en la fecha del respectivo) Tj
+T* (permiso de urbanización.) Tj
+T* (    Anótese, tómese razón, publíquese e insértese) Tj
+T* (en la Recopilación correspondiente de la Contraloría) Tj
+T* (General de la República.- AUGUSTO PINOCHET UGARTE,) Tj
+T* (General de Ejército, Presidente de la República.-) Tj
+T* (Carlos Granifo Harms, Ministro de la Vivienda y) Tj
+T* (Urbanismo. Jorge Cauas Lama, Ministro de Hacienda.) Tj
+T* (    Lo que transcribo a U. para su conocimiento.- Dios) Tj
+T* (guarde a U.- Arthur Clark Flores, Comandante de Grupo) Tj
+T* (\(I\), Subsecretario de Vivienda y Urbanismo.) Tj
+T* (    CONTRALORIA GENERAL DE LA REPUBLICA) Tj
+T* (    Subdepartamento de Municipalidades) Tj
+T* (    Asesoría Legal) Tj
+T* (    Provee en decreto N° 458, de 1975, del Ministerio de) Tj
+T* (la Vivienda y Urbanismo) Tj
+T* (    N° 25.028.- Santiago, 8 de Abril de 1976.) Tj
+T* (    Esta Contraloría General cumple con dar curso al) Tj
+T* (decreto del rubro. Sin embargo, debe advertir que el) Tj
+T* (inciso final del artículo 140 cita erróneamente el) Tj
+T* (artículo 139, en circunstancias que debió referirse al) Tj
+T* (artículo 138.) Tj
+T* (    Dios guarde a US.- Héctor Humeres M., Contralor) Tj
+T* (General de la República.) Tj
+T* (    Al señor) Tj
+T* (    Ministro de la Vivienda y Urbanismo) Tj
+T* (    Presente.) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+178 0 obj
+1975
+endobj
+17 0 obj
+  <<
+  /Type /Catalog
+  /Pages 18 0 R
+  >>
+endobj
+18 0 obj
+  <<
+  /Type /Pages
+  /Count 53
+  /MediaBox [ 0 0 612 792 ]
+  /Kids [ 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 38 0 R 41 0 R 44 0 R 47 0 R 50 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 68 0 R 71 0 R 74 0 R 77 0 R 80 0 R 83 0 R 86 0 R 89 0 R 92 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 110 0 R 113 0 R 116 0 R 119 0 R 122 0 R 125 0 R 128 0 R 131 0 R 134 0 R 137 0 R 140 0 R 143 0 R 146 0 R 149 0 R 152 0 R 155 0 R 158 0 R 161 0 R 164 0 R 167 0 R 170 0 R 173 0 R 176 0 R ]
+  >>
+endobj
+xref
+0 179
+0000000000 65535 f 0000000015 00000 n 0000000127 00000 n 0000002310 00000 n 0000002418 00000 n 0000002534 00000 n 0000002647 00000 n 0000002767 00000 n 0000002877 00000 n 0000002995 00000 n 0000003110 00000 n 0000003233 00000 n 0000003346 00000 n 0000003461 00000 n 0000003574 00000 n 0000003693 00000 n 0000003784 00000 n 0000187187 00000 n 0000187246 00000 n 0000003881 00000 n 0000004189 00000 n 0000004297 00000 n 0000007309 00000 n 0000007330 00000 n 0000007438 00000 n 0000010874 00000 n 0000010895 00000 n 0000011003 00000 n 0000014448 00000 n 0000014469 00000 n 0000014577 00000 n 0000017956 00000 n 0000017977 00000 n 0000018085 00000 n 0000021475 00000 n 0000021496 00000 n 0000021604 00000 n 0000024884 00000 n 0000024905 00000 n 0000025013 00000 n 0000028133 00000 n 0000028154 00000 n 0000028262 00000 n 0000031557 00000 n 0000031578 00000 n 0000031686 00000 n 0000034788 00000 n 0000034809 00000 n 0000034917 00000 n 0000038356 00000 n 0000038377 00000 n 0000038485 00000 n 0000041866 00000 n 0000041887 00000 n 0000041995 00000 n 0000045118 00000 n 0000045139 00000 n 0000045247 00000 n 0000048648 00000 n 0000048669 00000 n 0000048777 00000 n 0000052039 00000 n 0000052060 00000 n 0000052168 00000 n 0000055715 00000 n 0000055736 00000 n 0000055844 00000 n 0000059289 00000 n 0000059310 00000 n 0000059418 00000 n 0000063098 00000 n 0000063119 00000 n 0000063227 00000 n 0000066798 00000 n 0000066819 00000 n 0000066927 00000 n 0000070396 00000 n 0000070417 00000 n 0000070525 00000 n 0000073959 00000 n 0000073980 00000 n 0000074088 00000 n 0000077449 00000 n 0000077470 00000 n 0000077578 00000 n 0000080912 00000 n 0000080933 00000 n 0000081041 00000 n 0000084180 00000 n 0000084201 00000 n 0000084309 00000 n 0000087175 00000 n 0000087196 00000 n 0000087304 00000 n 0000090143 00000 n 0000090164 00000 n 0000090272 00000 n 0000093076 00000 n 0000093097 00000 n 0000093205 00000 n 0000096423 00000 n 0000096445 00000 n 0000096555 00000 n 0000099415 00000 n 0000099437 00000 n 0000099547 00000 n 0000103441 00000 n 0000103463 00000 n 0000103573 00000 n 0000106817 00000 n 0000106839 00000 n 0000106949 00000 n 0000110337 00000 n 0000110359 00000 n 0000110469 00000 n 0000113852 00000 n 0000113874 00000 n 0000113984 00000 n 0000117268 00000 n 0000117290 00000 n 0000117400 00000 n 0000120885 00000 n 0000120907 00000 n 0000121017 00000 n 0000124499 00000 n 0000124521 00000 n 0000124631 00000 n 0000128030 00000 n 0000128052 00000 n 0000128162 00000 n 0000131600 00000 n 0000131622 00000 n 0000131732 00000 n 0000135107 00000 n 0000135129 00000 n 0000135239 00000 n 0000138432 00000 n 0000138454 00000 n 0000138564 00000 n 0000142116 00000 n 0000142138 00000 n 0000142248 00000 n 0000145895 00000 n 0000145917 00000 n 0000146027 00000 n 0000149511 00000 n 0000149533 00000 n 0000149643 00000 n 0000153158 00000 n 0000153180 00000 n 0000153290 00000 n 0000156575 00000 n 0000156597 00000 n 0000156707 00000 n 0000160056 00000 n 0000160078 00000 n 0000160188 00000 n 0000163678 00000 n 0000163700 00000 n 0000163810 00000 n 0000167196 00000 n 0000167218 00000 n 0000167328 00000 n 0000170791 00000 n 0000170813 00000 n 0000170923 00000 n 0000174465 00000 n 0000174487 00000 n 0000174597 00000 n 0000177714 00000 n 0000177736 00000 n 0000177846 00000 n 0000181238 00000 n 0000181260 00000 n 0000181370 00000 n 0000184996 00000 n 0000185018 00000 n 0000185128 00000 n 0000187165 00000 n trailer
+<<
+  /Size 179
+  /Root 17 0 R
+  /Info 1 0 R
+>>
+startxref
+187736
+%%EOF

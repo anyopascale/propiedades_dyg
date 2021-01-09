@@ -1,0 +1,3214 @@
+%PDF-1.2
+%âãÏÓ
+1 0 obj
+  <<
+  /CreationDate (D:20070517171837-04'00')
+  /Title (txtplano)
+  >>
+endobj
+2 0 obj
+  <<
+  /Type /Encoding
+  /Differences [ 0 /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /space /exclam
+  /quotedbl /numbersign /dollar /percent /ampersand
+  /quoteright /parenleft /parenright /asterisk /plus /comma
+  /hyphen /period /slash /zero /one /two /three /four /five
+  /six /seven /eight /nine /colon /semicolon /less /equal
+  /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L
+  /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft
+  /backslash /bracketright /asciicircum /underscore
+  /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p
+  /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright
+  /asciitilde /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /dotlessi /grave /acute /circumflex /tilde /macron /breve
+  /dotaccent /dieresis /.notdef /ring /cedilla /.notdef
+  /hungarumlaut /ogonek /caron /space /exclamdown /cent
+  /sterling /currency /yen /brokenbar /section /dieresis
+  /copyright /ordfeminine /guillemotleft /logicalnot /hyphen
+  /registered /macron /degree /plusminus /twosuperior
+  /threesuperior /acute /mu /paragraph /periodcentered
+  /cedilla /onesuperior /ordmasculine /guillemotright
+  /onequarter /onehalf /threequarters /questiondown /Agrave
+  /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE
+  /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave
+  /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve
+  /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash
+  /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn
+  /germandbls /agrave /aacute /acircumflex /atilde /adieresis
+  /aring /ae /ccedilla /egrave /eacute /ecircumflex
+  /edieresis /igrave /iacute /icircumflex /idieresis /eth
+  /ntilde /ograve /oacute /ocircumflex /otilde /odieresis
+  /divide /oslash /ugrave /uacute /ucircumflex /udieresis
+  /yacute /thorn /ydieresis ]
+  >>
+endobj
+3 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F1
+  /Encoding 2 0 R
+  /BaseFont /Courier
+  >>
+endobj
+4 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F2
+  /Encoding 2 0 R
+  /BaseFont /Courier-Oblique
+  >>
+endobj
+5 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F3
+  /Encoding 2 0 R
+  /BaseFont /Courier-Bold
+  >>
+endobj
+6 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F4
+  /Encoding 2 0 R
+  /BaseFont /Courier-BoldOblique
+  >>
+endobj
+7 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F5
+  /Encoding 2 0 R
+  /BaseFont /Helvetica
+  >>
+endobj
+8 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F6
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Oblique
+  >>
+endobj
+9 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F7
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Bold
+  >>
+endobj
+10 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F8
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-BoldOblique
+  >>
+endobj
+11 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F9
+  /Encoding 2 0 R
+  /BaseFont /Times-Roman
+  >>
+endobj
+12 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F10
+  /Encoding 2 0 R
+  /BaseFont /Times-Italic
+  >>
+endobj
+13 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F11
+  /Encoding 2 0 R
+  /BaseFont /Times-Bold
+  >>
+endobj
+14 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F12
+  /Encoding 2 0 R
+  /BaseFont /Times-BoldItalic
+  >>
+endobj
+15 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F13
+  /BaseFont /Symbol
+  >>
+endobj
+16 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F14
+  /BaseFont /ZapfDingbats
+  >>
+endobj
+19 0 obj
+  <<
+  /Font
+    <<
+    /F1 3 0 R
+    /F2 4 0 R
+    /F3 5 0 R
+    /F4 6 0 R
+    /F5 7 0 R
+    /F6 8 0 R
+    /F7 9 0 R
+    /F8 10 0 R
+    /F9 11 0 R
+    /F10 12 0 R
+    /F11 13 0 R
+    /F12 14 0 R
+    /F13 15 0 R
+    /F14 16 0 R
+    >>
+  /ProcSet [ /PDF /Text ]
+  /XObject
+    <<
+
+    >>
+  >>
+endobj
+20 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 21 0 R
+  /Rotate 0
+  >>
+endobj
+21 0 obj
+  <<
+  /Length 22 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Biblioteca del Congreso Nacional) Tj
+T* (------------------------------------------------------------------------------) Tj
+T* (Identificación de la Norma  : LEY-19496) Tj
+T* (Fecha de Publicación        : 07.03.1997) Tj
+T* (Fecha de Promulgación       : 07.02.1997) Tj
+T* (Organismo                   : MINISTERIO DE ECONOMIA, FOMENTO Y RECONSTRUCCION) Tj
+T* (Ultima Modificación         : LEY-19955 14.07.2004) Tj
+T* ( ) Tj
+T* (ESTABLECE NORMAS SOBRE PROTECCION DE LOS DERECHOS DE) Tj
+T* (LOS CONSUMIDORES) Tj
+T* () Tj
+T* (     Teniendo presente que el H. Congreso Nacional ) Tj
+T* (ha dado su aprobación al siguiente) Tj
+T* () Tj
+T* (     P r o y e c t o  d e  l e y: ) Tj
+T* () Tj
+T* () Tj
+T* (                    T I T U L O  I) Tj
+T* () Tj
+T* (      Ambito de aplicación y definiciones básicas) Tj
+T* (  ) Tj
+T* (     Artículo 1º.- La presente ley tiene por objeto normar ) Tj
+T* (las relaciones entre proveedores y consumidores, establecer ) Tj
+T* (las infracciones en perjuicio del consumidor y señalar el ) Tj
+T* (procedimiento aplicable en estas materias.) Tj
+T* (     Para los efectos de esta ley se entenderá por:) Tj
+T* (  ) Tj
+T* (     1.- Consumidores o usuarios: las personas             LEY 19955) Tj
+T* (naturales o jurídicas que, en virtud de cualquier acto     Art. único Nº 1 a\)) Tj
+T* (jurídico oneroso, adquieren, utilizan, o disfrutan, como   D.O. 14.07.2004) Tj
+T* (destinatarios finales, bienes o servicios.) Tj
+T* () Tj
+T* (     2.- Proveedores: las personas naturales o jurídicas, de ) Tj
+T* (carácter público o privado, que habitualmente desarrollen ) Tj
+T* (actividades de producción, fabricación, importación, ) Tj
+T* (construcción, distribución o comercialización de bienes o de ) Tj
+T* (prestación de servicios a consumidores, por las que se cobre ) Tj
+T* (precio o tarifa.) Tj
+T* (     No se considerará proveedores a las personas que      LEY 19955) Tj
+T* (posean un título profesional y ejerzan su actividad en     Art. único Nº 1 b\)) Tj
+T* (forma independiente.                                       D.O. 14.07.2004) Tj
+T* () Tj
+T* (     3.- Información básica comercial: los datos, ) Tj
+T* (instructivos, antecedentes o indicaciones que el proveedor ) Tj
+T* (debe suministrar obligatoriamente al público consumidor, en ) Tj
+T* (cumplimiento de una norma jurídica.) Tj
+T* (     Tratándose de proveedores que reciban bienes en       LEY 19955) Tj
+T* (consignación para su venta, éstos deberán agregar a la     Art. único Nº 1 c\)) Tj
+T* (información básica comercial los antecedentes relativos    D.O. 14.07.2004) Tj
+T* (a su situación financiera, incluidos los estados ) Tj
+T* (financieros cuando corresponda.) Tj
+T* (     En la venta de bienes y prestación de servicios, se ) Tj
+T* (considerará información comercial básica, además de lo ) Tj
+T* (que dispongan otras normas legales o reglamentarias, la ) Tj
+T* (identificación del bien o servicio que se ofrece al ) Tj
+T* (consumidor, así como también los instructivos de uso y ) Tj
+T* (los términos de la garantía cuando procedan. Se ) Tj
+T* (exceptuarán de lo dispuesto en este inciso los bienes ) Tj
+T* (ofrecidos a granel.) Tj
+T* (     La información comercial básica deberá ser ) Tj
+ET
+endstream
+endobj
+22 0 obj
+3222
+endobj
+23 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 24 0 R
+  /Rotate 0
+  >>
+endobj
+24 0 obj
+  <<
+  /Length 25 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (suministrada al público por medios que aseguren un ) Tj
+T* (acceso claro, expedito y oportuno. Respecto de los ) Tj
+T* (instructivos de uso de los bienes y servicios cuyo uso ) Tj
+T* (normal represente un riesgo para la integridad y ) Tj
+T* (seguridad de las personas, será obligatoria su entrega ) Tj
+T* (al consumidor conjuntamente con los bienes y servicios a ) Tj
+T* (que acceden.) Tj
+T* () Tj
+T* (     4.- Publicidad: la comunicación que el proveedor ) Tj
+T* (dirige al público por cualquier medio idóneo al efecto,) Tj
+T* (para informarlo y motivarlo a adquirir o contratar un ) Tj
+T* (bien o servicio, entendiéndose incorporadas al contrato    LEY 19955) Tj
+T* (las condiciones objetivas contenidas en la publicidad      Art. único Nº 1 d\)) Tj
+T* (hasta el momento de celebrar el contrato. Son              D.O. 14.07.2004) Tj
+T* (condiciones objetivas aquellas señaladas en el ) Tj
+T* (artículo 28.) Tj
+T* (  ) Tj
+T* (     5.- Anunciante: el proveedor de bienes, prestador de ) Tj
+T* (servicios o entidad que, por medio de la publicidad, se ) Tj
+T* (propone ilustrar al público acerca de la naturaleza, ) Tj
+T* (características, propiedades o atributos de los bienes o ) Tj
+T* (servicios cuya producción, intermediación o prestación ) Tj
+T* (constituye el objeto de su actividad, o motivarlo a su ) Tj
+T* (adquisición.) Tj
+T* (  ) Tj
+T* (     6.- Contrato de adhesión: aquel cuyas cláusulas han ) Tj
+T* (sido propuestas unilateralmente por el proveedor sin que el ) Tj
+T* (consumidor, para celebrarlo, pueda alterar su contenido.) Tj
+T* (  ) Tj
+T* (     7.- Promociones: las prácticas comerciales, cualquiera ) Tj
+T* (sea la forma que se utilice en su difusión, consistentes en ) Tj
+T* (el ofrecimiento al público en general de bienes y servicios ) Tj
+T* (en condiciones más favorables que las habituales, con ) Tj
+T* (excepción de aquellas que consistan en una simple rebaja de ) Tj
+T* (precio.) Tj
+T* (  ) Tj
+T* (     8.- Oferta: práctica comercial consistente en el ) Tj
+T* (ofrecimiento al público de bienes o servicios a precios ) Tj
+T* (rebajados en forma transitoria, en relación con los ) Tj
+T* (habituales del respectivo establecimiento.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 2º.- Quedan sujetos a las disposiciones de   LEY 19955) Tj
+T* (esta ley:                                                  Art. único Nº 2) Tj
+T* (     a\) Los actos jurídicos que, de conformidad a lo       D.O. 14.07.2004) Tj
+T* (preceptuado en el Código de Comercio u otras ) Tj
+T* (disposiciones legales, tengan el carácter de mercantiles ) Tj
+T* (para el proveedor y civiles para el consumidor;) Tj
+T* (     b\) Los actos de comercialización de sepulcros o ) Tj
+T* (sepulturas;) Tj
+T* (     c\) Los actos o contratos en que el proveedor se ) Tj
+T* (obligue a suministrar al consumidor o usuario el uso o ) Tj
+T* (goce de un inmueble por períodos determinados, continuos ) Tj
+T* (o discontinuos, no superiores a tres meses, siempre que ) Tj
+T* (lo sean amoblados y para fines de descanso o turismo;) Tj
+T* (     d\) Los contratos de educación de la enseñanza ) Tj
+T* (básica, media, técnico profesional y universitaria, sólo ) Tj
+T* (respecto del Párrafo 4º del Título II; de los Párrafos ) Tj
+T* (1º y 2º del Título III; de los artículos 18, 24, 26, 27 ) Tj
+T* (y 39 C, y respecto de la facultad del o de los usuarios ) Tj
+ET
+endstream
+endobj
+25 0 obj
+3366
+endobj
+26 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 27 0 R
+  /Rotate 0
+  >>
+endobj
+27 0 obj
+  <<
+  /Length 28 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (para recurrir ante los tribunales correspondientes, ) Tj
+T* (conforme a los procedimientos que esta ley establece, ) Tj
+T* (para hacer efectivos los derechos que dichos Párrafos y ) Tj
+T* (artículos les confieren.) Tj
+T* (     No quedará sujeto a esta ley el derecho a recurrir ) Tj
+T* (ante los tribunales de justicia por la calidad de la ) Tj
+T* (educación o por las condiciones académicas fijadas en ) Tj
+T* (los reglamentos internos vigentes a la época del ingreso ) Tj
+T* (a la carrera o programa respectivo, los cuales no podrán ) Tj
+T* (ser alterados sustancialmente, en forma arbitraria, sin ) Tj
+T* (perjuicio de las obligaciones de dar fiel cumplimiento a ) Tj
+T* (los términos, condiciones y modalidades ofrecidas por ) Tj
+T* (las entidades de educación;) Tj
+T* (     e\) Los contratos de venta de viviendas realizadas ) Tj
+T* (por empresas constructoras, inmobiliarias y por los ) Tj
+T* (Servicios de Vivienda y Urbanización, en lo que no diga ) Tj
+T* (relación con las normas sobre calidad contenidas en la ) Tj
+T* (ley Nº 19.472, y) Tj
+T* (     f\) Los actos celebrados o ejecutados con ocasión de ) Tj
+T* (la contratación de servicios en el ámbito de la salud, ) Tj
+T* (con exclusión de las prestaciones de salud; de las ) Tj
+T* (materias relativas a la calidad de éstas y su ) Tj
+T* (financiamiento a través de fondos o seguros de salud; de ) Tj
+T* (la acreditación y certificación de los prestadores, sean ) Tj
+T* (éstos públicos o privados, individuales o ) Tj
+T* (institucionales y, en general, de cualquiera otra ) Tj
+T* (materia que se encuentre regulada en leyes especiales.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 2º bis.- No obstante lo prescrito en el      LEY 19955) Tj
+T* (artículo anterior, las normas de esta ley no serán         Art. único Nº 3) Tj
+T* (aplicables a las actividades de producción, fabricación,   D.O. 14.07.2004) Tj
+T* (importación, construcción, distribución y ) Tj
+T* (comercialización de bienes o de prestación de servicios ) Tj
+T* (reguladas por leyes especiales, salvo:) Tj
+T* (     a\) En las materias que estas últimas no prevean;) Tj
+T* (     b\) En lo relativo al procedimiento en las causas en ) Tj
+T* (que esté comprometido el interés colectivo o difuso de ) Tj
+T* (los consumidores o usuarios, y el derecho a solicitar ) Tj
+T* (indemnización mediante dicho procedimiento, y) Tj
+T* (     c\) En lo relativo al derecho del consumidor o ) Tj
+T* (usuario para recurrir en forma individual, conforme al ) Tj
+T* (procedimiento que esta ley establece, ante el tribunal ) Tj
+T* (correspondiente, a fin de ser indemnizado de todo ) Tj
+T* (perjuicio originado en el incumplimiento de una ) Tj
+T* (obligación contraída por los proveedores, siempre que no ) Tj
+T* (existan procedimientos indemnizatorios en dichas leyes ) Tj
+T* (especiales.) Tj
+T* () Tj
+T* () Tj
+T* (                    T I T U L O  II) Tj
+T* (                Disposiciones generales) Tj
+T* () Tj
+T* (                      Párrafo 1º) Tj
+T* (        Los derechos y deberes del consumidor) Tj
+T* () Tj
+T* (     Artículo 3º.- Son derechos y deberes básicos del ) Tj
+T* (consumidor:) Tj
+T* (  ) Tj
+T* (     a\) La libre elección del bien o servicio. El          LEY 19955) Tj
+ET
+endstream
+endobj
+28 0 obj
+3230
+endobj
+29 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 30 0 R
+  /Rotate 0
+  >>
+endobj
+30 0 obj
+  <<
+  /Length 31 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (silencio no constituye aceptación en los actos de          Art. único Nº 4 a\)) Tj
+T* (consumo;                                                   D.O. 14.07.2004) Tj
+T* (  ) Tj
+T* (     b\) El derecho a una información veraz y oportuna sobre ) Tj
+T* (los bienes y servicios ofrecidos, su precio, condiciones de ) Tj
+T* (contratación y otras características relevantes de los ) Tj
+T* (mismos, y el deber de informarse responsablemente de ellos;) Tj
+T* (  ) Tj
+T* (     c\) El no ser discriminado arbitrariamente por parte de ) Tj
+T* (proveedores de bienes y servicios;) Tj
+T* (  ) Tj
+T* (     d\) La seguridad en el consumo de bienes o servicios, la ) Tj
+T* (protección de la salud y el medio ambiente y el deber de ) Tj
+T* (evitar los riesgos que puedan afectarles;) Tj
+T* (  ) Tj
+T* (     e\) El derecho a la reparación e indemnización         LEY 19955) Tj
+T* (adecuada y oportuna de todos los daños materiales y        Art. único Nº 4 b\)) Tj
+T* (morales en caso de incumplimiento de cualquiera de las     D.O. 14.07.2004) Tj
+T* (obligaciones contraídas por el proveedor, y el deber de ) Tj
+T* (accionar de acuerdo a los medios que la ley le franquea, ) Tj
+T* (y) Tj
+T* (     f\) La educación para un consumo responsable, y el deber ) Tj
+T* (de celebrar operaciones de consumo con el comercio ) Tj
+T* (establecido.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 3º bis.- El consumidor podrá poner término   LEY 19955) Tj
+T* (unilateralmente al contrato en el plazo de 10 días         Art. único Nº 5) Tj
+T* (contados desde la recepción del producto o desde la        D.O. 14.07.2004) Tj
+T* (contratación del servicio y antes de la prestación del ) Tj
+T* (mismo, en los siguientes casos:) Tj
+T* (     a\) En la compra de bienes y contratación de ) Tj
+T* (servicios realizadas en reuniones convocadas o ) Tj
+T* (concertadas con dicho objetivo por el proveedor, en que ) Tj
+T* (el consumidor deba expresar su aceptación dentro del ) Tj
+T* (mismo día de la reunión.) Tj
+T* (     El ejercicio de este derecho se hará valer mediante ) Tj
+T* (carta certificada enviada al proveedor, al domicilio que ) Tj
+T* (señala el contrato, expedida dentro del plazo indicado ) Tj
+T* (en el en el encabezamiento;) Tj
+T* (     b\) En los contratos celebrados por medios ) Tj
+T* (electrónicos, y en aquéllos en que se aceptare una ) Tj
+T* (oferta realizada a través de catálogos, avisos o ) Tj
+T* (cualquier otra forma de comunicación a distancia, a ) Tj
+T* (menos que el proveedor haya dispuesto expresamente lo ) Tj
+T* (contrario. Para ello podrá utilizar los mismos medios ) Tj
+T* (que empleó para celebrar el contrato. En este caso, el ) Tj
+T* (plazo para ejercer el derecho de retracto se contará ) Tj
+T* (desde la fecha de recepción del bien o desde la ) Tj
+T* (celebración del contrato en el caso de servicios, ) Tj
+T* (siempre que el proveedor haya cumplido con la obligación ) Tj
+T* (de remitir la confirmación escrita señalada en el ) Tj
+T* (artículo 12 A. De no ser así, el plazo se extenderá a 90 ) Tj
+T* (días. No podrá ejercerse el derecho de retracto cuando ) Tj
+T* (el bien, materia del contrato, se haya deteriorado por ) Tj
+T* (hecho imputable al consumidor.) Tj
+T* (     En aquellos casos en que el precio del bien o ) Tj
+T* (servicio haya sido cubierto total o parcialmente con un ) Tj
+T* (crédito otorgado al consumidor por el proveedor o por un ) Tj
+T* (tercero previo acuerdo entre éste y el proveedor, el ) Tj
+ET
+endstream
+endobj
+31 0 obj
+3453
+endobj
+32 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 33 0 R
+  /Rotate 0
+  >>
+endobj
+33 0 obj
+  <<
+  /Length 34 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (retracto resolverá dicho crédito. En caso de haber ) Tj
+T* (costos involucrados, éstos serán de cargo del ) Tj
+T* (consumidor, cuando el crédito haya sido otorgado por un ) Tj
+T* (tercero.) Tj
+T* (     Si el consumidor ejerciera el derecho consagrado en ) Tj
+T* (este artículo, el proveedor estará obligado a devolverle ) Tj
+T* (las sumas abonadas, sin retención de gastos, a la mayor ) Tj
+T* (brevedad posible y, en cualquier caso, antes de cuarenta ) Tj
+T* (y cinco días siguientes a la comunicación del retracto. ) Tj
+T* (Tratándose de servicios, la devolución sólo comprenderá ) Tj
+T* (aquellas sumas abonadas que no correspondan a servicios ) Tj
+T* (ya prestados al consumidor a la fecha del retracto.) Tj
+T* (     Deberán restituirse en buen estado los elementos ) Tj
+T* (originales del embalaje, como las etiquetas, ) Tj
+T* (certificados de garantía, manuales de uso, cajas, ) Tj
+T* (elementos de protección o su valor respectivo, ) Tj
+T* (previamente informado.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 3º ter.- En el caso de prestaciones de       LEY 19955) Tj
+T* (servicios educacionales de nivel superior,                 Art. único Nº 5) Tj
+T* (proporcionadas por centros de formación técnica,           D.O. 14.07.2004) Tj
+T* (institutos profesionales y universidades, se faculta al ) Tj
+T* (alumno o a quién efectúe el pago en su representación ) Tj
+T* (para que, dentro del plazo de diez días contados desde ) Tj
+T* (aquél en que se complete la primera publicación de los ) Tj
+T* (resultados de las postulaciones a las universidades ) Tj
+T* (pertenecientes al Consejo de Rectores de las ) Tj
+T* (Universidades Chilenas, deje sin efecto el contrato con ) Tj
+T* (la respectiva institución, sin pago alguno por los ) Tj
+T* (servicios educacionales no prestados.) Tj
+T* (     Para hacer efectivo el retracto a que se refiere ) Tj
+T* (este artículo, se requerirá ser alumno de primer año de ) Tj
+T* (una carrera o programa de pregrado y acreditar, ante la ) Tj
+T* (institución respecto de la cual se ejerce esta facultad, ) Tj
+T* (encontrarse matriculado en otra entidad de educación ) Tj
+T* (superior.) Tj
+T* (     En ningún caso la institución educacional podrá ) Tj
+T* (retener con posterioridad a este retracto los dineros ) Tj
+T* (pagados ni los documentos de pago o crédito otorgados en ) Tj
+T* (respaldo del período educacional respectivo, debiendo ) Tj
+T* (devolverlos todos en el plazo de 10 días desde que se ) Tj
+T* (ejerza el derecho a retracto. En el evento de haberse ) Tj
+T* (otorgado mandato general para hacer futuros cobros, éste ) Tj
+T* (quedará revocado por el solo ministerio de la ley desde ) Tj
+T* (la fecha de la renuncia efectiva del alumno al servicio ) Tj
+T* (educacional. El prestador del servicio se abstendrá de ) Tj
+T* (negociar o endosar los documentos recibidos, antes del ) Tj
+T* (plazo señalado en el inciso primero.) Tj
+T* (     No obstante lo dispuesto en el inciso anterior, la ) Tj
+T* (institución de educación superior estará facultada para ) Tj
+T* (retener, por concepto de costos de administración, un ) Tj
+T* (monto de la matrícula, que no podrá exceder al uno por ) Tj
+T* (ciento del arancel anual del programa o carrera.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 4º.- Los derechos establecidos por la presente ) Tj
+T* (ley son irrenunciables anticipadamente por los consumidores.) Tj
+T* (                      Párrafo 2º) Tj
+ET
+endstream
+endobj
+34 0 obj
+3430
+endobj
+35 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 36 0 R
+  /Rotate 0
+  >>
+endobj
+36 0 obj
+  <<
+  /Length 37 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* () Tj
+T* (De las organizaciones para la defensa de los derechos) Tj
+T* (                 de los consumidores) Tj
+T* (  ) Tj
+T* (     Artículo 5º.- Se entenderá por Asociación de          LEY 19955) Tj
+T* (Consumidores la organización constituida por personas      Art. único Nº 6) Tj
+T* (naturales o jurídicas, independientes de todo interés      D.O. 14.07.2004) Tj
+T* (económico, comercial o político, cuyo objetivo sea ) Tj
+T* (proteger, informar y educar a los consumidores y asumir ) Tj
+T* (la representación y defensa de los derechos de sus ) Tj
+T* (afiliados y de los consumidores que así lo soliciten, ) Tj
+T* (todo ello con independencia de cualquier otro interés.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 6º.- Las asociaciones de consumidores se     LEY 19955) Tj
+T* (regirán por lo dispuesto en esta ley, y en lo no           Art. único Nº 7) Tj
+T* (previsto en ella por el decreto ley Nº 2.757, de 1979,     D.O. 14.07.2004) Tj
+T* (del Ministerio del Trabajo.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 7º.- Además de las causales de disolución    LEY 19955) Tj
+T* (indicadas en el artículo 18 del decreto ley Nº 2.757, de   Art. único Nº 8) Tj
+T* (1979, las organizaciones de consumidores pueden ser        D.O. 14.07.2004) Tj
+T* (disueltas por sentencia judicial o por disposición de ) Tj
+T* (la ley, a pesar de la voluntad de sus miembros.) Tj
+T* (     En caso de que el juez, dentro del plazo de tres ) Tj
+T* (años, declare temerarias dos o más demandas colectivas ) Tj
+T* (interpuestas por una misma Asociación de Consumidores, ) Tj
+T* (podrá, a petición de parte, en casos graves y ) Tj
+T* (calificados, decretar la disolución de la asociación, ) Tj
+T* (por sentencia fundada.) Tj
+T* (     Los directores de las Asociaciones de Consumidores ) Tj
+T* (disueltas por sentencia judicial quedarán inhabilitados ) Tj
+T* (para formar parte, en calidad de tales, de otras ) Tj
+T* (asociaciones de consumidores, durante el período de dos ) Tj
+T* (años.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 8º.- Las organizaciones a que se refiere el ) Tj
+T* (presente párrafo sólo podrán ejercer las siguientes ) Tj
+T* (funciones:) Tj
+T* (  ) Tj
+T* (     a\) Difundir el conocimiento de las disposiciones de ) Tj
+T* (esta ley y sus regulaciones complementarias;) Tj
+T* (  ) Tj
+T* (     b\) Informar, orientar y educar a los consumidores para ) Tj
+T* (el adecuado ejercicio de sus derechos y brindarles asesoría ) Tj
+T* (cuando la requieran;) Tj
+T* (  ) Tj
+T* (     c\) Estudiar y proponer medidas encaminadas a la ) Tj
+T* (protección de los derechos de los consumidores y efectuar ) Tj
+T* (o apoyar investigaciones en el área del consumo;           LEY 19955) Tj
+T* (                                                           Art. único Nº 9 a\)) Tj
+T* (     d\) Representar a sus miembros y ejercer las           D.O. 14.07.2004) Tj
+T* (acciones a que se refiere esta ley en defensa de ) Tj
+T* (aquellos consumidores que le otorguen el respectivo) Tj
+T* (mandato, y                                                 LEY 19955) Tj
+T* (     e\) Representar tanto el interés individual, como      Art. único Nº 9) Tj
+T* (el interés colectivo y difuso de los consumidores ante     b y c\)) Tj
+ET
+endstream
+endobj
+37 0 obj
+3232
+endobj
+38 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 39 0 R
+  /Rotate 0
+  >>
+endobj
+39 0 obj
+  <<
+  /Length 40 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (las autoridades jurisdiccionales o administrativas,        D.O. 14.07.2004) Tj
+T* (mediante el ejercicio de las acciones y recursos que ) Tj
+T* (procedan;) Tj
+T* (     f\) Participar en los procesos de fijación de ) Tj
+T* (tarifas de los servicios básicos domiciliarios, conforme ) Tj
+T* (a las leyes y reglamentos que los regulen.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 9º.- Las organizaciones de que trata este ) Tj
+T* (párrafo en ningún caso podrán:) Tj
+T* (  ) Tj
+T* (     a\) Desarrollar actividades lucrativas, con            LEY 19955) Tj
+T* (excepción de aquellas necesarias para el financiamiento    Art. único Nº 10 a\)) Tj
+T* (o recuperación de costos en el desarrollo y cumplimiento   D.O. 14.07.2004) Tj
+T* (de actividades que les son propias;) Tj
+T* (  ) Tj
+T* (     b\) Incluir como asociados a personas jurídicas que se ) Tj
+T* (dediquen a actividades empresariales;) Tj
+T* (  ) Tj
+T* (     c\) Percibir ayudas o subvenciones de empresas o ) Tj
+T* (agrupaciones de empresas que suministren bienes o servicios ) Tj
+T* (a los consumidores;) Tj
+T* (  ) Tj
+T* (     d\) Realizar publicidad o difundir comunicaciones no ) Tj
+T* (meramente informativas sobre bienes o servicios, ni) Tj
+T* (  ) Tj
+T* (     e\) Dedicarse a actividades distintas de las señaladas ) Tj
+T* (en el artículo anterior.) Tj
+T* (     La infracción grave y reiterada de las normas         LEY 19955) Tj
+T* (contenidas en el presente artículo será sancionada con     Art. único Nº 10 b\)) Tj
+T* (la cancelación de la personalidad jurídica de la           D.O. 14.07.2004) Tj
+T* (organización, por sentencia judicial, a petición de ) Tj
+T* (cualquier persona, sin perjuicio de las ) Tj
+T* (responsabilidades penales o civiles en que incurran ) Tj
+T* (quienes las cometan.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 10.- No podrán ser integrantes del consejo ) Tj
+T* (directivo de una organización de consumidores:) Tj
+T* (  ) Tj
+T* (     a\) El que hubiere sido declarado en quiebra culpable o ) Tj
+T* (fraudulenta, mientras no se alce la quiebra;) Tj
+T* (  ) Tj
+T* (     b\) El que hubiere sido condenado por delito contra la ) Tj
+T* (propiedad o por delito sancionado con pena aflictiva, por el ) Tj
+T* (tiempo que dure la condena;) Tj
+T* (  ) Tj
+T* (     c\) El que hubiere sido sancionado como reincidente de ) Tj
+T* (denuncia temeraria o por denuncias temerarias reiteradas, de ) Tj
+T* (conformidad a lo dispuesto en el artículo 55.) Tj
+T* (     Artículo 11.- Tampoco podrán ser integrantes del ) Tj
+T* (consejo directivo de una organización de consumidores ) Tj
+T* (quienes ejerzan cargos de elección popular ni los consejeros ) Tj
+T* (regionales.) Tj
+T* (     Los directivos de una organización de consumidores que ) Tj
+T* (sean a la vez dueños, accionistas propietarios de más de un ) Tj
+T* (10% del interés social, directivos o ejecutivos de empresas ) Tj
+T* (o sociedades que tengan por objeto la producción, ) Tj
+ET
+endstream
+endobj
+40 0 obj
+2965
+endobj
+41 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 42 0 R
+  /Rotate 0
+  >>
+endobj
+42 0 obj
+  <<
+  /Length 43 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (distribución o comercialización de bienes o prestación de ) Tj
+T* (servicios a consumidores, deberán abstenerse de intervenir ) Tj
+T* (en la adopción de acuerdos relativos a materias en que ) Tj
+T* (tengan interés comprometido en su condición de propietarios ) Tj
+T* (o ejecutivos de dichas empresas. La contravención a esta ) Tj
+T* (prohibición será sancionada con la pérdida del cargo ) Tj
+T* (directivo en la organización de consumidores, sin perjuicio ) Tj
+T* (de las eventuales responsabilidades penales o civiles que se ) Tj
+T* (configuren.) Tj
+T* (     Los directores responderán personal y                 LEY 19955) Tj
+T* (solidariamente por las multas y sanciones que se           Art. único Nº 11) Tj
+T* (apliquen a la asociación por actuaciones calificadas por   D.O. 14.07.2004) Tj
+T* (el juez como temerarias, cuando éstas hayan sido ) Tj
+T* (ejecutadas sin previo acuerdo de la asamblea.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 11 bis.- Créase un Fondo Concursable,        LEY 19955) Tj
+T* (destinado al financiamiento de iniciativas que las         Art. único Nº 12) Tj
+T* (Asociaciones de Consumidores constituidas según lo         D.O. 14.07.2004) Tj
+T* (dispuesto en la presente ley desarrollen en el ) Tj
+T* (cumplimiento de sus objetivos, con exclusión de las ) Tj
+T* (actividades a que se refieren las letras d\) y e\) del ) Tj
+T* (artículo 8º.) Tj
+T* (      Dicho Fondo estará compuesto por los aportes que ) Tj
+T* (cada año se contemplen en el presupuesto del Servicio ) Tj
+T* (Nacional del Consumidor y por las donaciones que ) Tj
+T* (realicen para dicho efecto organizaciones sin fines de ) Tj
+T* (lucro nacionales o internacionales.) Tj
+T* (     Un reglamento establecerá la constitución y ) Tj
+T* (composición del Consejo de Administración del Fondo, ) Tj
+T* (preservando la autonomía de las Asociaciones de ) Tj
+T* (Consumidores y de la gestión del Fondo.) Tj
+T* () Tj
+T* () Tj
+T* (Párrafo 3º) Tj
+T* (  ) Tj
+T* (Obligaciones del proveedor) Tj
+T* (  ) Tj
+T* (     Artículo 12.- Todo proveedor de bienes o servicios ) Tj
+T* (estará obligado a respetar los términos, condiciones y ) Tj
+T* (modalidades conforme a las cuales se hubiere ofrecido o ) Tj
+T* (convenido con el consumidor la entrega del bien o la ) Tj
+T* (prestación del servicio.) Tj
+T* (     Artículo 12 A.- En los contratos celebrados por       LEY 19955) Tj
+T* (medios electrónicos, y en aquéllos en que se aceptare      Art. único Nº 13) Tj
+T* (una oferta realizada a través de catálogos, avisos o       D.O. 14.07.2004) Tj
+T* (cualquiera otra forma de comunicación a distancia, el ) Tj
+T* (consentimiento no se entenderá formado si el consumidor ) Tj
+T* (no ha tenido previamente un acceso claro, comprensible e ) Tj
+T* (inequívoco de las condiciones generales del mismo y la ) Tj
+T* (posibilidad de almacenarlos o imprimirlos.) Tj
+T* (     La sola visita del sitio de Internet en el cual se ) Tj
+T* (ofrece el acceso a determinados servicios, no impone al ) Tj
+T* (consumidor obligación alguna, a menos que haya aceptado ) Tj
+T* (en forma inequívoca las condiciones ofrecidas por el ) Tj
+T* (proveedor.) Tj
+T* (     Una vez perfeccionado el contrato, el proveedor ) Tj
+T* (estará obligado a enviar confirmación escrita del mismo. ) Tj
+T* (Ésta podrá ser enviada por vía electrónica o por ) Tj
+ET
+endstream
+endobj
+43 0 obj
+3340
+endobj
+44 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 45 0 R
+  /Rotate 0
+  >>
+endobj
+45 0 obj
+  <<
+  /Length 46 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (cualquier medio de comunicación que garantice el debido ) Tj
+T* (y oportuno conocimiento del consumidor, el que se le ) Tj
+T* (indicará previamente. Dicha confirmación deberá contener ) Tj
+T* (una copia íntegra, clara y legible del contrato.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 13.- Los proveedores no podrán negar ) Tj
+T* (injustificadamente la venta de bienes o la prestación de ) Tj
+T* (servicios comprendidos en sus respectivos giros en las ) Tj
+T* (condiciones ofrecidas.) Tj
+T* (     Artículo 14.- Cuando con conocimiento del proveedor ) Tj
+T* (se expendan productos con alguna deficiencia, usados o ) Tj
+T* (refaccionados o cuando se ofrezcan productos en cuya ) Tj
+T* (fabricación o elaboración se hayan utilizado partes o ) Tj
+T* (piezas usadas, se deberán informar de manera expresa las ) Tj
+T* (circunstancias antes mencionadas al consumidor, antes      LEY 19955) Tj
+T* (de que éste decida la operación de compra. Será            Art. único Nº 14) Tj
+T* (bastante constancia el usar en los propios artículos,      D.O. 14.07.2004) Tj
+T* (en sus envoltorios, en avisos o carteles visibles ) Tj
+T* (en sus locales de atención al público las expresiones) Tj
+T* ("segunda selección", "hecho con materiales usados" u) Tj
+T* (otras equivalentes.) Tj
+T* (     El cumplimiento de lo dispuesto en el inciso anterior ) Tj
+T* (eximirá al proveedor de las obligaciones derivadas del ) Tj
+T* (derecho de opción que se establece en los artículos 19 y 20, ) Tj
+T* (sin perjuicio de aquellas que hubiera contraído el proveedor ) Tj
+T* (en virtud de la garantía otorgada al producto.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 15.- Los sistemas de seguridad y vigilancia ) Tj
+T* (que, en conformidad a las leyes que los regulan, mantengan ) Tj
+T* (los establecimientos comerciales están especialmente ) Tj
+T* (obligados a respetar la dignidad y derechos de las personas.) Tj
+T* (  ) Tj
+T* (     En caso que se sorprenda a un consumidor en la comisión ) Tj
+T* (flagrante de un delito los gerentes, funcionarios o ) Tj
+T* (empleados del establecimiento se limitarán, bajo su ) Tj
+T* (responsabilidad, a poner sin demora al presunto infractor a ) Tj
+T* (disposición de las autoridades competentes.) Tj
+T* (     Cuando la contravención a lo dispuesto en los incisos ) Tj
+T* (anteriores no fuere constitutiva de delito, ella será ) Tj
+T* (sancionada en conformidad al artículo 24.) Tj
+T* (                      Párrafo 4º) Tj
+T* (     Normas de equidad en las estipulaciones y en el) Tj
+T* (       cumplimiento de los contratos de adhesión) Tj
+T* () Tj
+T* (     Artículo 16.- No producirán efecto alguno en los ) Tj
+T* (contratos de adhesión las cláusulas o estipulaciones que:) Tj
+T* (  ) Tj
+T* (     a\) Otorguen a una de las partes la facultad de dejar ) Tj
+T* (sin efecto o modificar a su solo arbitrio el contrato o de ) Tj
+T* (suspender unilateralmente su ejecución, salvo cuando ella se ) Tj
+T* (conceda al comprador en las modalidades de venta por correo, ) Tj
+T* (a domicilio, por muestrario, usando medios audiovisuales, u ) Tj
+T* (otras análogas, y sin perjuicio de las excepciones que las ) Tj
+T* (leyes contemplen;) Tj
+T* (  ) Tj
+T* (     b\) Establezcan incrementos de precio por servicios, ) Tj
+T* (accesorios, financiamiento o recargos, salvo que dichos ) Tj
+T* (incrementos correspondan a prestaciones adicionales que sean ) Tj
+ET
+endstream
+endobj
+46 0 obj
+3380
+endobj
+47 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 48 0 R
+  /Rotate 0
+  >>
+endobj
+48 0 obj
+  <<
+  /Length 49 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (susceptibles de ser aceptadas o rechazadas en cada caso y ) Tj
+T* (estén consignadas por separado en forma específica;) Tj
+T* (  ) Tj
+T* (     c\) Pongan de cargo del consumidor los efectos de ) Tj
+T* (deficiencias, omisiones o errores administrativos, cuando ) Tj
+T* (ellos no le sean imputables;) Tj
+T* (  ) Tj
+T* (     d\) Inviertan la carga de la prueba en perjuicio del) Tj
+T* (consumidor;) Tj
+T* (  ) Tj
+T* (     e\) Contengan limitaciones absolutas de ) Tj
+T* (responsabilidad frente al consumidor que puedan privar) Tj
+T* (a éste de su derecho a resarcimiento frente a ) Tj
+T* (deficiencias que afecten la utilidad o finalidad ) Tj
+T* (esencial del producto o servicio;                          LEY 19955) Tj
+T* (                                                           Art. único Nº 15) Tj
+T* (     f\) Incluyan espacios en blanco, que no hayan sido     a, b y c\)) Tj
+T* (llenados o inutilizados antes de que se suscriba el        D.O. 14.07.2004) Tj
+T* (contrato, y) Tj
+T* (     g\) En contra de las exigencias de la buena fe, ) Tj
+T* (atendiendo para estos efectos a parámetros objetivos, ) Tj
+T* (causen en perjuicio del consumidor, un desequilibrio ) Tj
+T* (importante en los derechos y obligaciones que para las ) Tj
+T* (partes se deriven del contrato. Para ello se atenderá a ) Tj
+T* (la finalidad del contrato y a las disposiciones ) Tj
+T* (especiales o generales que lo rigen. Se presumirá que ) Tj
+T* (dichas cláusulas se encuentran ajustadas a exigencias de ) Tj
+T* (la buena fe, si los contratos a que pertenecen han sido ) Tj
+T* (revisados y autorizados por un órgano administrativo en ) Tj
+T* (ejecución de sus facultades legales.) Tj
+T* () Tj
+T* (     Si en estos contratos se designa árbitro, el ) Tj
+T* (consumidor podrá recusarlo sin necesidad de expresar ) Tj
+T* (causa y solicitar que se nombre otro por el juez letrado) Tj
+T* (competente. Si se hubiese designado más de un árbitro,) Tj
+T* (para actuar uno en subsidio de otro, podrá ejercer este) Tj
+T* (derecho respecto de todos o parcialmente respecto de ) Tj
+T* (algunos. Todo ello de conformidad a las reglas del ) Tj
+T* (Código Orgánico de Tribunales.) Tj
+T* () Tj
+T* (     En todo contrato de adhesión en que se designe un     LEY 19955) Tj
+T* (árbitro, será obligatorio incluir una cláusula que         Art. único Nº 15 d\)) Tj
+T* (informe al consumidor de su derecho a recusarlo,           D.O. 14.07.2004) Tj
+T* (conforme a lo establecido en el inciso anterior. Lo que ) Tj
+T* (se entiende sin perjuicio del derecho que tiene el ) Tj
+T* (consumidor de recurrir siempre ante el tribunal ) Tj
+T* (competente.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 16 A. Declarada la nulidad de una o          LEY 19955) Tj
+T* (varias cláusulas o estipulaciones de un contrato de        Art. único Nº 16) Tj
+T* (adhesión, por aplicación de alguna de las normas del       D.O. 14.07.2004) Tj
+T* (artículo 16, éste subsistirá con las restantes ) Tj
+T* (cláusulas, a menos que por la naturaleza misma del ) Tj
+T* (contrato, o atendida la intención original de los ) Tj
+T* (contratantes, ello no fuere posible. En este último ) Tj
+T* (caso, el juez deberá declarar nulo, en su integridad, ) Tj
+T* (el acto o contrato sobre el que recae la declaración.) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+49 0 obj
+3287
+endobj
+50 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 51 0 R
+  /Rotate 0
+  >>
+endobj
+51 0 obj
+  <<
+  /Length 52 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     Artículo 16 B. El procedimiento a que se sujetará     LEY 19955) Tj
+T* (la tramitación de las acciones tendientes a obtener la     Art. único Nº 16) Tj
+T* (declaración de nulidad de cláusulas contenidas en          D.O. 14.07.2004) Tj
+T* (contratos de adhesión, será el contemplado en el Título ) Tj
+T* (IV de la presente ley.) Tj
+T* () Tj
+T* () Tj
+T* (Artículo 17.- Los contratos de adhesión relativos a) Tj
+T* (las actividades regidas por la presente ley deberán ) Tj
+T* (estar escritos de modo claramente legible, con un tamaño   LEY 19955) Tj
+T* (de letra no inferior a 2,5 milímetros y en idioma          Art. único Nº 17) Tj
+T* (castellano, salvo aquellas palabras de otro idioma que     D.O. 14.07.2004) Tj
+T* (el uso haya incorporado al léxico. Las cláusulas que no    NOTA) Tj
+T* (cumplan con dichos requisitos no producirán efecto ) Tj
+T* (alguno respecto del consumidor.) Tj
+T* (     Sin perjuicio de lo dispuesto en el inciso ) Tj
+T* (anterior, en los contratos impresos en formularios ) Tj
+T* (prevalecerán las cláusulas que se agreguen por sobre ) Tj
+T* (las del formulario cuando sean incompatibles entre sí.) Tj
+T* (     No obstante lo previsto en el inciso primero, ) Tj
+T* (tendrán validez los contratos redactados en idioma ) Tj
+T* (distinto del castellano cuando el consumidor lo acepte ) Tj
+T* (expresamente, mediante su firma en un documento escrito) Tj
+T* (en idioma castellano anexo al contrato, y quede en su) Tj
+T* (poder un ejemplar del contrato en castellano, al que se) Tj
+T* (estará, en caso de dudas, para todos los efectos ) Tj
+T* (legales.) Tj
+T* (     Tan pronto el consumidor firme el contrato, el ) Tj
+T* (proveedor deberá entregarle un ejemplar íntegro ) Tj
+T* (suscrito por todas las partes. Si no fuese posible ) Tj
+T* (hacerlo en el acto por carecer de alguna firma, ) Tj
+T* (entregará de inmediato una copia al consumidor con ) Tj
+T* (la constancia de ser fiel al original suscrito por ) Tj
+T* (éste. La copia así entregada se tendrá por el texto ) Tj
+T* (fidedigno de lo pactado, para todos los efectos ) Tj
+T* (legales.) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (     El Nº 29 del artículo único de la LEY 19955,) Tj
+T* (publicada el 14.07.2004, introduce un artículo) Tj
+T* (4º transitorio a la LEY 19496, el cual dispone) Tj
+T* (que la modificación que introduce a la presente) Tj
+T* (norma, rige después de un año, contado desde su) Tj
+T* (publicación. ) Tj
+T* () Tj
+T* () Tj
+T* (Párrafo 5º) Tj
+T* (  ) Tj
+T* (Responsabilidad por incumplimiento) Tj
+T* (  ) Tj
+T* (     Artículo 18.- Constituye infracción a las normas de la ) Tj
+T* (presente ley el cobro de un precio superior al exhibido, ) Tj
+T* (informado o publicitado.) Tj
+T* (     Artículo 19.- El consumidor tendrá derecho a la ) Tj
+T* (reposición del producto o, en su defecto, a optar por la ) Tj
+T* (bonificación de su valor en la compra de otro o por la ) Tj
+T* (devolución del precio que haya pagado en exceso, cuando la ) Tj
+T* (cantidad o el contenido neto de un producto sea inferior al ) Tj
+T* (indicado en el envase o empaque.) Tj
+T* (     Artículo 20.- En los casos que a continuación se ) Tj
+ET
+endstream
+endobj
+52 0 obj
+3144
+endobj
+53 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 54 0 R
+  /Rotate 0
+  >>
+endobj
+54 0 obj
+  <<
+  /Length 55 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (señalan, sin perjuicio de la indemnización por los daños ) Tj
+T* (ocasionados, el consumidor podrá optar entre la reparación ) Tj
+T* (gratuita del bien o, previa restitución, su reposición o la ) Tj
+T* (devolución de la cantidad pagada:) Tj
+T* (  ) Tj
+T* (     a\) Cuando los productos sujetos a normas de seguridad o ) Tj
+T* (calidad de cumplimiento obligatorio no cumplan las ) Tj
+T* (especificaciones correspondientes;) Tj
+T* (  ) Tj
+T* (     b\) Cuando los materiales, partes, piezas, elementos, ) Tj
+T* (sustancias o ingredientes que constituyan o integren los ) Tj
+T* (productos no correspondan a las especificaciones que ) Tj
+T* (ostenten o a las menciones del rotulado;) Tj
+T* (  ) Tj
+T* (     c\) Cuando cualquier producto, por deficiencias de ) Tj
+T* (fabricación, elaboración, materiales, partes, piezas, ) Tj
+T* (elementos, sustancias, ingredientes, estructura, calidad o ) Tj
+T* (condiciones sanitarias, en su caso, no sea enteramente apto ) Tj
+T* (para el uso o consumo al que está destinado o al que el ) Tj
+T* (proveedor hubiese señalado en su publicidad;) Tj
+T* (  ) Tj
+T* (     d\) Cuando el proveedor y consumidor hubieren convenido ) Tj
+T* (que los productos objeto del contrato deban reunir ) Tj
+T* (determinadas especificaciones y esto no ocurra;) Tj
+T* (  ) Tj
+T* (     e\) Cuando después de la primera vez de haberse hecho ) Tj
+T* (efectiva la garantía y prestado el servicio técnico ) Tj
+T* (correspondiente, subsistieren las deficiencias que hagan al ) Tj
+T* (bien inapto para el uso o consumo a que se refiere la letra ) Tj
+T* (c\). Este derecho subsistirá para el evento de presentarse ) Tj
+T* (una deficiencia distinta a la que fue objeto del servicio ) Tj
+T* (técnico, o volviere a presentarse la misma, dentro de los ) Tj
+T* (plazos a que se refiere el artículo siguiente;) Tj
+T* (  ) Tj
+T* (     f\) Cuando la cosa objeto del contrato tenga defectos o ) Tj
+T* (vicios ocultos que imposibiliten el uso a que habitualmente ) Tj
+T* (se destine;) Tj
+T* (  ) Tj
+T* (     g\) Cuando la ley de los metales en los artículos de ) Tj
+T* (orfebrería, joyería y otros sea inferior a la que en ellos ) Tj
+T* (se indique.) Tj
+T* (     Para los efectos del presente artículo se considerará ) Tj
+T* (que es un solo bien aquel que se ha vendido como un todo, ) Tj
+T* (aunque esté conformado por distintas unidades, partes, ) Tj
+T* (piezas o módulos, no obstante que éstas puedan o no prestar ) Tj
+T* (una utilidad en forma independiente unas de otras. Sin ) Tj
+T* (perjuicio de ello, tratándose de su reposición, ésta se ) Tj
+T* (podrá efectuar respecto de una unidad, parte, pieza o ) Tj
+T* (módulo, siempre que sea por otra igual a la que se ) Tj
+T* (restituye. ) Tj
+T* (     Artículo 21.- El ejercicio de los derechos que ) Tj
+T* (contemplan los artículos 19 y 20 deberá hacerse efectivo ) Tj
+T* (ante el vendedor dentro de los tres meses siguientes a ) Tj
+T* (la fecha en que se haya recibido el producto, siempre ) Tj
+T* (que éste no se hubiere deteriorado por hecho imputable) Tj
+T* (al consumidor. Si el producto se hubiere vendido con ) Tj
+T* (determinada garantía, prevalecerá el plazo por el cual) Tj
+T* (ésta se extendió, si fuere mayor.) Tj
+T* (     El consumidor que, en el ejercicio de los derechos    LEY 19955) Tj
+T* (que contempla el artículo 20, opte por la reparación,      Art. único Nº 18 a\)) Tj
+ET
+endstream
+endobj
+55 0 obj
+3377
+endobj
+56 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 57 0 R
+  /Rotate 0
+  >>
+endobj
+57 0 obj
+  <<
+  /Length 58 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (podrá dirigirse, indistinta o conjuntamente, al            D.O. 14.07.2004) Tj
+T* (vendedor, al fabricante o al importador. Hecha la ) Tj
+T* (opción, el requerido no podrá derivar el reclamo.) Tj
+T* (     Serán solidariamente responsables por los ) Tj
+T* (perjuicios ocasionados al consumidor, el proveedor que ) Tj
+T* (haya comercializado el bien o producto y el importador ) Tj
+T* (que lo haya vendido o suministrado.) Tj
+T* (     En caso de que el consumidor solicite la reparación ) Tj
+T* (sólo al vendedor, éste gozará del derecho de ) Tj
+T* (resarcimiento señalado en el artículo 22.) Tj
+T* (     Las acciones a que se refiere el inciso primero ) Tj
+T* (podrán hacerse valer, asimismo, indistintamente en ) Tj
+T* (contra del fabricante o el importador, en caso de ) Tj
+T* (ausencia del vendedor por quiebra, término de giro u ) Tj
+T* (otra circunstancia semejante. Tratándose de la ) Tj
+T* (devolución de la cantidad pagada, la acción no podrá ) Tj
+T* (intentarse sino respecto del vendedor.) Tj
+T* (     El vendedor, fabricante o importador, en su caso, ) Tj
+T* (deberá responder al ejercicio de los derechos a que se ) Tj
+T* (refieren los artículos 19 y 20 en el mismo local donde) Tj
+T* (se efectuó la venta o en las oficinas o locales en que ) Tj
+T* (habitualmente atiende a sus clientes, no pudiendo ) Tj
+T* (condicionar el ejercicio de los referidos derechos a ) Tj
+T* (efectuarse en otros lugares o en condiciones menos ) Tj
+T* (cómodas para el consumidor que las que se le ofreció ) Tj
+T* (para efectuar la venta, salvo que éste consienta en ) Tj
+T* (ello.) Tj
+T* (     En el caso de productos perecibles o que por su ) Tj
+T* (naturaleza estén destinados a ser usados o consumidos ) Tj
+T* (en plazos breves, el término a que se refiere el inciso) Tj
+T* (primero será el impreso en el producto o su envoltorio) Tj
+T* (o, en su defecto, el término máximo de siete días.) Tj
+T* (     El plazo que la póliza de garantía otorgada por ) Tj
+T* (el proveedor contemple y aquel a que se refiere el ) Tj
+T* (inciso primero de este artículo, se suspenderán durante) Tj
+T* (el tiempo en que el bien esté siendo reparado en ) Tj
+T* (ejercicio de la garantía.) Tj
+T* (     Tratándose de bienes amparados por una garantía ) Tj
+T* (otorgada por el proveedor, el consumidor, antes de ) Tj
+T* (ejercer alguno de los derechos que le confiere el ) Tj
+T* (artículo 20, deberá hacerla efectiva ante quien ) Tj
+T* (corresponda y agotar las posibilidades que ofrece, ) Tj
+T* (conforme a los términos de la póliza.) Tj
+T* (     La póliza de garantía a que se refiere el inciso ) Tj
+T* (anterior producirá plena prueba si ha sido fechada y ) Tj
+T* (timbrada al momento de la entrega del bien. Igual efecto ) Tj
+T* (tendrá la referida póliza aunque no haya sido fechada ni ) Tj
+T* (timbrada al momento de la entrega del bien, siempre que se ) Tj
+T* (exhiba con la correspondiente factura o boleta de venta.   LEY 19955) Tj
+T* (     Tratándose de la devolución de la cantidad pagada,    Art. único Nº 18 b\)) Tj
+T* (el plazo para ejercer la acción se contará desde la        D.O. 14.07.2004) Tj
+T* (fecha de la correspondiente factura o boleta y no se ) Tj
+T* (suspenderá en caso alguno. Si tal devolución se acordare) Tj
+T* (una vez expirado el plazo a que se refiere el artículo) Tj
+T* (70 del decreto Ley Nº 825, de 1974, el consumidor sólo) Tj
+T* (tendrá derecho a recuperar el precio neto del bien, ) Tj
+T* (excluidos los impuestos correspondientes.) Tj
+T* (     Para ejercer estas acciones, el consumidor deberá     LEY 19955) Tj
+T* (acreditar el acto o contrato con la documentación          Art. único Nº 18 c\)) Tj
+T* (respectiva, salvo en casos en que el proveedor tribute     D.O. 14.07.2004) Tj
+ET
+endstream
+endobj
+58 0 obj
+3737
+endobj
+59 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 60 0 R
+  /Rotate 0
+  >>
+endobj
+60 0 obj
+  <<
+  /Length 61 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (bajo el régimen de renta presunta, en los cuales el acto ) Tj
+T* (o contrato podrá ser acreditado mediante todos los ) Tj
+T* (medios de prueba que sean conducentes.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 22.- Los productos que los proveedores, siendo ) Tj
+T* (éstos distribuidores o comerciantes, hubieren debido reponer ) Tj
+T* (a los consumidores y aquellos por los que devolvieron la ) Tj
+T* (cantidad recibida en pago, deberán serles restituidos, ) Tj
+T* (contra su entrega, por la persona de quien los adquirieron o ) Tj
+T* (por el fabricante o importador, siendo asimismo de cargo de ) Tj
+T* (estos últimos el resarcimiento, en su caso, de los costos de ) Tj
+T* (restitución o de devolución y de las indemnizaciones que se ) Tj
+T* (hayan debido pagar en virtud de sentencia condenatoria, ) Tj
+T* (siempre que el defecto que dio lugar a una u otra les fuere ) Tj
+T* (imputable.) Tj
+T* (     Artículo 23.- Comete infracción a las disposiciones de ) Tj
+T* (la presente ley el proveedor que, en la venta de un bien o ) Tj
+T* (en la prestación de un servicio, actuando con negligencia, ) Tj
+T* (causa menoscabo al consumidor debido a fallas o deficiencias ) Tj
+T* (en la calidad, cantidad, identidad, sustancia, procedencia, ) Tj
+T* (seguridad, peso o medida del respectivo bien o servicio.) Tj
+T* (     Serán sancionados con multa de cien a trescientas ) Tj
+T* (unidades tributarias mensuales, los organizadores de ) Tj
+T* (espectáculos públicos, incluidos los artísticos y ) Tj
+T* (deportivos, que pongan en venta una cantidad de localidades ) Tj
+T* (que supere la capacidad del respectivo recinto. Igual ) Tj
+T* (sanción se aplicará a la venta de sobrecupos en los ) Tj
+T* (servicios de transporte de pasajeros, con excepción del ) Tj
+T* (transporte aéreo.) Tj
+T* (     Artículo 24.- Las infracciones a lo dispuesto en ) Tj
+T* (esta ley serán sancionadas con multa de hasta 50 ) Tj
+T* (unidades tributarias mensuales, si no tuvieren señalada) Tj
+T* (una sanción diferente.) Tj
+T* (     La publicidad falsa o engañosa difundida por          LEY 19955) Tj
+T* (medios de comunicación social, en relación a cualquiera    Art. único Nº 19 a\)) Tj
+T* (de los elementos indicados en el artículo 28, hará         D.O. 14.07.2004) Tj
+T* (incurrir al infractor en una multa de hasta 750 unidades ) Tj
+T* (tributarias mensuales. En caso de que incida en las ) Tj
+T* (cualidades de productos o servicios que afecten la salud ) Tj
+T* (o la seguridad de la población o el medio ambiente, hará ) Tj
+T* (incurrir al anunciante infractor en una multa de hasta ) Tj
+T* (1.000 unidades tributarias mensuales.) Tj
+T* (     El juez, en caso de reincidencia, podrá elevar las ) Tj
+T* (multas antes señaladas al doble. Se considerará reincidente) Tj
+T* (al proveedor que sea sancionado por infracciones a esta ) Tj
+T* (ley dos veces o más dentro del mismo año calendario.) Tj
+T* (     Para la aplicación de las multas señaladas en         LEY 19955) Tj
+T* (esta ley, el tribunal tendrá especialmente en cuenta la    Art. único Nº 19 b\)) Tj
+T* (cuantía de lo disputado, el grado de negligencia en que    D.O. 14.07.2004) Tj
+T* (haya incurrido el infractor, la gravedad del daño ) Tj
+T* (causado, el riesgo a que quedó expuesta la víctima o ) Tj
+T* (la comunidad y la situación económica del infractor.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 25.- El que suspendiere, paralizare o no ) Tj
+T* (prestare, sin justificación, un servicio previamente ) Tj
+T* (contratado y por el cual se hubiere pagado derecho de ) Tj
+ET
+endstream
+endobj
+61 0 obj
+3557
+endobj
+62 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 63 0 R
+  /Rotate 0
+  >>
+endobj
+63 0 obj
+  <<
+  /Length 64 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (conexión, de instalación, de incorporación o de mantención ) Tj
+T* (será castigado con multa de hasta 150 unidades tributarias ) Tj
+T* (mensuales.) Tj
+T* (     Cuando el servicio de que trata el inciso anterior ) Tj
+T* (fuere de agua potable, gas, alcantarillado, energía ) Tj
+T* (eléctrica, teléfono o recolección de basura o elementos ) Tj
+T* (tóxicos, los responsables serán sancionados con multa de ) Tj
+T* (hasta 300 unidades tributarias mensuales.) Tj
+T* (     El proveedor no podrá efectuar cobro alguno por el ) Tj
+T* (servicio durante el tiempo en que se encuentre interrumpido ) Tj
+T* (y, en todo caso, estará obligado a descontar o reembolsar al ) Tj
+T* (consumidor el precio del servicio en la proporción que ) Tj
+T* (corresponda.) Tj
+T* (     Artículo 26.- Las acciones que persigan la ) Tj
+T* (responsabilidad contravencional que se sanciona por la ) Tj
+T* (presente ley prescribirán en el plazo de seis meses, contado ) Tj
+T* (desde que se haya incurrido en la infracción respectiva.) Tj
+T* (     Las sanciones impuestas por dichas contravenciones ) Tj
+T* (prescribirán en el término de un año, contado desde que ) Tj
+T* (hubiere quedado a firme la sentencia condenatoria.) Tj
+T* (     Artículo 27.- Las restituciones pecuniarias que las ) Tj
+T* (partes deban hacerse en conformidad a esta ley, serán ) Tj
+T* (reajustadas según la variación experimentada por el Indice ) Tj
+T* (de Precios al Consumidor, determinado por el Instituto ) Tj
+T* (Nacional de Estadísticas, entre el mes anterior a la fecha ) Tj
+T* (en que se produjo la infracción y el precedente a aquél en ) Tj
+T* (que la restitución se haga efectiva.) Tj
+T* (T I T U L O  III) Tj
+T* (  ) Tj
+T* (Disposiciones especiales) Tj
+T* (  ) Tj
+T* (Párrafo 1º) Tj
+T* (  ) Tj
+T* (Información y publicidad) Tj
+T* (  ) Tj
+T* (     Artículo 28.- Comete infracción a las disposiciones de ) Tj
+T* (esta ley el que, a sabiendas o debiendo saberlo y a través ) Tj
+T* (de cualquier tipo de mensaje publicitario induce a error o ) Tj
+T* (engaño respecto de:) Tj
+T* (  ) Tj
+T* (     a\) Los componentes del producto y el porcentaje en que ) Tj
+T* (concurren;) Tj
+T* (  ) Tj
+T* (     b\) la idoneidad del bien o servicio para los fines que ) Tj
+T* (se pretende satisfacer y que haya sido atribuida en forma ) Tj
+T* (explícita por el anunciante;) Tj
+T* (  ) Tj
+T* (     c\) las características relevantes del bien o servicio ) Tj
+T* (destacadas por el anunciante o que deban ser proporcionadas ) Tj
+T* (de acuerdo a las normas de información comercial;) Tj
+T* (  ) Tj
+T* (     d\) El precio del bien o la tarifa del servicio, su ) Tj
+T* (forma de pago y el costo del crédito en su caso, en ) Tj
+T* (conformidad a la normas vigentes;) Tj
+T* (  ) Tj
+T* (     e\) Las condiciones en que opera la garantía, y) Tj
+T* (  ) Tj
+T* (     f\) Su condición de no producir daño al medio ambiente, ) Tj
+T* (a la calidad de vida y de ser reciclable o reutilizable.) Tj
+T* (     Artículo 28 A.- Asimismo, comete infracción a la      LEY 19955) Tj
+ET
+endstream
+endobj
+64 0 obj
+3032
+endobj
+65 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 66 0 R
+  /Rotate 0
+  >>
+endobj
+66 0 obj
+  <<
+  /Length 67 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (presente ley el que, a través de cualquier tipo de         Art. único Nº 20) Tj
+T* (mensaje publicitario, produce confusión en los             D.O. 14.07.2004) Tj
+T* (consumidores respecto de la identidad de empresas, ) Tj
+T* (actividades, productos, nombres, marcas u otros signos ) Tj
+T* (distintivos de los competidores.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 28 B.- Toda comunicación promocional o       LEY 19955) Tj
+T* (publicitaria enviada por correo electrónico deberá         Art. único Nº 20) Tj
+T* (indicar la materia o asunto sobre el que versa, la         D.O. 14.07.2004) Tj
+T* (identidad del remitente y contener una dirección válida ) Tj
+T* (a la que el destinatario pueda solicitar la suspensión ) Tj
+T* (de los envíos, que quedarán desde entonces prohibidos.) Tj
+T* (     Los proveedores que dirijan comunicaciones ) Tj
+T* (promocionales o publicitarias a los consumidores por ) Tj
+T* (medio de correo postal, fax, llamados o servicios de ) Tj
+T* (mensajería telefónicos, deberán indicar una forma ) Tj
+T* (expedita en que los destinatarios podrán solicitar la ) Tj
+T* (suspensión de las mismas. Solicitada ésta, el envío de ) Tj
+T* (nuevas comunicaciones quedará prohibido.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 29.- El que estando obligado a rotular los ) Tj
+T* (bienes o servicios que produzca, expenda o preste, no lo ) Tj
+T* (hiciere, o faltare a la verdad en la rotulación, la ocultare ) Tj
+T* (o alterare, será sancionado con multa de cinco a cincuenta ) Tj
+T* (unidades tributarias mensuales.) Tj
+T* (     Artículo 30.- Los proveedores deberán dar conocimiento ) Tj
+T* (al público de los precios de los bienes que expendan o de ) Tj
+T* (los servicios que ofrezcan, con excepción de los que por sus ) Tj
+T* (características deban regularse convencionalmente.) Tj
+T* (     El precio deberá indicarse de un modo claramente ) Tj
+T* (visible que permita al consumidor, de manera efectiva, el ) Tj
+T* (ejercicio de su derecho a elección, antes de formalizar o ) Tj
+T* (perfeccionar el acto de consumo.) Tj
+T* (     Igualmente se enunciarán las tarifas de los ) Tj
+T* (establecimientos de prestación de servicios.) Tj
+T* (Cuando se exhiban los bienes en vitrinas, anaqueles o ) Tj
+T* (estanterías, se deberá indicar allí sus respectivos precios.) Tj
+T* (     El monto del precio deberá comprender el valor total ) Tj
+T* (del bien o servicio, incluidos los impuestos ) Tj
+T* (correspondientes.) Tj
+T* (     Cuando el consumidor no pueda conocer por sí mismo el ) Tj
+T* (precio de los productos que desea adquirir, los ) Tj
+T* (establecimientos comerciales deberán mantener una lista de ) Tj
+T* (sus precios a disposición del público, de manera permanente ) Tj
+T* (y visible.) Tj
+T* (     Artículo 31.- En las denuncias que se formulen por ) Tj
+T* (publicidad falsa, el tribunal competente, de oficio o a ) Tj
+T* (petición de parte, podrá disponer la suspensión de las ) Tj
+T* (emisiones publicitarias cuando la gravedad de los hechos y ) Tj
+T* (los antecedentes acompañados lo ameriten. Podrá, asimismo, ) Tj
+T* (exigir al anunciante que, a su propia costa, realice la ) Tj
+T* (publicidad correctiva que resulte apropiada para enmendar ) Tj
+T* (errores o falsedades.) Tj
+T* (     Artículo 32.- La información básica comercial de ) Tj
+T* (los servicios y de los productos de fabricación nacional) Tj
+T* (o de procedencia extranjera, así como su identificación, ) Tj
+T* (instructivos de uso y garantías, y la difusión que de ) Tj
+ET
+endstream
+endobj
+67 0 obj
+3502
+endobj
+68 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 69 0 R
+  /Rotate 0
+  >>
+endobj
+69 0 obj
+  <<
+  /Length 70 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (ellos se haga, deberán efectuarse en idioma castellano,) Tj
+T* (en términos comprensibles y legibles en moneda de curso    LEY 19955) Tj
+T* (legal, y conforme al sistema general de pesos y medidas    Art. único Nº 21 a\)) Tj
+T* (aplicables en el país, sin perjuicio de que el proveedor   D.O. 14.07.2004) Tj
+T* (o anunciante pueda incluir, adicionalmente, esos mismos) Tj
+T* (datos en otro idioma, unidad monetaria o de medida.) Tj
+T* () Tj
+T* (     Tratándose de contratos ofrecidos por medios          LEY 19955) Tj
+T* (electrónicos o de aquellos en que se aceptare una oferta   Art. único Nº 21 b\)) Tj
+T* (realizada a través de catálogos, avisos o cualquier otra   D.O. 14.07.2004) Tj
+T* (forma de comunicación a distancia, el proveedor deberá ) Tj
+T* (informar, de manera inequívoca y fácilmente accesible, ) Tj
+T* (los pasos que deben seguirse para celebrarlos, e ) Tj
+T* (informará, cuando corresponda, si el documento ) Tj
+T* (electrónico en que se formalice el contrato será ) Tj
+T* (archivado y si éste será accesible al consumidor. ) Tj
+T* (Indicará, además, su dirección de correo postal o ) Tj
+T* (electrónico y los medios técnicos que pone a disposición ) Tj
+T* (del consumidor para identificar y corregir errores en el ) Tj
+T* (envío o en sus datos.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 33.- La información que se consigne en los ) Tj
+T* (productos, etiquetas, envases, empaques o en la publicidad y ) Tj
+T* (difusión de los bienes y servicios deberá ser susceptible de ) Tj
+T* (comprobación y no contendrá expresiones que induzcan a error ) Tj
+T* (o engaño al consumidor.) Tj
+T* (     Expresiones tales como "garantizado" y "garantía", sólo ) Tj
+T* (podrán ser consignadas cuando se señale en qué consisten y ) Tj
+T* (la forma en que el consumidor pueda hacerlas efectivas.) Tj
+T* (     Artículo 34.- Como medida prejudicial preparatoria del ) Tj
+T* (ejercicio de su acción en los casos de publicidad falsa o ) Tj
+T* (engañosa, podrá el denunciante solicitar del juez competente ) Tj
+T* (se exija, en caso necesario, del respectivo medio de ) Tj
+T* (comunicación utilizado en la difusión de los anuncios o de ) Tj
+T* (la correspondiente agencia de publicidad, la identificación ) Tj
+T* (del anunciante o responsable de la emisión publicitaria.) Tj
+T* (                     Párrafo 2º) Tj
+T* (               Promociones y ofertas) Tj
+T* (  ) Tj
+T* (     Artículo 35.- En toda promoción u oferta se deberá ) Tj
+T* (informar al consumidor sobre las bases de la misma y el ) Tj
+T* (tiempo o plazo de su duración.) Tj
+T* (     No se entenderá cumplida esta obligación por el       LEY 19955) Tj
+T* (solo hecho de haberse depositado las bases en el oficio    Art. único Nº 22) Tj
+T* (de un notario.                                             D.O. 14.07.2004) Tj
+T* (     En caso de rehusarse el proveedor al cumplimiento ) Tj
+T* (de lo ofrecido en la promoción u oferta, el consumidor) Tj
+T* (podrá requerir del juez competente que ordene su) Tj
+T* (cumplimiento forzado, pudiendo éste disponer una ) Tj
+T* (prestación equivalente en caso de no ser posible el) Tj
+T* (cumplimiento en especie de lo ofrecido.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 36.- Cuando se trate de promociones en que el ) Tj
+T* (incentivo consista en la participación en concursos o ) Tj
+T* (sorteos, el anunciante deberá informar al público sobre el ) Tj
+T* (monto o número de premios de aquéllos y el plazo en que se ) Tj
+T* (podrán reclamar. El anunciante estará obligado a difundir ) Tj
+T* (adecuadamente los resultados de los concursos o sorteos.) Tj
+ET
+endstream
+endobj
+70 0 obj
+3588
+endobj
+71 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 72 0 R
+  /Rotate 0
+  >>
+endobj
+72 0 obj
+  <<
+  /Length 73 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     Párrafo 3º) Tj
+T* (     Del crédito al consumidor) Tj
+T* () Tj
+T* (     Artículo 37.- En toda operación de consumo en que ) Tj
+T* (se conceda crédito directo al consumidor, el proveedor ) Tj
+T* (deberá poner a disposición de éste la siguiente ) Tj
+T* (información:) Tj
+T* () Tj
+T* (     a\) El precio al contado del bien o servicio de que ) Tj
+T* (se trate, el que deberá expresarse en tamaño igual o       LEY 19955) Tj
+T* (mayor que la información acerca del monto de las cuotas    Art. único Nº 23 a\)) Tj
+T* (a que se refiere la letra d\);                              D.O. 14.07.2004) Tj
+T* (     b\) La tasa de interés que se aplique sobre los        LEY 19955) Tj
+T* (saldos de precio correspondientes, la que deberá quedar    Art. único Nº 23 b\)) Tj
+T* (registrada en la boleta o en el comprobante de cada        D.O. 14.07.2004) Tj
+T* (transacción;                                               NOTA) Tj
+T* (     c\) El monto de los siguientes importes, distintos a ) Tj
+T* (la tasa de interés:) Tj
+T* (     1. Impuestos correspondientes a la respectiva ) Tj
+T* (operación de crédito.) Tj
+T* (     2. Gastos notariales.) Tj
+T* (     3. Gastos inherentes a los bienes recibidos en ) Tj
+T* (        garantía.) Tj
+T* (     4. Seguros expresamente aceptados por el ) Tj
+T* (        consumidor.) Tj
+T* (     5. Cualquier otro importe permitido por ley;) Tj
+T* (     d\) Las alternativas de monto y número de pagos a ) Tj
+T* (efectuar y su periodicidad; ) Tj
+T* (     e\) El monto total a pagar por el consumidor en        LEY 19955) Tj
+T* (cada alternativa de crédito, correspondiendo dicho monto   Art. único Nº 23 ) Tj
+T* (a la suma de cuotas a pagar, y                             c y d\)) Tj
+T* (     f\) La tasa de interés moratorio en caso de            D.O. 14.07.2004) Tj
+T* (incumplimiento y el sistema de cálculo de los gastos que ) Tj
+T* (genere la cobranza extrajudicial de los créditos ) Tj
+T* (impagos, incluidos los honorarios que correspondan, y ) Tj
+T* (las modalidades y procedimientos de dicha cobranza.".) Tj
+T* (     No podrá cobrarse, por concepto de gastos de          LEY 19659) Tj
+T* (cobranza extrajudicial, cantidades que excedan de los      Art. 1º Nº 2) Tj
+T* (porcentajes que a continuación se indican, aplicados       D.O. 27.12.1999) Tj
+T* (sobre el capital adeudado o la cuota vencida, según el ) Tj
+T* (caso, y conforme a la siguiente escala progresiva: en ) Tj
+T* (obligaciones de hasta 10 unidades de fomento, 9%; por la ) Tj
+T* (parte que exceda de 10 y hasta 50 unidades de fomento, ) Tj
+T* (6%, y por la parte que exceda de 50 unidades de fomento, ) Tj
+T* (3%. Los porcentajes indicados se aplicarán una vez ) Tj
+T* (transcurridos los primeros quince días de atraso.) Tj
+T* (     Entre las modalidades y procedimientos de la ) Tj
+T* (cobranza extrajudicial se indicará si el proveedor la ) Tj
+T* (realizará directamente o por medio de terceros y, en ) Tj
+T* (este último caso, se identificarán los encargados; los ) Tj
+T* (horarios en que se efectuará, y la eventual información ) Tj
+T* (sobre ella que podrá proporcionarse a terceros de ) Tj
+T* (conformidad a la ley Nº 19.628, sobre protección de los ) Tj
+T* (datos de carácter personal.) Tj
+T* (     Se informará, asimismo, que tales modalidades y ) Tj
+T* (procedimientos de cobranza extrajudicial pueden ser ) Tj
+T* (cambiados anualmente en el caso de operaciones de ) Tj
+T* (consumo cuyo plazo de pago exceda de un año, en términos ) Tj
+T* (de que no resulte más gravoso ni oneroso para los ) Tj
+T* (consumidores ni se discrimine entre ellos, y siempre que ) Tj
+ET
+endstream
+endobj
+73 0 obj
+3610
+endobj
+74 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 75 0 R
+  /Rotate 0
+  >>
+endobj
+75 0 obj
+  <<
+  /Length 76 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (de tales cambios se avise con una anticipación mínima de ) Tj
+T* (dos períodos de pago.) Tj
+T* (     Las actuaciones de cobranza extrajudicial no podrán ) Tj
+T* (considerar el envío al consumidor de documentos que ) Tj
+T* (aparenten ser escritos judiciales; comunicaciones a ) Tj
+T* (terceros ajenos a la obligación en las que se dé cuenta ) Tj
+T* (de la morosidad; visitas o llamados telefónicos a la ) Tj
+T* (morada del deudor durante días y horas que no sean los ) Tj
+T* (que declara hábiles el artículo 59 del Código de ) Tj
+T* (Procedimiento Civil, y, en general, conductas que ) Tj
+T* (afecten la privacidad del hogar, la convivencia normal ) Tj
+T* (de sus miembros ni la situación laboral del deudor.) Tj
+T* (     Sin perjuicio de lo anterior, cuando se exhiban los ) Tj
+T* (bienes en vitrinas, anaqueles o estanterías, se deberán ) Tj
+T* (indicar allí las informaciones referidas en las letras a\) ) Tj
+T* (y b\).) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 38.- Los intereses se aplicarán solamente ) Tj
+T* (sobre los saldos insolutos del crédito concedido y los pagos ) Tj
+T* (no podrán ser exigidos por adelantado, salvo acuerdo en ) Tj
+T* (contrario.) Tj
+T* (     Artículo 39.- Cometerán infracción a la presente ley, ) Tj
+T* (los proveedores que cobren intereses por sobre el interés ) Tj
+T* (máximo convencional a que se refiere el artículo 6º de la ) Tj
+T* (ley Nº 18.010, sin perjuicio de la sanción civil que se ) Tj
+T* (contempla en el artículo 8º de la misma ley.) Tj
+T* (     Artículo 39 A.- Asimismo, constituyen infracciones    LEY 19659) Tj
+T* (a esta ley la exigencia de gastos de cobranza superiores   Art. 1º Nº 3) Tj
+T* (a los establecidos en el inciso segundo del artículo 37,   D.O. 27.12.1999) Tj
+T* (o distintos o superiores a los que resulten de la ) Tj
+T* (aplicación del sistema de cálculo que hubiere sido ) Tj
+T* (informado previamente al consumidor de acuerdo a la ) Tj
+T* (letra e\) del mismo artículo; la aplicación de ) Tj
+T* (modalidades o procedimientos de cobranza extrajudicial ) Tj
+T* (prohibidos por el inciso quinto del artículo 37, ) Tj
+T* (diferentes de los que se dieron a conocer en virtud ) Tj
+T* (del inciso tercero del mismo artículo o, en su caso, ) Tj
+T* (distintos de los que estén vigentes como consecuencia ) Tj
+T* (de los cambios que se hayan introducido conforme al ) Tj
+T* (inciso cuarto del referido artículo 37, y la ) Tj
+T* (vulneración de lo dispuesto en el artículo 38.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 39 B.- Si se cobra extrajudicialmente        LEY 19659) Tj
+T* (créditos impagos del proveedor, el consumidor siempre      Art. 1º Nº 3) Tj
+T* (podrá pagar directamente a éste el total de la deuda       D.O. 27.12.1999) Tj
+T* (vencida o de las cuotas impagas, incluidos los gastos de ) Tj
+T* (cobranza que procedieren, aunque el proveedor haya ) Tj
+T* (conferido diputación para cobrar y recibir el pago, o ) Tj
+T* (ambos hayan designado una persona para estos efectos. Lo ) Tj
+T* (anterior no obsta a que las partes convengan en que el ) Tj
+T* (proveedor reciba por partes lo que se le deba.) Tj
+T* (     En esos casos, por la recepción del pago terminará ) Tj
+T* (el mandato que hubiere conferido el proveedor, quien ) Tj
+T* (deberá dar aviso inmediato al mandatario para que se ) Tj
+T* (abstenga de proseguir en el cobro, sin perjuicio del ) Tj
+T* (cumplimiento de las obligaciones que establece el ) Tj
+T* (artículo 2158 del Código Civil.) Tj
+T* (     Lo dispuesto en este artículo, en el artículo 37, ) Tj
+ET
+endstream
+endobj
+76 0 obj
+3527
+endobj
+77 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 78 0 R
+  /Rotate 0
+  >>
+endobj
+78 0 obj
+  <<
+  /Length 79 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (letra e\) e incisos segundo, tercero, cuarto y quinto, y ) Tj
+T* (en el artículo 39 A será aplicable, asimismo, a las ) Tj
+T* (operaciones de crédito de dinero en que intervengan las ) Tj
+T* (entidades fiscalizadas por la Superintendencia de Bancos ) Tj
+T* (e Instituciones Financieras, sin perjuicio de las ) Tj
+T* (atribuciones de este organismo fiscalizador.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 39-C.- No obstante lo señalado en el         LEY 19761) Tj
+T* (epígrafe del presente párrafo 3º, se aplicará lo           Art. único) Tj
+T* (dispuesto en el inciso quinto del artículo 37 a todas      D.O. 08.11.2001) Tj
+T* (las operaciones de consumo regidas por esta ley, aun) Tj
+T* (cuando no involucren el otorgamiento de un crédito al) Tj
+T* (consumidor.) Tj
+T* () Tj
+T* () Tj
+T* (Párrafo 4º) Tj
+T* (  ) Tj
+T* (Normas especiales en materia de prestación) Tj
+T* (de servicios) Tj
+T* (  ) Tj
+T* (     Artículo 40.- En los contratos de prestación de ) Tj
+T* (servicios cuyo objeto sea la reparación de cualquier tipo de ) Tj
+T* (bienes, se entenderá implícita la obligación del prestador ) Tj
+T* (del servicio de emplear en tal reparación componentes o ) Tj
+T* (repuestos adecuados al bien de que se trate, ya sean nuevos ) Tj
+T* (o refaccionados, siempre que se informe al consumidor de ) Tj
+T* (esta última circunstancia.) Tj
+T* (     El incumplimiento de esta obligación dará lugar, además ) Tj
+T* (de las sanciones o indemnizaciones que procedan, a que se ) Tj
+T* (obligue al prestador del servicio a sustituir, sin cargo ) Tj
+T* (adicional alguno, los componentes o repuestos ) Tj
+T* (correspondientes al servicio contratado.) Tj
+T* (     En todo caso, cuando el consumidor lo solicite, el ) Tj
+T* (proveedor deberá especificar, en la correspondiente boleta o ) Tj
+T* (factura, los repuestos empleados, el precio de los mismos y ) Tj
+T* (el valor de la obra de mano.) Tj
+T* (     Artículo 41.- El prestador de un servicio, incluido) Tj
+T* (el servicio de reparación, estará obligado a señalar por ) Tj
+T* (escrito en la boleta, recibo u otro documento, el plazo ) Tj
+T* (por el cual se hace responsable del servicio o ) Tj
+T* (reparación.) Tj
+T* (     En todo caso, el consumidor podrá reclamar del ) Tj
+T* (desperfecto o daño ocasionado por el servicio defectuoso ) Tj
+T* (dentro del plazo de treinta días hábiles, contado desde    LEY 19955) Tj
+T* (la fecha en que hubiere terminado la prestación del        Art. único Nº 24 a\)) Tj
+T* (servicio o, en su caso, se hubiere entregado el bien       D.O. 14.07.2004) Tj
+T* (reparado. Si el tribunal estimare procedente el reclamo,) Tj
+T* (dispondrá se preste nuevamente el servicio sin costo ) Tj
+T* (para el consumidor o, en su defecto, la devolución de ) Tj
+T* (lo pagado por éste al proveedor. Sin perjuicio de lo ) Tj
+T* (anterior, quedará subsistente la acción del consumidor) Tj
+T* (para obtener la reparación de los perjuicios sufridos.) Tj
+T* (     Para el ejercicio de los derechos a que se refiere    LEY 19955) Tj
+T* (el presente párrafo, deberá estarse a lo dispuesto en el   Art. único Nº 24 b\)) Tj
+T* (inciso final del artículo 21 de esta ley.                  D.O. 14.07.2004) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 42.- Se entenderán abandonadas en favor del ) Tj
+T* (proveedor las especies que le sean entregadas en reparación, ) Tj
+ET
+endstream
+endobj
+79 0 obj
+3351
+endobj
+80 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 81 0 R
+  /Rotate 0
+  >>
+endobj
+81 0 obj
+  <<
+  /Length 82 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (cuando no sean retiradas en el plazo de un año contado desde ) Tj
+T* (la fecha en que se haya otorgado y suscrito el ) Tj
+T* (correspondiente documento de recepción del trabajo.) Tj
+T* (     Artículo 43.- El proveedor que actúe como intermediario ) Tj
+T* (en la prestación de un servicio responderá directamente ) Tj
+T* (frente al consumidor por el incumplimiento de las ) Tj
+T* (obligaciones contractuales, sin perjuicio de su derecho a ) Tj
+T* (repetir contra el prestador de los servicios o terceros que ) Tj
+T* (resulten responsables.) Tj
+T* (Párrafo 5º) Tj
+T* (  ) Tj
+T* (Disposiciones relativas a la seguridad) Tj
+T* (de los productos y servicios) Tj
+T* (  ) Tj
+T* (     Artículo 44.- Las disposiciones del presente párrafo ) Tj
+T* (sólo se aplicarán en lo no previsto por las normas ) Tj
+T* (especiales que regulan la provisión de determinados bienes o ) Tj
+T* (servicios.) Tj
+T* (     Artículo 45.- Tratándose de productos cuyo uso ) Tj
+T* (resulte potencialmente peligroso para la salud o ) Tj
+T* (integridad física de los consumidores o para la ) Tj
+T* (seguridad de sus bienes, el proveedor deberá incorporar) Tj
+T* (en los mismos, o en instructivos anexos en idioma          LEY 19955) Tj
+T* (español, las advertencias e indicaciones necesarias        Art. único Nº 25 a\)) Tj
+T* (para que su empleo se efectúe con la mayor seguridad       D.O. 14.07.2004) Tj
+T* (posible.) Tj
+T* (     En lo que se refiere a la prestación de servicios ) Tj
+T* (riesgosos, deberán adoptarse por el proveedor las medidas) Tj
+T* (que resulten necesarias para que aquélla se realice en ) Tj
+T* (adecuadas condiciones de seguridad, informando al usuario) Tj
+T* (y a quienes pudieren verse afectados por tales riesgos) Tj
+T* (de las providencias preventivas que deban observarse.) Tj
+T* (     El incumplimiento de las obligaciones establecidas) Tj
+T* (en los dos incisos precedentes será sancionado con ) Tj
+T* (multa de hasta 750 unidades tributarias mensuales.         LEY 19955) Tj
+T* (                                                           Art. único Nº 25 b\)) Tj
+T* (                                                           D.O. 14.07.2004) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 46.- Todo fabricante, importador o ) Tj
+T* (distribuidor de bienes o prestador de servicios que, con ) Tj
+T* (posterioridad a la introducción de ellos en el mercado, se ) Tj
+T* (percate de la existencia de peligros o riesgos no previstos ) Tj
+T* (oportunamente, deberá ponerlos, sin demora, en conocimiento ) Tj
+T* (de la autoridad competente para que se adopten las medidas ) Tj
+T* (preventivas o correctivas que el caso amerite, sin perjuicio ) Tj
+T* (de cumplir con las obligaciones de advertencia a los ) Tj
+T* (consumidores señaladas en el artículo precedente.) Tj
+T* (     Artículo 47.- Declarada judicialmente o determinada por ) Tj
+T* (la autoridad competente de acuerdo a las normas especiales a ) Tj
+T* (que se refiere el artículo 44, la peligrosidad de un ) Tj
+T* (producto o servicio, o su toxicidad en niveles considerados ) Tj
+T* (como nocivos para la salud o seguridad de las personas, los ) Tj
+T* (daños o perjuicios que de su consumo provengan serán de ) Tj
+T* (cargo, solidariamente, del productor, importador y primer ) Tj
+T* (distribuidor o del prestador del servicio, en su caso.) Tj
+T* (  ) Tj
+T* (     Con todo, se eximirá de la responsabilidad contemplada ) Tj
+T* (en el inciso anterior quien provea los bienes o preste los ) Tj
+T* (servicios cumpliendo con las medidas de prevención legal o ) Tj
+ET
+endstream
+endobj
+82 0 obj
+3547
+endobj
+83 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 84 0 R
+  /Rotate 0
+  >>
+endobj
+84 0 obj
+  <<
+  /Length 85 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (reglamentariamente establecidas y los demás cuidados y ) Tj
+T* (diligencias que exija la naturaleza de aquéllos.) Tj
+T* (     Artículo 48.- En el supuesto a que se refiere el inciso ) Tj
+T* (primero del artículo anterior, el proveedor de la mercancía ) Tj
+T* (deberá, a su costa, cambiarla a los consumidores por otra ) Tj
+T* (inocua, de utilidad análoga y de valor equivalente. De no ) Tj
+T* (ser ello posible, deberá restituirles lo que hubieren pagado ) Tj
+T* (por el bien contra la devolución de éste en el estado en que ) Tj
+T* (se encuentre.) Tj
+T* (     Artículo 49.- El incumplimiento de las obligaciones ) Tj
+T* (contempladas en este párrafo sujetará al responsable a las ) Tj
+T* (sanciones contravencionales correspondientes y lo obligará ) Tj
+T* (al pago de las indemnizaciones por los daños y perjuicios ) Tj
+T* (que se ocasionen, no obstante la pena aplicable en caso de ) Tj
+T* (que los hechos sean constitutivos de delito.) Tj
+T* (  ) Tj
+T* (     El juez podrá, en todo caso, disponer el retiro del ) Tj
+T* (mercado de los bienes respectivos, siempre que conste en el ) Tj
+T* (proceso, por informes técnicos, que se trata de productos ) Tj
+T* (peligrosos para la salud o seguridad de las personas, u ) Tj
+T* (ordenar el decomiso de los mismos si sus características ) Tj
+T* (riesgosas o peligrosas no son subsanables.) Tj
+T* (              TITULO IV                                    LEY 19955) Tj
+T* (     Del procedimiento a que da lugar la aplicación de     Art. único Nº 26) Tj
+T* (esta ley y del procedimiento para la defensa del interés   D.O. 14.07.2004) Tj
+T* (colectivo o difuso) Tj
+T* () Tj
+T* (               Párrafo 1º) Tj
+T* (            Normas generales) Tj
+T* () Tj
+T* (     Artículo 50.- Las acciones que derivan de esta ley,   LEY 19955) Tj
+T* (se ejercerán frente a actos o conductas que afecten el     Art. único Nº 26) Tj
+T* (ejercicio de cualquiera de los derechos de los             D.O. 14.07.2004) Tj
+T* (consumidores.) Tj
+T* (     El incumplimiento de las normas contenidas en la ) Tj
+T* (presente ley dará lugar a las acciones destinadas a ) Tj
+T* (sancionar al proveedor que incurra en infracción, anular ) Tj
+T* (las cláusulas abusivas incorporadas en los contratos de ) Tj
+T* (adhesión, obtener la prestación de la obligación ) Tj
+T* (incumplida, hacer cesar el acto que afecte el ejercicio ) Tj
+T* (de los derechos de los consumidores, a obtener la debida ) Tj
+T* (indemnización de perjuicios o la reparación que ) Tj
+T* (corresponda.) Tj
+T* (     El ejercicio de las acciones puede realizarse a ) Tj
+T* (título individual o en beneficio del interés colectivo o ) Tj
+T* (difuso de los consumidores.) Tj
+T* (     Son de interés individual las acciones que se ) Tj
+T* (promueven exclusivamente en defensa de los derechos del ) Tj
+T* (consumidor afectado.) Tj
+T* (     Son de interés colectivo las acciones que se ) Tj
+T* (promueven en defensa de derechos comunes a un conjunto ) Tj
+T* (determinado o determinable de consumidores, ligados con ) Tj
+T* (un proveedor por un vínculo contractual.) Tj
+T* (      Son de interés difuso las acciones que se ) Tj
+T* (promueven en defensa de un conjunto indeterminado de ) Tj
+T* (consumidores afectados en sus derechos.) Tj
+T* (      Para los efectos de determinar las indemnizaciones ) Tj
+T* (o reparaciones que procedan, de conformidad a las normas ) Tj
+T* (señaladas en el párrafo 2º de este Título, será ) Tj
+T* (necesario acreditar el daño y el vínculo contractual que ) Tj
+ET
+endstream
+endobj
+85 0 obj
+3506
+endobj
+86 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 87 0 R
+  /Rotate 0
+  >>
+endobj
+87 0 obj
+  <<
+  /Length 88 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (liga al infractor y a los consumidores afectados.) Tj
+T* () Tj
+T* () Tj
+T* (      Artículo 50 A.- Los jueces de policía local          LEY 19955) Tj
+T* (conocerán de todas las acciones que emanan de esta ley,    Art. único Nº 26) Tj
+T* (siendo competente aquel que corresponda a la comuna en     D.O. 14.07.2004) Tj
+T* (que se hubiera celebrado el contrato respectivo, se ) Tj
+T* (hubiere cometido la infracción o dado inicio a su ) Tj
+T* (ejecución, a elección del actor.) Tj
+T* (En el caso de contratos celebrados por medios ) Tj
+T* (electrónicos, en que no sea posible determinar lo ) Tj
+T* (señalado en el inciso anterior, será juez competente ) Tj
+T* (aquel de la comuna en que resida el consumidor.) Tj
+T* (Lo dispuesto en el inciso primero no se aplicará a las ) Tj
+T* (acciones mencionadas en la letra b\) del artículo 2º bis, ) Tj
+T* (emanadas de esta ley o de leyes especiales, incluidas ) Tj
+T* (las acciones de interés colectivo o difuso derivadas de ) Tj
+T* (los artículos 16, 16 A y 16 B de la presente ley, en que ) Tj
+T* (serán competentes los tribunales ordinarios de justicia, ) Tj
+T* (de acuerdo a las reglas generales.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50 B.- Los procedimientos previstos en       LEY 19955) Tj
+T* (esta ley podrán iniciarse por demanda, denuncia o          Art. único Nº 26) Tj
+T* (querella, según corresponda. En lo no previsto en el       D.O. 14.07.2004) Tj
+T* (presente Párrafo, se estará a lo dispuesto en la ley) Tj
+T* (Nº 18.287 y, en subsidio, a las normas del Código de ) Tj
+T* (Procedimiento Civil.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50 C.- La denuncia, querella o demanda       LEY 19955) Tj
+T* (deberán presentarse por escrito y no requerirán            Art. único Nº 26) Tj
+T* (patrocinio de abogado habilitado. Las partes podrán        D.O. 14.07.2004) Tj
+T* (comparecer personalmente, sin intervención de letrado, ) Tj
+T* (salvo en el caso del procedimiento contemplado en el ) Tj
+T* (Párrafo 2º del presente Título.) Tj
+T* (En su comparecencia, las partes podrán realizar todas ) Tj
+T* (las gestiones procesales destinadas a acreditar la ) Tj
+T* (infracción y a probar su derecho, incluidas la ) Tj
+T* (presentación, examen y tacha de testigos, cuya lista ) Tj
+T* (podrá presentarse en la misma audiencia de conciliación, ) Tj
+T* (contestación y prueba.) Tj
+T* (Para los efectos previstos en esta ley se presume que ) Tj
+T* (representa al proveedor, y que en tal carácter lo ) Tj
+T* (obliga, la persona que ejerce habitualmente funciones de ) Tj
+T* (dirección o administración por cuenta o representación ) Tj
+T* (del proveedor a que se refiere el artículo 50 D.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50 D.- Si la demandada fuera una persona     LEY 19955) Tj
+T* (jurídica, la demanda se notificará al representante        Art. único Nº 26) Tj
+T* (legal de ésta o bien al jefe del local donde se compró     D.O. 14.07.2004) Tj
+T* (el producto o se prestó el servicio. Será obligación de ) Tj
+T* (todos los proveedores exhibir en un lugar visible del ) Tj
+T* (local la individualización completa de quien cumpla la ) Tj
+T* (función de jefe del local, indicándose al menos el ) Tj
+T* (nombre completo y su domicilio.) Tj
+T* () Tj
+T* () Tj
+T* (      Artículo 50 E.- Cuando la denuncia, querella o       LEY 19955) Tj
+ET
+endstream
+endobj
+88 0 obj
+3325
+endobj
+89 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 90 0 R
+  /Rotate 0
+  >>
+endobj
+90 0 obj
+  <<
+  /Length 91 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (demanda interpuesta carezca de fundamento plausible, el    Art. único Nº 26) Tj
+T* (juez, en la sentencia y a petición de parte, podrá         D.O. 14.07.2004) Tj
+T* (declararla como temeraria. Realizada tal declaración, ) Tj
+T* (los responsables serán sancionados en la forma que ) Tj
+T* (señala el artículo 24 de esta ley, salvo que se trate de ) Tj
+T* (acciones iniciadas de conformidad a lo señalado en el Nº ) Tj
+T* (1 del artículo 51. En este último caso, la multa podrá ) Tj
+T* (ascender hasta 200 unidades tributarias mensuales, ) Tj
+T* (pudiendo el juez, además, sancionar al abogado, conforme ) Tj
+T* (a las facultades disciplinarias contenidas en los ) Tj
+T* (artículos 530 y siguientes del Código Orgánico de ) Tj
+T* (Tribunales.) Tj
+T* (     Lo dispuesto en el inciso anterior se entenderá sin ) Tj
+T* (perjuicio de las responsabilidades penal y civil ) Tj
+T* (solidaria de los autores por los daños que hubieren ) Tj
+T* (producido.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50 F.- Si durante un procedimiento el juez   LEY 19955) Tj
+T* (tomara conocimiento de la existencia de bienes             Art. único Nº 26) Tj
+T* (susceptibles de causar daño, ordenará su custodia en el    D.O. 14.07.2004) Tj
+T* (tribunal si lo estimara necesario. En caso de que ello) Tj
+T* (no fuera factible, atendida su naturaleza y ) Tj
+T* (características, el juez ordenará las pericias que ) Tj
+T* (permitan acreditar el estado, la calidad y la aptitud de ) Tj
+T* (causar daño o cualquier otro elemento relevante de los ) Tj
+T* (bienes o productos y dispondrá las medidas que fueran ) Tj
+T* (necesarias para la seguridad de las personas o de los ) Tj
+T* (bienes.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50 G.- Las causas cuya cuantía, de acuerdo   LEY 19955) Tj
+T* (al monto de lo pedido, no exceda de diez unidades          Art. único Nº 26) Tj
+T* (tributarias mensuales, se tramitarán conforme a las        D.O. 14.07.2004) Tj
+T* (normas de este Párrafo, como procedimiento de única ) Tj
+T* (instancia, por lo que todas las resoluciones que se ) Tj
+T* (dicten en él serán inapelables.) Tj
+T* (     En las causas que se sustancien de acuerdo a este ) Tj
+T* (procedimiento de única instancia, la multa impuesta por ) Tj
+T* (el juez no podrá superar el monto de lo otorgado por la ) Tj
+T* (sentencia definitiva.) Tj
+T* () Tj
+T* () Tj
+T* (              Párrafo 2º                                   LEY 19955) Tj
+T* (     Del Procedimiento Especial para Protección del        Art. único Nº 26) Tj
+T* (Interés Colectivo o Difuso de los Consumidores             D.O. 14.07.2004) Tj
+T* () Tj
+T* (     Artículo 51.- El procedimiento señalado en este       LEY 19955) Tj
+T* (Párrafo se aplicará cuando se vea afectado el interés      Art. único Nº 26) Tj
+T* (colectivo o difuso de los consumidores. Este               D.O. 14.07.2004) Tj
+T* (procedimiento se sujetará a las normas del procedimiento ) Tj
+T* (sumario, con excepción de los artículos 681, 684 y 685 ) Tj
+T* (del Código de Procedimiento Civil y con las ) Tj
+T* (particularidades que se contemplan en la presente ley. ) Tj
+T* (Todas las pruebas que deban rendirse, se apreciarán ) Tj
+T* (conforme a las reglas de la sana crítica.) Tj
+T* (  ) Tj
+T* (     1.- Se iniciará por demanda presentada por:) Tj
+T* (     a\) El Servicio Nacional del Consumidor;) Tj
+T* (     b\) Una Asociación de Consumidores constituida, a lo ) Tj
+ET
+endstream
+endobj
+91 0 obj
+3414
+endobj
+92 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 93 0 R
+  /Rotate 0
+  >>
+endobj
+93 0 obj
+  <<
+  /Length 94 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (menos, con seis meses de anterioridad a la presentación ) Tj
+T* (de la acción, y que cuente con la debida autorización de ) Tj
+T* (su asamblea para hacerlo, o) Tj
+T* (     c\) Un grupo de consumidores afectados en un mismo ) Tj
+T* (interés, en número no inferior a 50 personas, ) Tj
+T* (debidamente individualizados.) Tj
+T* (     El tribunal ordenará la notificación al demandado ) Tj
+T* (y, para los efectos de lo señalado en el Nº 9, al ) Tj
+T* (Servicio Nacional del Consumidor, cuando éste no hubiera ) Tj
+T* (iniciado el procedimiento.) Tj
+T* (  ) Tj
+T* (     2.- Sin perjuicio de los requisitos generales de la ) Tj
+T* (demanda, en lo que respecta a las peticiones relativas a ) Tj
+T* (perjuicios, bastará señalar el daño sufrido y solicitar ) Tj
+T* (la indemnización que el juez determine, conforme al ) Tj
+T* (mérito del proceso, la que deberá ser la misma para ) Tj
+T* (todos los consumidores que se encuentren en igual ) Tj
+T* (situación. Con este fin, el juez procederá de acuerdo a ) Tj
+T* (lo dispuesto en el artículo 53 A. Las indemnizaciones ) Tj
+T* (que se determinen en este procedimiento, no podrán ) Tj
+T* (extenderse al daño moral sufrido por el actor. No habrá ) Tj
+T* (lugar a la reserva prevista en el inciso segundo del ) Tj
+T* (artículo 173 del Código de Procedimiento Civil.) Tj
+T* (  ) Tj
+T* (     3.- Iniciado el juicio señalado, cualquier ) Tj
+T* (legitimado activo o consumidor que se considere afectado ) Tj
+T* (podrá hacerse parte en el juicio.) Tj
+T* (  ) Tj
+T* (     4.- Cuando se trate del Servicio Nacional del ) Tj
+T* (Consumidor o de una Asociación de Consumidores, la parte ) Tj
+T* (demandante no requerirá acreditar la representación de ) Tj
+T* (consumidores determinados del colectivo en cuyo interés ) Tj
+T* (actúa.) Tj
+T* (  ) Tj
+T* (     5.- El demandante que sea parte en un procedimiento ) Tj
+T* (de los regulados en el presente Párrafo, no podrá, ) Tj
+T* (mientras el procedimiento se encuentra pendiente, ) Tj
+T* (deducir demandas de interés individual fundadas en los ) Tj
+T* (mismos hechos.) Tj
+T* (  ) Tj
+T* (     6.- La presentación de la demanda producirá el ) Tj
+T* (efecto de interrumpir la prescripción de las acciones ) Tj
+T* (indemnizatorias que correspondan a los consumidores ) Tj
+T* (afectados. Respecto de las personas que reservaren sus ) Tj
+T* (derechos conforme al artículo 54 C el cómputo del nuevo ) Tj
+T* (plazo de prescripción se contará desde que la sentencia ) Tj
+T* (se encuentre firme y ejecutoriada.) Tj
+T* (  ) Tj
+T* (     7.- En el caso que el juez estime que las ) Tj
+T* (actuaciones de los abogados entorpecen la marcha regular ) Tj
+T* (del juicio, solicitará a los legitimados activos que son ) Tj
+T* (parte en él que nombren un procurador común de entre sus ) Tj
+T* (respectivos abogados, dentro del plazo de diez días. En ) Tj
+T* (subsidio, éste será nombrado por el juez de entre los ) Tj
+T* (mismos abogados.) Tj
+T* (     Las facultades y actuaciones del procurador común, ) Tj
+T* (así como los derechos de las partes representadas por él ) Tj
+T* (y las correspondientes al tribunal, se regirán por lo ) Tj
+T* (dispuesto en el Título II del Libro I del Código de ) Tj
+T* (Procedimiento Civil. Con todo, la resolución que al ) Tj
+ET
+endstream
+endobj
+94 0 obj
+3256
+endobj
+95 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 96 0 R
+  /Rotate 0
+  >>
+endobj
+96 0 obj
+  <<
+  /Length 97 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (efecto dicte el tribunal conforme al artículo 12 del ) Tj
+T* (Código de Procedimiento Civil, se notificará por avisos, ) Tj
+T* (en la forma que determine el tribunal. Estos avisos ) Tj
+T* (serán redactados por el secretario.) Tj
+T* (     No obstante lo anterior, el juez podrá disponer una ) Tj
+T* (forma distinta de notificación en aquellos casos en que ) Tj
+T* (el número de afectados permita asegurar el conocimiento ) Tj
+T* (de todos y cada uno de ellos por otro medio.) Tj
+T* (     El juez regulará prudencialmente los honorarios del ) Tj
+T* (procurador común, previa propuesta de éste, considerando ) Tj
+T* (las facultades económicas de los demandantes y la ) Tj
+T* (cuantía del juicio.) Tj
+T* (Para los efectos de lo establecido en el inciso ) Tj
+T* (anterior, el juez fijará los honorarios en la sentencia ) Tj
+T* (definitiva o bien una vez definidos los miembros del ) Tj
+T* (grupo o subgrupo.) Tj
+T* (     El juez, de oficio o a petición de parte y por ) Tj
+T* (resolución fundada, podrá revocar el mandato judicial, ) Tj
+T* (cuando la representación del interés colectivo o difuso ) Tj
+T* (no sea la adecuada para proteger eficazmente los ) Tj
+T* (intereses de los consumidores o cuando exista otro ) Tj
+T* (motivo que justifique la revocación.) Tj
+T* (  ) Tj
+T* (     8.- Todas las apelaciones que se concedan en este ) Tj
+T* (procedimiento se agregarán como extraordinarias a la ) Tj
+T* (tabla del día siguiente al ingreso de los autos a la ) Tj
+T* (respectiva Corte de Apelaciones, con excepción de lo ) Tj
+T* (señalado en el artículo 53 C, caso en el que la causa se ) Tj
+T* (incluirá en la tabla de la semana subsiguiente a la de ) Tj
+T* (su ingreso a la Corte.) Tj
+T* (  ) Tj
+T* (     9.- Las acciones cuya admisibilidad se encuentre ) Tj
+T* (pendiente, se acumularán de acuerdo a las reglas ) Tj
+T* (generales. Para estos efectos, el Servicio Nacional del ) Tj
+T* (Consumidor oficiará al juez el hecho de encontrarse ) Tj
+T* (pendiente la declaración de admisibilidad de otra ) Tj
+T* (demanda por los mismos hechos.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 52.- Corresponderá al propio tribunal        LEY 19955) Tj
+T* (declarar la admisibilidad de la acción deducida para       Art. único Nº 26) Tj
+T* (cautelar el interés colectivo o difuso de los              D.O. 14.07.2004) Tj
+T* (consumidores, verificando para ello la concurrencia de ) Tj
+T* (los siguientes elementos:) Tj
+T* (  ) Tj
+T* (     a\) Que la acción ha sido deducida por uno de los ) Tj
+T* (legitimados activos individualizados en el artículo 51.) Tj
+T* (     b\) Que la conducta que se persigue afecta el ) Tj
+T* (interés colectivo o difuso de los consumidores en los ) Tj
+T* (términos señalados en el artículo 50.) Tj
+T* (      c\) Que la acción deducida precisa las cuestiones ) Tj
+T* (de hecho que afectan el interés colectivo o difuso de ) Tj
+T* (los consumidores y los derechos afectados.) Tj
+T* (      d\) Que el número potencial de afectados justifica, ) Tj
+T* (en términos de costos y beneficios, la necesidad ) Tj
+T* (procesal o económica de someter su tramitación al ) Tj
+T* (procedimiento especial del presente Párrafo para que sus ) Tj
+T* (derechos sean efectivamente cautelados. Cualquiera sea ) Tj
+T* (el número de afectados, se entenderá que esta ) Tj
+T* (circunstancia no concurre si se dan todas y cada una de ) Tj
+ET
+endstream
+endobj
+97 0 obj
+3363
+endobj
+98 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 99 0 R
+  /Rotate 0
+  >>
+endobj
+99 0 obj
+  <<
+  /Length 100 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (las siguientes condiciones respecto del caso: el proceso ) Tj
+T* (de fabricación, por su naturaleza, contempla un ) Tj
+T* (porcentaje de fallas dentro de los estándares de la ) Tj
+T* (industria; el proveedor pruebe mantener procedimientos ) Tj
+T* (de calidad en la atención de reclamos, reparación y ) Tj
+T* (devolución de dinero en caso de productos defectuosos, ) Tj
+T* (sin costo para el consumidor, y las fallas o defectos no ) Tj
+T* (representan riesgo para la salud.) Tj
+T* (     El demandado dispondrá de un plazo de diez días ) Tj
+T* (para exponer lo que estime procedente en relación con ) Tj
+T* (los requisitos de admisibilidad de la acción. Si el juez ) Tj
+T* (estima que existen hechos sustanciales, pertinentes y ) Tj
+T* (controvertidos, recibirá a prueba la admisibilidad. La ) Tj
+T* (prueba se regirá por las reglas de los incidentes. El ) Tj
+T* (juez se pronunciará sobre la admisibilidad de la acción ) Tj
+T* (dentro de los cinco días siguientes a aquél en que se ) Tj
+T* (efectúe la presentación del demandado o dentro de los ) Tj
+T* (cinco días siguientes al vencimiento del plazo para ) Tj
+T* (efectuar dicha presentación y ésta no se hubiere ) Tj
+T* (efectuado, o dentro de los cinco días siguientes al ) Tj
+T* (vencimiento del término probatorio, en su caso.) Tj
+T* (     La resolución que se pronuncie sobre la ) Tj
+T* (admisibilidad de la acción será apelable en ambos ) Tj
+T* (efectos.) Tj
+T* (     Una vez que se encuentre ejecutoriada la resolución ) Tj
+T* (que declara admisible la acción, se certificará esta ) Tj
+T* (circunstancia en el expediente. Si es declarada ) Tj
+T* (inadmisible, la acción respectiva sólo podrá deducirse ) Tj
+T* (individualmente ante el juzgado competente, de ) Tj
+T* (conformidad a lo señalado en la letra ) Tj
+T* (c\) del artículo 2º bis.) Tj
+T* (    No obstante lo dispuesto en los incisos anteriores, ) Tj
+T* (si aparecen nuevas circunstancias que justifiquen la ) Tj
+T* (revisión de la inadmisibilidad declarada, cualquier ) Tj
+T* (legitimado activo podrá iniciar ante el mismo tribunal ) Tj
+T* (una nueva acción.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 53.- Una vez ejecutoriada la resolución      LEY 19955) Tj
+T* (que declaró admisible la acción, el tribunal ordenará al   Art. único Nº 26) Tj
+T* (demandante que, dentro de décimo día, mediante             D.O. 14.07.2004) Tj
+T* (publicación de al menos dos avisos en un medio de ) Tj
+T* (circulación nacional, informe a los consumidores que se ) Tj
+T* (consideren afectados, para que se hagan parte, si lo ) Tj
+T* (estiman procedente.) Tj
+T* (  ) Tj
+T* (     Corresponderá al secretario del tribunal fijar el ) Tj
+T* (contenido del aviso, el que contendrá, a lo menos, las ) Tj
+T* (siguientes menciones:) Tj
+T* (  ) Tj
+T* (     a\) El tribunal que en primera instancia emitió la ) Tj
+T* (certificación de admisibilidad;) Tj
+T* (     b\) La fecha de la certificación;) Tj
+T* (     c\) El nombre, rol único tributario, profesión u ) Tj
+T* (oficio y domicilio del representante del grupo;) Tj
+T* (     d\) El nombre, rol único tributario, profesión u ) Tj
+T* (oficio y domicilio de la persona en contra de la cual se ) Tj
+T* (solicita la acción colectiva;) Tj
+T* (     e\) Breve exposición de los hechos y peticiones ) Tj
+T* (concretas sometidas a consideración del tribunal, y) Tj
+ET
+endstream
+endobj
+100 0 obj
+3338
+endobj
+101 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 102 0 R
+  /Rotate 0
+  >>
+endobj
+102 0 obj
+  <<
+  /Length 103 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     f\) El llamado a los afectados por los mismos hechos ) Tj
+T* (a hacerse parte en el juicio, expresando que los ) Tj
+T* (resultados del juicio empecerán también a aquellos ) Tj
+T* (afectados que no se hicieran parte en él.) Tj
+T* (Desde la publicación del aviso a que se refiere el ) Tj
+T* (inciso segundo, ninguna persona podrá iniciar otro ) Tj
+T* (juicio en contra del demandado fundado en los mismos ) Tj
+T* (hechos, sin perjuicio de lo señalado en el inciso ) Tj
+T* (siguiente y de lo dispuesto en el artículo 54 C respecto ) Tj
+T* (de la reserva de derechos.) Tj
+T* (     Dentro del plazo de 30 días contados desde la ) Tj
+T* (publicación del aviso a que se refiere el inciso ) Tj
+T* (anterior, cualquier consumidor podrá ocurrir ante el ) Tj
+T* (tribunal haciendo reserva de sus acciones, en cuyo caso ) Tj
+T* (no le serán oponibles los resultados del juicio.) Tj
+T* (  ) Tj
+T* (     Aquellos juicios que se encuentren pendientes ) Tj
+T* (contra el mismo proveedor al momento de publicarse el ) Tj
+T* (aviso y que se funden en los mismos hechos, deberán ) Tj
+T* (acumularse de conformidad a lo previsto en el Código de ) Tj
+T* (Procedimiento Civil, con las siguientes reglas ) Tj
+T* (especiales:) Tj
+T* (  ) Tj
+T* (     1\) Se acumularán al juicio colectivo los juicios ) Tj
+T* (individuales. Si una o más de las partes hubiere ) Tj
+T* (comparecido personalmente al juicio individual, deberá ) Tj
+T* (designar abogado patrocinante una vez producida la ) Tj
+T* (acumulación, y) Tj
+T* (     2\) No procederá acumular al colectivo el juicio ) Tj
+T* (individual en que se haya citado a las partes para oír ) Tj
+T* (sentencia.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 53 A.- Durante el juicio y hasta la          LEY 19955) Tj
+T* (dictación de la sentencia definitiva inclusive, el juez    Art. único Nº 26) Tj
+T* (podrá ordenar, de acuerdo a las características que les    D.O. 14.07.2004) Tj
+T* (sean comunes, la formación de grupos y, si se ) Tj
+T* (justificare, de subgrupos, para los efectos de lo ) Tj
+T* (señalado en las letras c\) y d\) del artículo 53 C. El ) Tj
+T* (juez podrá ordenar también la formación de tantos ) Tj
+T* (subgrupos como estime conveniente.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 53 B.- El juez podrá llamar a conciliación   LEY 19955) Tj
+T* (cuantas veces estime necesario durante el proceso.         Art. único Nº 26) Tj
+T* (     Por su parte, el demandado podrá realizar ofertas     D.O. 14.07.2004) Tj
+T* (de avenimiento, las que deberán ser públicas.) Tj
+T* (     Todo avenimiento, conciliación o transacción deberá ) Tj
+T* (ser sometido a la aprobación del juez, quien puede ) Tj
+T* (rechazarlos si los estima contrarios a derecho o ) Tj
+T* (arbitrariamente discriminatorios.) Tj
+T* (     En caso del desistimiento del legitimado activo, el ) Tj
+T* (tribunal dará traslado al Servicio Nacional del ) Tj
+T* (Consumidor, quien podrá hacerse parte del juicio dentro ) Tj
+T* (de quinto día. Esta resolución se notificará de ) Tj
+T* (conformidad al artículo 48 del Código de Procedimiento ) Tj
+T* (Civil. Igual procedimiento se hará en caso que el ) Tj
+T* (legitimado activo pierda la calidad de tal.) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+103 0 obj
+3203
+endobj
+104 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 105 0 R
+  /Rotate 0
+  >>
+endobj
+105 0 obj
+  <<
+  /Length 106 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     Artículo 53 C.- En la sentencia que acoja la          LEY 19955) Tj
+T* (demanda, el juez, además de lo dispuesto en el artículo    Art. único Nº 26) Tj
+T* (170 del Código de Procedimiento Civil, deberá:             D.O. 14.07.2004) Tj
+T* (  ) Tj
+T* (     a\) Declarar la forma en que tales hechos han ) Tj
+T* (afectado el interés colectivo o difuso de los ) Tj
+T* (consumidores.) Tj
+T* (     b\) Declarar la responsabilidad del o los ) Tj
+T* (proveedores demandados en los hechos denunciados y la ) Tj
+T* (aplicación de la multa o sanción que fuere procedente.) Tj
+T* (     c\) Declarar la procedencia de las correspondientes ) Tj
+T* (indemnizaciones o reparaciones y el monto de la ) Tj
+T* (indemnización o la reparación a favor del grupo o de ) Tj
+T* (cada uno de los subgrupos, cuando corresponda.) Tj
+T* (     d\) Disponer la devolución de lo pagado en exceso y ) Tj
+T* (la forma en que se hará efectiva, en caso de tratarse de ) Tj
+T* (procedimientos iniciados en virtud de un cobro indebido ) Tj
+T* (de determinadas sumas de dinero. En el caso de productos ) Tj
+T* (defectuosos, se dispondrá la restitución del valor de ) Tj
+T* (aquéllos al momento de efectuarse el pago.) Tj
+T* (     e\) Disponer la publicación de los avisos a que se ) Tj
+T* (refiere el inciso tercero del artículo 54, con cargo al ) Tj
+T* (o a los infractores.) Tj
+T* (     En todo caso, el juez podrá ordenar que algunas o ) Tj
+T* (todas las indemnizaciones, reparaciones o devoluciones ) Tj
+T* (que procedan respecto de un grupo o subgrupo, se ) Tj
+T* (efectúen por el demandado sin necesidad de la ) Tj
+T* (comparecencia de los interesados establecida en el ) Tj
+T* (artículo 54 C, cuando el juez determine que el proveedor ) Tj
+T* (cuenta con la información necesaria para ) Tj
+T* (individualizarlos y proceder a ellas.) Tj
+T* (Contra la sentencia definitiva procederá el recurso de ) Tj
+T* (apelación, en ambos efectos.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54.- La sentencia ejecutoriada que declare   LEY 19955) Tj
+T* (la responsabilidad del o los demandados producirá efecto   Art. único Nº 26) Tj
+T* (erga omnes, con excepción de aquellos procesos que no      D.O. 14.07.2004) Tj
+T* (hayan podido acumularse conforme al número 2\) del inciso ) Tj
+T* (final del artículo 53, y de los casos en que se efectúe ) Tj
+T* (la reserva de derechos que admite el mismo artículo.) Tj
+T* (     La sentencia será dada a conocer para que todos ) Tj
+T* (aquellos que hayan sido perjudicados por los mismos ) Tj
+T* (hechos puedan reclamar el cobro de las indemnizaciones o ) Tj
+T* (el cumplimiento de las reparaciones que correspondan.) Tj
+T* (     Ello se hará por avisos publicados, a lo menos en ) Tj
+T* (dos oportunidades distintas, en los diarios locales, ) Tj
+T* (regionales o nacionales que el juez determine, con un ) Tj
+T* (intervalo no inferior a tres ni superior a cinco días ) Tj
+T* (entre ellas.) Tj
+T* (     No obstante lo anterior, el juez podrá disponer una ) Tj
+T* (forma distinta de dar a conocer la información referida ) Tj
+T* (en el inciso primero, en aquellos casos en que el número ) Tj
+T* (de afectados permita asegurar el conocimiento de todos y ) Tj
+T* (cada uno de ellos por otro medio.) Tj
+T* (     Si se ha rechazado la demanda cualquier legitimado ) Tj
+T* (activo podrá interponer, dentro del plazo de ) Tj
+T* (prescripción de la acción, ante el mismo tribunal y ) Tj
+T* (valiéndose de nuevas circunstancias, una nueva acción, ) Tj
+T* (entendiéndose suspendida la prescripción a su favor por ) Tj
+ET
+endstream
+endobj
+106 0 obj
+3547
+endobj
+107 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 108 0 R
+  /Rotate 0
+  >>
+endobj
+108 0 obj
+  <<
+  /Length 109 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (todo el plazo que duró el juicio colectivo. El tribunal ) Tj
+T* (declarará encontrarse frente a nuevas circunstancias ) Tj
+T* (junto con la declaración de admisibilidad de la acción ) Tj
+T* (dispuesta en el artículo 52.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 A.- Corresponderá al secretario del       LEY 19955) Tj
+T* (tribunal fijar el contenido de los avisos, procurando      Art. único Nº 26) Tj
+T* (que su texto sea claro y comprensible para los             D.O. 14.07.2004) Tj
+T* (interesados. Dichos avisos contendrán, a lo menos, las ) Tj
+T* (siguientes menciones:) Tj
+T* (  ) Tj
+T* (     a\) El rol de la causa, el tribunal que la dictó, la ) Tj
+T* (fecha de la sentencia y el nombre, profesión u oficio y ) Tj
+T* (domicilio del o los infractores y de sus representantes. ) Tj
+T* (Se presumirá que conserva esa calidad y su domicilio la ) Tj
+T* (persona que compareció como tal en dicho proceso;) Tj
+T* (     b\) Los hechos que originaron la responsabilidad del ) Tj
+T* (o los infractores y la forma en que ellos afectaron los ) Tj
+T* (derechos de los consumidores;) Tj
+T* (     c\) La identificación del grupo, si está o no ) Tj
+T* (dividido en subgrupos y la forma y plazo en que los ) Tj
+T* (interesados deberán hacer efectivos sus derechos;) Tj
+T* (     d\) Las instituciones donde los afectados pueden ) Tj
+T* (obtener información y orientación, tales como el ) Tj
+T* (Servicio Nacional del Consumidor, las oficinas ) Tj
+T* (municipales de información al consumidor y las ) Tj
+T* (Asociaciones de Consumidores, entre otras.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 B.- Los interesados podrán comparecer     LEY 19955) Tj
+T* (al juicio ejerciendo sus derechos, con el patrocinio de    Art. único Nº 26) Tj
+T* (abogado o personalmente.                                   D.O. 14.07.2004) Tj
+T* (     Sin perjuicio de lo dispuesto en el inciso ) Tj
+T* (anterior,  habiéndose designado procurador común, los ) Tj
+T* (interesados actuarán a través de él, de acuerdo a las ) Tj
+T* (reglas generales. En caso contrario, se procederá a ) Tj
+T* (designarlo para que represente a aquellos interesados ) Tj
+T* (que hubieran comparecido personalmente, una vez vencido ) Tj
+T* (el plazo de noventa días establecido en el artículo ) Tj
+T* (54 C.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 C.- Los interesados deberán presentarse   LEY 19955) Tj
+T* (a ejercer sus derechos establecidos en la sentencia,       Art. único Nº 26) Tj
+T* (ante el mismo tribunal en que se tramitó el juicio,        D.O. 14.07.2004) Tj
+T* (dentro del plazo de noventa días corridos, contados ) Tj
+T* (desde el último aviso.) Tj
+T* (     Dentro del mismo plazo, los interesados podrán ) Tj
+T* (hacer reserva de sus derechos, para perseguir la ) Tj
+T* (responsabilidad civil derivada de la infracción en un ) Tj
+T* (juicio distinto, sin que sea posible discutir la ) Tj
+T* (existencia de la infracción ya declarada. Esta ) Tj
+T* (presentación deberá contar con patrocinio de abogado. En ) Tj
+T* (este juicio, la sentencia dictada conforme al artículo ) Tj
+T* (53 C producirá plena prueba respecto de la existencia de ) Tj
+T* (la infracción y del derecho del demandante a la ) Tj
+ET
+endstream
+endobj
+109 0 obj
+3228
+endobj
+110 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 111 0 R
+  /Rotate 0
+  >>
+endobj
+111 0 obj
+  <<
+  /Length 112 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (indemnización de perjuicios, limitándose el nuevo juicio ) Tj
+T* (a la determinación del monto de los mismos.) Tj
+T* (      Quién ejerza sus derechos conforme al inciso ) Tj
+T* (primero de este artículo, no tendrá derecho a iniciar ) Tj
+T* (otra acción basada en los mismos hechos. Del mismo modo, ) Tj
+T* (quienes no efectúen la reserva de derechos a que se ) Tj
+T* (refiere el inciso anterior, no tendrán derecho a iniciar ) Tj
+T* (otra acción basada en los mismos hechos.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 D.- La presentación que efectúe el        LEY 19955) Tj
+T* (interesado en el juicio, ejerciendo sus derechos           Art. único Nº 26) Tj
+T* (conforme al inciso primero del artículo anterior, se       D.O. 14.07.2004) Tj
+T* (limitará únicamente a hacer presente y acreditar su ) Tj
+T* (condición de miembro del grupo.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 E.- Vencido el plazo de noventa días      LEY 19955) Tj
+T* (establecido en el artículo 54 C, y designado el            Art. único Nº 26) Tj
+T* (procurador común, si corresponde, se dará traslado al      D.O. 14.07.2004) Tj
+T* (demandado de las presentaciones de todos los ) Tj
+T* (interesados, sólo para que dentro del plazo de diez días ) Tj
+T* (corridos controvierta la calidad de miembro del grupo de ) Tj
+T* (uno o más de ellos. La resolución que confiera el ) Tj
+T* (traslado se notificará por el estado diario. Este plazo ) Tj
+T* (podrá ampliarse, por una sola vez, a petición de parte y ) Tj
+T* (por resolución fundada, si el juez lo considera ) Tj
+T* (necesario.) Tj
+T* (     Si el juez estima que existen hechos sustanciales, ) Tj
+T* (pertinentes y controvertidos, abrirá un término de ) Tj
+T* (prueba, que se regirá por las reglas de los incidentes.) Tj
+T* (     Contra la resolución que falle el incidente ) Tj
+T* (procederá el recurso de reposición, con apelación en ) Tj
+T* (subsidio.) Tj
+T* (     Una vez fallado el incidente promovido conforme a ) Tj
+T* (este artículo, quedará irrevocablemente fijado el monto ) Tj
+T* (global de las indemnizaciones o las reparaciones que ) Tj
+T* (deba satisfacer el demandado.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 54 F.- El demandado deberá efectuar las      LEY 19955) Tj
+T* (reparaciones o consignar íntegramente en la cuenta         Art. único Nº 26) Tj
+T* (corriente del tribunal el monto de las indemnizaciones,    D.O. 14.07.2004) Tj
+T* (dentro de un plazo de treinta días corridos, contado ) Tj
+T* (desde aquel en que se haya fallado el incidente ) Tj
+T* (promovido conforme al artículo 54 E.) Tj
+T* (     Cuando el monto global de la indemnización pueda ) Tj
+T* (producir, a juicio del tribunal, un detrimento ) Tj
+T* (patrimonial significativo en el demandado, de manera tal ) Tj
+T* (que pudiera estimarse próximo a la insolvencia, el juez ) Tj
+T* (podrá establecer un programa mensual de pago de ) Tj
+T* (indemnizaciones completas para cada demandante, ) Tj
+T* (reajustadas, con interés corriente, según su fecha de ) Tj
+T* (pago.) Tj
+T* (      No obstante, en el caso del inciso anterior, el ) Tj
+T* (juez podrá determinar una forma de cumplimiento ) Tj
+T* (alternativo del pago.) Tj
+ET
+endstream
+endobj
+112 0 obj
+3200
+endobj
+113 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 114 0 R
+  /Rotate 0
+  >>
+endobj
+114 0 obj
+  <<
+  /Length 115 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     Para autorizar el pago de la indemnización en ) Tj
+T* (alguna de las formas señaladas en los incisos ) Tj
+T* (precedentes, el juez podrá, dependiendo de la situación ) Tj
+T* (económica del demandado, exigir una fianza u otra forma ) Tj
+T* (de caución.) Tj
+T* (     Las resoluciones que dicte el juez en conformidad a ) Tj
+T* (este artículo no serán susceptibles de recurso alguno.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (      Artículo 54 G.- Si la sentencia no es cumplida por   LEY 19955) Tj
+T* ( el demandado, la ejecución se efectuará, a través del     Art. único Nº 26) Tj
+T* (procurador común, en un único procedimiento, por el        D.O. 14.07.2004) Tj
+T* (monto global a que se refiere el inciso final del ) Tj
+T* (artículo 54 E, o por el saldo total insoluto. El pago ) Tj
+T* (que corresponda hacer en este procedimiento a cada ) Tj
+T* (consumidor se efectuará a prorrata de sus respectivos ) Tj
+T* (derechos declarados en la sentencia definitiva.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 55.- SUPRIMIDO                               LEY 19955) Tj
+T* (                                                           Art. único Nº 26) Tj
+T* (                                                           D.O. 14.07.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 56.- SUPRIMIDO                               LEY 19955) Tj
+T* (                                                           Art. único Nº 26) Tj
+T* (                                                           D.O. 14.07.2004) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (T I T U L O  V) Tj
+T* (  ) Tj
+T* (Del Servicio Nacional del Consumidor) Tj
+T* (  ) Tj
+T* (     Artículo 57.- El Servicio Nacional del Consumidor será ) Tj
+T* (un servicio público funcionalmente descentralizado y ) Tj
+T* (desconcentrado territorialmente en todas las regiones del ) Tj
+T* (país, con personalidad jurídica y patrimonio propio, sujeto ) Tj
+T* (a la supervigilancia del Presidente de la República a través ) Tj
+T* (del Ministerio de Economía, Fomento y Reconstrucción.) Tj
+T* (     Artículo 58.- El Servicio Nacional del Consumidor ) Tj
+T* (deberá velar por el cumplimiento de las disposiciones ) Tj
+T* (de la presente ley y demás normas que digan relación ) Tj
+T* (con el consumidor, difundir los derechos y deberes del) Tj
+T* (consumidor y realizar acciones de información y ) Tj
+T* (educación del consumidor.) Tj
+T* (  ) Tj
+T* (     Corresponderán especialmente al Servicio Nacional) Tj
+T* (del Consumidor las siguientes funciones:) Tj
+T* (  ) Tj
+T* (     a\) Formular, realizar y fomentar programas de ) Tj
+T* (información y educación al consumidor;) Tj
+T* (  ) Tj
+T* (     b\) Realizar, a través de laboratorios o entidades ) Tj
+T* (especializadas, de reconocida solvencia, análisis selectivos ) Tj
+T* (de los productos que se ofrezcan en el mercado en relación a ) Tj
+T* (su composición, contenido neto y otras características. ) Tj
+ET
+endstream
+endobj
+115 0 obj
+2930
+endobj
+116 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 117 0 R
+  /Rotate 0
+  >>
+endobj
+117 0 obj
+  <<
+  /Length 118 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Aquellos análisis que excedan en su costo de 250 unidades ) Tj
+T* (tributarias mensuales, deberán ser efectuados por ) Tj
+T* (laboratorios o entidades elegidas en licitación pública. En ) Tj
+T* (todo caso el Servicio deberá dar cuenta detallada y pública ) Tj
+T* (de los procedimientos y metodología utilizada para llevar a ) Tj
+T* (cabo las funciones contenidas en esta letra;) Tj
+T* (  ) Tj
+T* (     c\) Recopilar, elaborar, procesar, divulgar y ) Tj
+T* (publicar información para facilitar al consumidor un ) Tj
+T* (mejor conocimiento de las características de la ) Tj
+T* (comercialización de los bienes y servicios que se ) Tj
+T* (ofrecen en el mercado. En el ejercicio de esta facultad,   LEY 19955) Tj
+T* (no se podrá atentar contra lo establecido en el decreto    Art. único Nº 27 a\)) Tj
+T* (ley Nº 211, de 1973, que fija normas sobre la defensa      D.O. 14.07.2004) Tj
+T* (de la libre competencia.) Tj
+T* (  ) Tj
+T* (     d\) Realizar y promover investigaciones en el área ) Tj
+T* (del consumo;                                               LEY 19955) Tj
+T* (                                                           Art. único Nº 27) Tj
+T* (     e\) Llevar el registro público a que se refiere el     b; c y d\)) Tj
+T* (artículo 58 bis;                                           D.O. 14.07.2004) Tj
+T* (     f\) Recibir reclamos de consumidores que consideren ) Tj
+T* (lesionados sus derechos y dar a conocer al proveedor ) Tj
+T* (respectivo el motivo de inconformidad a fin de que ) Tj
+T* (voluntariamente pueda concurrir y proponer las ) Tj
+T* (alternativas de solución que estime convenientes. Sobre ) Tj
+T* (la base de la respuesta del proveedor reclamado, el ) Tj
+T* (Servicio Nacional del Consumidor promoverá un ) Tj
+T* (entendimiento voluntario entre las partes. El documento ) Tj
+T* (en que dicho acuerdo se haga constar tendrá carácter de ) Tj
+T* (transacción extrajudicial y extinguirá, una vez ) Tj
+T* (cumplidas sus estipulaciones, la acción del reclamante ) Tj
+T* (para perseguir la responsabilidad contravencional del ) Tj
+T* (proveedor;) Tj
+T* (     g\) Velar por el cumplimiento de las disposiciones ) Tj
+T* (legales y reglamentarias relacionadas con la protección ) Tj
+T* (de los derechos de los consumidores y hacerse parte en ) Tj
+T* (aquellas causas que comprometan los intereses generales ) Tj
+T* (de los consumidores.) Tj
+T* () Tj
+T* (     La facultad de velar por el cumplimiento de           LEY 19955) Tj
+T* (normas establecidas en leyes especiales que digan          Art. único Nº 27 e\)) Tj
+T* (relación con el consumidor, incluye la atribución del      D.O. 14.07.2004) Tj
+T* (Servicio Nacional del Consumidor de denunciar los ) Tj
+T* (posibles incumplimientos ante los organismos o ) Tj
+T* (instancias jurisdiccionales respectivos y de hacerse ) Tj
+T* (parte en las causas en que estén afectados los intereses ) Tj
+T* (generales de los consumidores, según los procedimientos ) Tj
+T* (que fijan las normas generales o los que se señalen en ) Tj
+T* (esas leyes especiales.) Tj
+T* (     En el caso de la letra e\) del artículo 2º, la ) Tj
+T* (intervención del Servicio Nacional del Consumidor estará ) Tj
+T* (limitada a aquellos contratos de venta de viviendas a ) Tj
+T* (que se refiere el artículo 1º del decreto con fuerza de ) Tj
+T* (ley Nº 2, de 1959, sobre plan habitacional, cuyo texto ) Tj
+T* (definitivo fue fijado en el decreto Nº 1.101, de 1960, ) Tj
+T* (del Ministerio de Obras Públicas.) Tj
+T* (      Los proveedores estarán obligados a proporcionar ) Tj
+T* (al Servicio Nacional del Consumidor los informes y ) Tj
+T* (antecedentes que le sean solicitados por escrito, que ) Tj
+ET
+endstream
+endobj
+118 0 obj
+3673
+endobj
+119 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 120 0 R
+  /Rotate 0
+  >>
+endobj
+120 0 obj
+  <<
+  /Length 121 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (digan relación con la información básica comercial, ) Tj
+T* (definida en el artículo 1º de esta ley, de los bienes y ) Tj
+T* (servicios que ofrezcan al público. La negativa o demora ) Tj
+T* (injustificada en la remisión de los antecedentes ) Tj
+T* (requeridos será sancionada con multa de hasta 200 ) Tj
+T* (unidades tributarias mensuales. Se considerará ) Tj
+T* (injustificado el retardo superior a cinco días, contados ) Tj
+T* (desde el vencimiento del plazo señalado en el ) Tj
+T* (requerimiento, que no podrá ser inferior a treinta días ) Tj
+T* (corridos.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 58 bis.-  Los jueces de letras y de          LEY 19955) Tj
+T* (policía local deberán remitir al Servicio Nacional del     Art. único Nº 28) Tj
+T* (Consumidor copia autorizada de las sentencias              D.O. 14.07.2004) Tj
+T* (definitivas que se pronuncien sobre materias propias de ) Tj
+T* (la presente ley y de las sentencias interlocutorias que ) Tj
+T* (fallen cuestiones de competencia, una vez que se ) Tj
+T* (encuentren ejecutoriadas. Un reglamento determinará la ) Tj
+T* (forma en que será llevado el registro de estas ) Tj
+T* (sentencias.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 59.- El Director Nacional será el Jefe ) Tj
+T* (Superior del Servicio y tendrá su representación judicial y ) Tj
+T* (extrajudicial.) Tj
+T* (     Artículo 60.- El patrimonio del Servicio Nacional del ) Tj
+T* (Consumidor estará formado por:) Tj
+T* (  ) Tj
+T* (     a\) Los bienes muebles e inmuebles, corporales e ) Tj
+T* (incorporales, de la ex-Dirección de Industria y Comercio, ) Tj
+T* (que por Ley Nº 18.959 pasó a denominarse Servicio Nacional ) Tj
+T* (del Consumidor;) Tj
+T* (  ) Tj
+T* (     b\) Los aportes que anualmente le asigne la Ley de ) Tj
+T* (Presupuestos de la Nación;) Tj
+T* (  ) Tj
+T* (     c\) Los aportes de cooperación internacional que reciba ) Tj
+T* (para el desarrollo de sus actividades;) Tj
+T* (  ) Tj
+T* (     d\) El producto de la venta de las publicaciones que ) Tj
+T* (realice, cuyo valor será determinado por resolución de su ) Tj
+T* (Director Nacional;) Tj
+T* (  ) Tj
+T* (     e\) Las herencias, legados y donaciones que acepte el ) Tj
+T* (Servicio, siempre que provengan de personas o entidades sin ) Tj
+T* (fines de lucro y no regidas por esta ley, y) Tj
+T* (  ) Tj
+T* (     f\) Los frutos de tales bienes.) Tj
+T* (  ) Tj
+T* (     Las donaciones en favor del Servicio estarán exentas ) Tj
+T* (del trámite de insinuación judicial a que se refiere el ) Tj
+T* (artículo 1.401 del Código Civil, así como de cualquier ) Tj
+T* (contribución o impuesto.) Tj
+T* (T i t u l o   f i n a l) Tj
+T* (  ) Tj
+T* (     Artículo 61.- Las multas a que se refiere esta ley ) Tj
+T* (serán de beneficio fiscal.) Tj
+T* (Disposiciones transitorias) Tj
+T* (  ) Tj
+ET
+endstream
+endobj
+121 0 obj
+2806
+endobj
+122 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 123 0 R
+  /Rotate 0
+  >>
+endobj
+123 0 obj
+  <<
+  /Length 124 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (     Artículo 1º.- La presente ley entrará en vigencia ) Tj
+T* (noventa días después de su publicación en el Diario Oficial.) Tj
+T* () Tj
+T* (     Artículo 2º.- Derógase la ley Nº 18.223, con excepción ) Tj
+T* (de sus artículos 5º y 13, así como toda otra disposición ) Tj
+T* (legal contraria a lo preceptuado por la presente ley, a ) Tj
+T* (contar de su fecha de vigencia.".) Tj
+T* (  ) Tj
+T* (     Habiéndose cumplido con lo establecido en el Nº 1 del ) Tj
+T* (Artículo 82 de la Constitución Política de la República, y ) Tj
+T* (por cuanto he tenido a bien aprobarlo y sancionarlo; por ) Tj
+T* (tanto promúlguese y llévese a efecto como Ley de la ) Tj
+T* (República.) Tj
+T* () Tj
+T* (     Artículo 3º.- Las organizaciones de consumidores      LEY 19955) Tj
+T* (existentes a la fecha de entrada en vigencia de la         Art. único Nº 29) Tj
+T* (presente ley, serán consideradas asociaciones de           D.O. 14.07.2004) Tj
+T* (consumidores para todos los efectos legales y podrán, en ) Tj
+T* (cualquier tiempo, adecuarse al nuevo régimen jurídico ) Tj
+T* (según el procedimiento establecido en el artículo 4º ) Tj
+T* (transitorio de la ley Nº 19.250.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 4º.- Las normas establecidas en el           LEY 19955) Tj
+T* (artículo 17 de la presente ley, entrarán en vigencia       Art. único Nº 29) Tj
+T* (después de un año, contado desde su publicación en el      D.O. 14.07.2004) Tj
+T* (Diario Oficial, y las de las letras b\), c\) y e\) del ) Tj
+T* (artículo 37, noventa días después de la misma fecha.) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 5º.- Facúltase al Presidente de la           LEY 19955) Tj
+T* (República, para que dentro del plazo de 180 días           Art. único Nº 29) Tj
+T* (contados desde la publicación de la presente ley,          D.O. 14.07.2004) Tj
+T* (mediante un decreto con fuerza de ley, fije el texto ) Tj
+T* (refundido, coordinado y sistematizado de la ley Nº ) Tj
+T* (19.496, que establece normas sobre protección de los ) Tj
+T* (derechos de los consumidores.) Tj
+T* () Tj
+T* () Tj
+T* (     Habiéndose cumplido con lo establecido en el Nº 1 ) Tj
+T* (del Artículo 82 de la Constitución Política de la ) Tj
+T* (República, y por cuanto he tenido a bien aprobarlo y ) Tj
+T* (sancionarlo; por tanto promúlguese y llévese a efecto ) Tj
+T* (como Ley de la República.) Tj
+T* (     Santiago, 7 de febrero de 1997.- EDUARDO FREI ) Tj
+T* (RUIZ-TAGLE, Presidente de la República.- Oscar ) Tj
+T* (Landerretche Gacitúa, Ministro de Economía, Fomento ) Tj
+T* (y Reconstrucción Subrogante.) Tj
+T* (  ) Tj
+T* (     Lo que transcribo a Ud. para su conocimiento.- ) Tj
+T* (Saluda atentamente a Ud., Oscar Landerretche Gacitúa,) Tj
+T* (Subsecretario de Economía.) Tj
+T* () Tj
+T* () Tj
+T* (                   Tribunal Constitucional) Tj
+T* (  ) Tj
+T* (Proyecto de ley relativo a los derechos de los consumidores) Tj
+T* (  ) Tj
+T* (     El Secretario del Tribunal Constitucional, quien ) Tj
+T* (suscribe, certifica que la Honorable Cámara de Diputados ) Tj
+ET
+endstream
+endobj
+124 0 obj
+3044
+endobj
+125 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 126 0 R
+  /Rotate 0
+  >>
+endobj
+126 0 obj
+  <<
+  /Length 127 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (envió el proyecto de ley enunciado en el rubro, aprobado) Tj
+T* (por el Congreso Nacional, a fin de que este Tribunal ) Tj
+T* (ejerciera el control de constitucionalidad respecto de ) Tj
+T* (las disposiciones contempladas en los incisos primero y) Tj
+T* (segundo del artículo 50 de dicho proyecto, y que por ) Tj
+T* (sentencia de 27 de enero de 1997, declaró:) Tj
+T* (  ) Tj
+T* (     1. Que las disposiciones del inciso tercero del ) Tj
+T* (artículo 50 del proyecto de ley en examen, son ) Tj
+T* (inconstitucionales y deben eliminarse de dicho texto.) Tj
+T* (     2. Que las disposiciones contempladas en el inciso ) Tj
+T* (primero del artículo 50 del proyecto remitido, son ) Tj
+T* (constitucionales.) Tj
+T* (     3. Que el Tribunal no se pronuncia sobre las ) Tj
+T* (disposiciones contenidas en el inciso segundo del ) Tj
+T* (artículo 50 del proyecto remitido, por versar sobre ) Tj
+T* (materias que no son propias de ley orgánica ) Tj
+T* (constitucional.) Tj
+T* (  ) Tj
+T* (     Santiago, enero 28 de 1997.- Rafael Larraín ) Tj
+T* (Cruz, Secretario.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+127 0 obj
+1128
+endobj
+17 0 obj
+  <<
+  /Type /Catalog
+  /Pages 18 0 R
+  >>
+endobj
+18 0 obj
+  <<
+  /Type /Pages
+  /Count 36
+  /MediaBox [ 0 0 612 792 ]
+  /Kids [ 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 38 0 R 41 0 R 44 0 R 47 0 R 50 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 68 0 R 71 0 R 74 0 R 77 0 R 80 0 R 83 0 R 86 0 R 89 0 R 92 0 R 95 0 R 98 0 R 101 0 R 104 0 R 107 0 R 110 0 R 113 0 R 116 0 R 119 0 R 122 0 R 125 0 R ]
+  >>
+endobj
+xref
+0 128
+0000000000 65535 f 0000000015 00000 n 0000000102 00000 n 0000002285 00000 n 0000002393 00000 n 0000002509 00000 n 0000002622 00000 n 0000002742 00000 n 0000002852 00000 n 0000002970 00000 n 0000003085 00000 n 0000003208 00000 n 0000003321 00000 n 0000003436 00000 n 0000003549 00000 n 0000003668 00000 n 0000003759 00000 n 0000128853 00000 n 0000128912 00000 n 0000003856 00000 n 0000004164 00000 n 0000004272 00000 n 0000007554 00000 n 0000007575 00000 n 0000007683 00000 n 0000011109 00000 n 0000011130 00000 n 0000011238 00000 n 0000014528 00000 n 0000014549 00000 n 0000014657 00000 n 0000018170 00000 n 0000018191 00000 n 0000018299 00000 n 0000021789 00000 n 0000021810 00000 n 0000021918 00000 n 0000025210 00000 n 0000025231 00000 n 0000025339 00000 n 0000028364 00000 n 0000028385 00000 n 0000028493 00000 n 0000031893 00000 n 0000031914 00000 n 0000032022 00000 n 0000035462 00000 n 0000035483 00000 n 0000035591 00000 n 0000038938 00000 n 0000038959 00000 n 0000039067 00000 n 0000042271 00000 n 0000042292 00000 n 0000042400 00000 n 0000045837 00000 n 0000045858 00000 n 0000045966 00000 n 0000049763 00000 n 0000049784 00000 n 0000049892 00000 n 0000053509 00000 n 0000053530 00000 n 0000053638 00000 n 0000056730 00000 n 0000056751 00000 n 0000056859 00000 n 0000060421 00000 n 0000060442 00000 n 0000060550 00000 n 0000064198 00000 n 0000064219 00000 n 0000064327 00000 n 0000067997 00000 n 0000068018 00000 n 0000068126 00000 n 0000071713 00000 n 0000071734 00000 n 0000071842 00000 n 0000075253 00000 n 0000075274 00000 n 0000075382 00000 n 0000078989 00000 n 0000079010 00000 n 0000079118 00000 n 0000082684 00000 n 0000082705 00000 n 0000082813 00000 n 0000086198 00000 n 0000086219 00000 n 0000086327 00000 n 0000089801 00000 n 0000089822 00000 n 0000089930 00000 n 0000093246 00000 n 0000093267 00000 n 0000093375 00000 n 0000096798 00000 n 0000096819 00000 n 0000096927 00000 n 0000100326 00000 n 0000100348 00000 n 0000100458 00000 n 0000103723 00000 n 0000103745 00000 n 0000103855 00000 n 0000107464 00000 n 0000107486 00000 n 0000107596 00000 n 0000110886 00000 n 0000110908 00000 n 0000111018 00000 n 0000114280 00000 n 0000114302 00000 n 0000114412 00000 n 0000117404 00000 n 0000117426 00000 n 0000117536 00000 n 0000121271 00000 n 0000121293 00000 n 0000121403 00000 n 0000124271 00000 n 0000124293 00000 n 0000124403 00000 n 0000127509 00000 n 0000127531 00000 n 0000127641 00000 n 0000128831 00000 n trailer
+<<
+  /Size 128
+  /Root 17 0 R
+  /Info 1 0 R
+>>
+startxref
+129266
+%%EOF

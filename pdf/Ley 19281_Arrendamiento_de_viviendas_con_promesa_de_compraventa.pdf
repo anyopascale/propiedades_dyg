@@ -1,0 +1,2323 @@
+%PDF-1.2
+%âãÏÓ
+1 0 obj
+  <<
+  /CreationDate (D:20070920105003-04'00')
+  /Title (txtplano)
+  >>
+endobj
+2 0 obj
+  <<
+  /Type /Encoding
+  /Differences [ 0 /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /space /exclam
+  /quotedbl /numbersign /dollar /percent /ampersand
+  /quoteright /parenleft /parenright /asterisk /plus /comma
+  /hyphen /period /slash /zero /one /two /three /four /five
+  /six /seven /eight /nine /colon /semicolon /less /equal
+  /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L
+  /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft
+  /backslash /bracketright /asciicircum /underscore
+  /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p
+  /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright
+  /asciitilde /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /dotlessi /grave /acute /circumflex /tilde /macron /breve
+  /dotaccent /dieresis /.notdef /ring /cedilla /.notdef
+  /hungarumlaut /ogonek /caron /space /exclamdown /cent
+  /sterling /currency /yen /brokenbar /section /dieresis
+  /copyright /ordfeminine /guillemotleft /logicalnot /hyphen
+  /registered /macron /degree /plusminus /twosuperior
+  /threesuperior /acute /mu /paragraph /periodcentered
+  /cedilla /onesuperior /ordmasculine /guillemotright
+  /onequarter /onehalf /threequarters /questiondown /Agrave
+  /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE
+  /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave
+  /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve
+  /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash
+  /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn
+  /germandbls /agrave /aacute /acircumflex /atilde /adieresis
+  /aring /ae /ccedilla /egrave /eacute /ecircumflex
+  /edieresis /igrave /iacute /icircumflex /idieresis /eth
+  /ntilde /ograve /oacute /ocircumflex /otilde /odieresis
+  /divide /oslash /ugrave /uacute /ucircumflex /udieresis
+  /yacute /thorn /ydieresis ]
+  >>
+endobj
+3 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F1
+  /Encoding 2 0 R
+  /BaseFont /Courier
+  >>
+endobj
+4 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F2
+  /Encoding 2 0 R
+  /BaseFont /Courier-Oblique
+  >>
+endobj
+5 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F3
+  /Encoding 2 0 R
+  /BaseFont /Courier-Bold
+  >>
+endobj
+6 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F4
+  /Encoding 2 0 R
+  /BaseFont /Courier-BoldOblique
+  >>
+endobj
+7 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F5
+  /Encoding 2 0 R
+  /BaseFont /Helvetica
+  >>
+endobj
+8 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F6
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Oblique
+  >>
+endobj
+9 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F7
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-Bold
+  >>
+endobj
+10 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F8
+  /Encoding 2 0 R
+  /BaseFont /Helvetica-BoldOblique
+  >>
+endobj
+11 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F9
+  /Encoding 2 0 R
+  /BaseFont /Times-Roman
+  >>
+endobj
+12 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F10
+  /Encoding 2 0 R
+  /BaseFont /Times-Italic
+  >>
+endobj
+13 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F11
+  /Encoding 2 0 R
+  /BaseFont /Times-Bold
+  >>
+endobj
+14 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F12
+  /Encoding 2 0 R
+  /BaseFont /Times-BoldItalic
+  >>
+endobj
+15 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F13
+  /BaseFont /Symbol
+  >>
+endobj
+16 0 obj
+  <<
+  /Type /Font
+  /Subtype /Type1
+  /Name /F14
+  /BaseFont /ZapfDingbats
+  >>
+endobj
+19 0 obj
+  <<
+  /Font
+    <<
+    /F1 3 0 R
+    /F2 4 0 R
+    /F3 5 0 R
+    /F4 6 0 R
+    /F5 7 0 R
+    /F6 8 0 R
+    /F7 9 0 R
+    /F8 10 0 R
+    /F9 11 0 R
+    /F10 12 0 R
+    /F11 13 0 R
+    /F12 14 0 R
+    /F13 15 0 R
+    /F14 16 0 R
+    >>
+  /ProcSet [ /PDF /Text ]
+  /XObject
+    <<
+
+    >>
+  >>
+endobj
+20 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 21 0 R
+  /Rotate 0
+  >>
+endobj
+21 0 obj
+  <<
+  /Length 22 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Biblioteca del Congreso Nacional) Tj
+T* (------------------------------------------------------------------------------) Tj
+T* (Identificación de la Norma  : LEY-19281) Tj
+T* (Fecha de Publicación        : 27.12.1993) Tj
+T* (Fecha de Promulgación       : 15.12.1993) Tj
+T* (Organismo                   : MINISTERIO DE LA VIVIENDA Y URBANISMO) Tj
+T* (Ultima Modificación         : LEY-20190 05.06.2007) Tj
+T* ( ) Tj
+T* (Ley Núm. 19.281) Tj
+T* () Tj
+T* (ESTABLECE NORMAS SOBRE ARRENDAMIENTO DE VIVIENDAS          NOTA) Tj
+T* (CON PROMESA DE COMPRAVENTA) Tj
+T* () Tj
+T* (    Teniendo presente que el H. Congreso Nacional ) Tj
+T* (ha dado su aprobación al siguiente ) Tj
+T* () Tj
+T* (    Proyecto de ley: ) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El artículo 4º de la LEY 19622, publicada el ) Tj
+T* (29.07.1999, establece que podrán acogerse a sus ) Tj
+T* (disposiciones, los contribuyentes amparados por ) Tj
+T* (esta ley, en caso de tratarse de viviendas nuevas.) Tj
+T* () Tj
+T* () Tj
+T* (    "TITULO I {ARTS. 1-10}) Tj
+T* (    De las Cuentas de Ahorro para el Arrendamiento de) Tj
+T* (Viviendas con Promesa de Compraventa) Tj
+T* (    Artículo 1°.- Autorízase a los bancos, sociedades ) Tj
+T* (financieras y cajas de compensación de asignación ) Tj
+T* (familiar, en adelante, "las instituciones", para abrir y ) Tj
+T* (mantener cuentas de ahorro para el arrendamiento de ) Tj
+T* (viviendas con promesa de compraventa, de acuerdo con las ) Tj
+T* (normas de esta ley, con objeto de recibir en ellas el ) Tj
+T* (ahorro metódico y el ahorro voluntario que efectúen sus ) Tj
+T* (titulares, a fin de pagar las rentas de arrendamiento y ) Tj
+T* (acumular fondos suficientes para financiar la compra de ) Tj
+T* (las viviendas arrendadas en el plazo convenido entre las ) Tj
+T* (partes. ) Tj
+T* (    Los titulares de estas cuentas sólo podrán ser ) Tj
+T* (personas naturales. ) Tj
+T* (    Las Cajas de Compensación de Asignación Familiar ) Tj
+T* (podrán abrir y mantener las cuentas a que se refiere el ) Tj
+T* (inciso primero, para sus propios afiliados y para otras ) Tj
+T* (personas que se lo soliciten. ) Tj
+T* (    Estas cuentas se denominarán Cuentas de Ahorro para ) Tj
+T* (Arrendamiento de Viviendas con Promesa de Compraventa, ) Tj
+T* (en adelante "las cuentas", y los recursos depositados en ) Tj
+T* (ellas constituirán un fondo, independiente y separado      LEY 19401 ) Tj
+T* (del patrimonio de las instituciones.                       Art. Unico  N° 1) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* () Tj
+T* (    Artículo 2°.- El interesado en ingresar a este ) Tj
+T* (sistema abrirá y mantendrá las cuentas que desee en ) Tj
+T* (cualquiera de las instituciones mencionadas en el ) Tj
+T* (artículo anterior, pudiendo cambiarse libremente dos ) Tj
+T* (veces en el año, con previo aviso de 30 días.              LEY 19401) Tj
+T* (    El reglamento establecerá las condiciones y la         Art. Unico  N° 2) Tj
+T* (periodicidad con que las instituciones deberán informar    D.O. 28.08.1995) Tj
+T* (a los titulares los movimientos registrados en sus ) Tj
+ET
+endstream
+endobj
+22 0 obj
+3135
+endobj
+23 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 24 0 R
+  /Rotate 0
+  >>
+endobj
+24 0 obj
+  <<
+  /Length 25 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (respectivas cuentas. ) Tj
+T* () Tj
+T* (    Artículo 3°.- Con cargo a los recursos aportados       LEY 19401 ) Tj
+T* (mensualmente en la cuenta, las instituciones pagarán la    Art. Unico  N° 3) Tj
+T* (renta de arrendamiento al arrendador promitente vendedor   D.O. 28.08.1995) Tj
+T* (y descontarán la comisión a que se refiere el artículo ) Tj
+T* (5°. El saldo de dicho aporte constituirá el fondo ) Tj
+T* (disponible para el pago del precio de la compraventa ) Tj
+T* (prometida celebrar. Con dichos recursos, las ) Tj
+T* (instituciones constituirán uno o más Fondos, que se ) Tj
+T* (denominarán "Fondo para la Vivienda", los cuales deberán ) Tj
+T* (ser administrados e invertidos en conformidad con lo ) Tj
+T* (establecido en el Título VI de esta ley. ) Tj
+T* (    Las instituciones deberán encargar la administración ) Tj
+T* (del Fondo para la Vivienda a una sociedad de las regidas ) Tj
+T* (por el Título antes mencionado, para lo cual celebrarán ) Tj
+T* (con ella el correspondiente contrato de administración. ) Tj
+T* (Encomendado el Fondo a una de estas sociedades para su ) Tj
+T* (administración, la fiscalización del mismo corresponderá ) Tj
+T* (exclusivamente a la Superintendencia de Valores y ) Tj
+T* (Seguros. ) Tj
+T* (    Las instituciones deberán llevar un registro en el ) Tj
+T* (cual se indicará el número de cuotas de participación en ) Tj
+T* (el Fondo para la Vivienda que le corresponde a cada uno ) Tj
+T* (de los titulares de las cuentas, en los términos que ) Tj
+T* (disponga el reglamento de esta ley. ) Tj
+T* (    En caso de disolución de la institución que mantenga ) Tj
+T* (las cuentas, sea por revocación de su autorización de ) Tj
+T* (existencia o por cualquier otra causa, el liquidador ) Tj
+T* (deberá traspasar las cuentas a otra institución de las ) Tj
+T* (mencionadas en el artículo 1°. El traspaso comprenderá ) Tj
+T* (el Fondo, los contratos de ahorro metódico y el ) Tj
+T* (correspondiente contrato de administración suscrito con ) Tj
+T* (la Administradora de Fondos para la Vivienda.) Tj
+T* () Tj
+T* (    Artículo 4°.- El contrato de ahorro metódico se ) Tj
+T* (celebrará entre el interesado y la institución elegida ) Tj
+T* (por éste, de entre las mencionadas en el inciso primero ) Tj
+T* (del artículo 1° y con una de las sociedades a que se ) Tj
+T* (refiere el artículo 16 de esta ley, al momento de ) Tj
+T* (celebrarse el contrato de arrendamiento con promesa de ) Tj
+T* (compraventa de una vivienda. Las condiciones específicas ) Tj
+T* (del contrato de ahorro metódico quedarán establecidas en   LEY 19401) Tj
+T* (el reglamento.                                             Art. Unico  N° 4) Tj
+T* (    Para los efectos de esta ley, se entenderán por        D.O. 28.08.1995 ) Tj
+T* ("aporte" los depósitos metódicos en dinero que se hagan ) Tj
+T* (en la cuenta, de acuerdo con los términos del contrato ) Tj
+T* (de ahorro metódico, con el fin de pagar la renta de ) Tj
+T* (arrendamiento y acumular fondos suficientes para el pago ) Tj
+T* (del precio de la compraventa de la vivienda. ) Tj
+T* (    El contrato de ahorro metódico obligará al ) Tj
+T* (interesado a efectuar aportes periódicos por el ) Tj
+T* (equivalente a un porcentaje del precio de                  LEY 19401 ) Tj
+T* (compraventa de la vivienda, expresado este último en       Art. Unico  N° 5) Tj
+T* (unidades de fomento. Con todo, el aporte del               D.O. 28.08.1995) Tj
+T* (arrendatario promitente comprador, en el caso de las ) Tj
+T* (operaciones con subsidio habitacional a que se refiere ) Tj
+T* (el Título V de la presente ley, no podrá exceder del ) Tj
+T* (veinticinco por ciento de la renta líquida mensual que ) Tj
+T* (acredite tener al momento de celebrar el contrato de ) Tj
+ET
+endstream
+endobj
+25 0 obj
+3745
+endobj
+26 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 27 0 R
+  /Rotate 0
+  >>
+endobj
+27 0 obj
+  <<
+  /Length 28 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (arrendamiento con promesa de compraventa, incluida la ) Tj
+T* (renta de cualquiera persona que se constituyere en ) Tj
+T* (fiador y codeudor solidario de aquél. La renta líquida ) Tj
+T* (corresponderá al ingreso mensual del interesado y de sus ) Tj
+T* (fiadores, deducidas las respectivas cotizaciones ) Tj
+T* (previsionales e impuestos correspondientes, si los ) Tj
+T* (tuvieren.                                                  LEY 19401) Tj
+T* (    El aporte del arrendatario promitente comprador se     Art. Unico  N° 6) Tj
+T* (expresará también en unidades de fomento y su monto        D.O. 28.08.1995) Tj
+T* (será fijo durante toda la vigencia del contrato de ) Tj
+T* (arrendamiento con promesa de compraventa, salvo acuerdo) Tj
+T* (en contrario entre las partes. ) Tj
+T* () Tj
+T* (    Artículo 5°.- Las instituciones podrán obtener         LEY 19401 ) Tj
+T* (una retribución establecida sobre la base de comisiones    Art. Unico  N° 7) Tj
+T* (de cargo de los titulares de las cuentas, las que serán    D.O. 28.08.1995) Tj
+T* (deducidas de los saldos acumulados en éstas. ) Tj
+T* (    La comisión comprenderá, entre otros gastos, la        LEY 19401) Tj
+T* (remuneración de la sociedad administradora del Fondo       Art. Unico  N° 8) Tj
+T* (para la Vivienda y será establecida libremente por cada    D.O. 28.08.1995) Tj
+T* (institución, con carácter de uniforme para todos los ) Tj
+T* (titulares de cuentas de un mismo Fondo. Estas comisiones ) Tj
+T* (estarán exentas del Impuesto al Valor Agregado y deberán ) Tj
+T* (ser informadas al público y al organismo fiscalizador ) Tj
+T* (que tenga la institución, en la forma que señale el ) Tj
+T* (reglamento. Las modificaciones de esta comisión podrán ) Tj
+T* (efectuarse dos veces en el año y regirán noventa días ) Tj
+T* (después de comunicadas al respectivo organismo ) Tj
+T* (fiscalizador, plazo dentro del cual el titular de la ) Tj
+T* (cuenta podrá cambiarse de institución o de Fondo, cambio ) Tj
+T* (que no se computará para los efectos de lo dispuesto en ) Tj
+T* (el artículo 2°.) Tj
+T* (    Las instituciones no podrán cobrar comisiones por la ) Tj
+T* (transferencia de fondos a otra institución ni por el ) Tj
+T* (pago del precio de venta prometido a la sociedad ) Tj
+T* (inmobiliaria. ) Tj
+T* () Tj
+T* (    Artículo 6°.- Para abrir la cuenta a que se refiere ) Tj
+T* (este Título, no será necesario que los interesados hayan ) Tj
+T* (suscrito el contrato de arrendamiento de la vivienda con ) Tj
+T* (promesa de compraventa a que se refiere el Título III. ) Tj
+T* (    Artículo 7°.- Sin perjuicio de lo señalado en los      LEY 19401) Tj
+T* (artículos precedentes, el aporte también podrá enterarse   Art. Unico  N° 9) Tj
+T* (directamente en la sociedad inmobiliaria, caso en el       D.O. 28.08.1995) Tj
+T* (cual la parte del aporte que exceda de la renta de ) Tj
+T* (arrendamiento se abonará al precio de la compraventa ) Tj
+T* (prometida, en la forma pactada en el respectivo ) Tj
+T* (contrato. Los recursos así enterados deberán ser ) Tj
+T* (considerados para el cálculo del límite de endeudamiento ) Tj
+T* (a que se refiere el artículo 22 de esta ley. Los ) Tj
+T* (beneficiarios del subsidio habitacional que regula el ) Tj
+T* (Título V de esta ley también podrán operar en la forma ) Tj
+T* (descrita en este artículo. En tal caso, el saldo de la ) Tj
+T* (cuenta será traspasado por la institución tenedora de la ) Tj
+T* (cuenta a la sociedad inmobiliaria.) Tj
+T* () Tj
+T* (    Artículo 8°.- Los titulares de las cuentas podrán, ) Tj
+T* (en cualquier tiempo, efectuar depósitos voluntarios. ) Tj
+T* (Tratándose de trabajadores dependientes podrán hacerlo, ) Tj
+T* (regularmente, mediante descuentos por planilla que ) Tj
+ET
+endstream
+endobj
+28 0 obj
+3733
+endobj
+29 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 30 0 R
+  /Rotate 0
+  >>
+endobj
+30 0 obj
+  <<
+  /Length 31 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (efectúen sus empleadores. ) Tj
+T* (    Artículo 9°.- Si el arrendatario promitente            LEY 19401) Tj
+T* (comprador fuere un trabajador dependiente, a               Art. Unico  N° 10) Tj
+T* (requerimiento escrito de éste, el aporte y los depósitos   D.O. 28.08.1995) Tj
+T* (voluntarios regulares serán descontados por planilla por ) Tj
+T* (el empleador, de acuerdo con las normas que señala el ) Tj
+T* (artículo 19 del decreto ley N° 3.500, de 1980. Estos ) Tj
+T* (descuentos no podrán exceder del 30% de la remuneración ) Tj
+T* (total del trabajador y se entenderá que revisten el ) Tj
+T* (carácter de dividendos hipotecarios por adquisición de ) Tj
+T* (viviendas, para los efectos de lo dispuesto en el ) Tj
+T* (artículo 58 del Código del Trabajo. Las obligaciones que ) Tj
+T* (se imponen y las facultades que se confieren a las ) Tj
+T* (Administradoras de Fondos de Pensiones se entenderán ) Tj
+T* (impuestas y conferidas a las instituciones a que se ) Tj
+T* (refiere el artículo 1°, y a las sociedades inmobiliarias ) Tj
+T* (a que se refiere el Título II, en el caso previsto en el ) Tj
+T* (artículo 7°. ) Tj
+T* (    Si el empleador no efectuare el descuento ) Tj
+T* (correspondiente, habiendo sido requerido para ello, ) Tj
+T* (deberá pagar al respectivo trabajador, a título de ) Tj
+T* (indemnización de perjuicios, una suma equivalente a ) Tj
+T* (media unidad de fomento por cada mes en que no efectúe ) Tj
+T* (el descuento, la que se depositará en la cuenta a que se ) Tj
+T* (refiere el artículo 1° e integrará el fondo disponible a ) Tj
+T* (que alude el inciso primero del artículo 3°, o se ) Tj
+T* (abonará al precio de la compraventa prometida en el caso ) Tj
+T* (a que se refiere el artículo 7° de esta ley. ) Tj
+T* (    Si el empleador hiciere las retenciones y no ) Tj
+T* (enterare los fondos correspondientes en la cuenta por ) Tj
+T* (dos meses consecutivos o tres meses en total en ) Tj
+T* (cualquier época, la institución que mantenga dicha ) Tj
+T* (cuenta o la sociedad inmobiliaria, en su caso, deberá ) Tj
+T* (notificar este hecho al arrendatario promitente ) Tj
+T* (comprador y a la sociedad inmobiliaria propietaria de la ) Tj
+T* (vivienda arrendada, a fin de que aquél haga los futuros ) Tj
+T* (aportes en forma directa a la entidad correspondiente y ) Tj
+T* (ordene a su empleador la suspensión de las retenciones. ) Tj
+T* (    Las instituciones deberán aceptar el procedimiento ) Tj
+T* (de pago directo, hasta que el arrendatario promitente ) Tj
+T* (comprador requiera nuevamente a su empleador el ) Tj
+T* (descuento correspondiente. ) Tj
+T* (    Sin perjuicio de lo dispuesto en los incisos ) Tj
+T* (precedentes, las instituciones a que se refiere el ) Tj
+T* (artículo 1° y las sociedades inmobiliarias, según ) Tj
+T* (corresponda, deberán perseguir del empleador el pago de ) Tj
+T* (las retenciones que no hubiere enterado en la cuenta o ) Tj
+T* (en la sociedad inmobiliaria, conforme a las mismas ) Tj
+T* (normas legales de pago y de cobro que las cotizaciones ) Tj
+T* (previsionales, gozando de igual preferencia que éstas. ) Tj
+T* (    Agotadas las gestiones judiciales de cobranza a que ) Tj
+T* (se refiere el inciso anterior, sin que se haya obtenido ) Tj
+T* (el pago íntegro, se entenderá ampliado el plazo del ) Tj
+T* (contrato de arrendamiento de vivienda con promesa de ) Tj
+T* (compraventa en un número de meses iguales al número de ) Tj
+T* (cuotas impagas, hasta un máximo de doce meses, debiendo ) Tj
+T* (pagarse éstas, en dicho plazo, por el promitente ) Tj
+T* (comprador, sin ningún recargo adicional.) Tj
+T* () Tj
+T* (    Artículo 10.- Los fondos existentes en las cuentas o ) Tj
+ET
+endstream
+endobj
+31 0 obj
+3672
+endobj
+32 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 33 0 R
+  /Rotate 0
+  >>
+endobj
+33 0 obj
+  <<
+  /Length 34 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (enterados en la sociedad inmobiliaria, según el caso, ) Tj
+T* (serán inembargables y no serán susceptibles de medida ) Tj
+T* (precautoria alguna. Cesará la inembargabilidad una vez ) Tj
+T* (que se ponga término al contrato de arrendamiento con ) Tj
+T* (promesa de compraventa, por cualquiera de las causales ) Tj
+T* (señaladas en el Título III, salvo el caso de que dicho ) Tj
+T* (término dé origen a otro contrato similar. ) Tj
+T* (    En el caso de que no opere el seguro de desgravamen, ) Tj
+T* (o cuando éste no se hubiere contratado, los herederos ) Tj
+T* (podrán continuar con el contrato de arrendamiento con ) Tj
+T* (promesa de compraventa, en los mismos términos pactados ) Tj
+T* (por el causante, sin que el arrendador promitente          LEY 19401) Tj
+T* (comprador pueda hacer valer la defunción como causal       Art. Unico  N° 11) Tj
+T* (de término del contrato. Todo pacto en contravención       D.O. 28.08.1995) Tj
+T* (de esta norma se tendrá por no escrito. ) Tj
+T* (    Para que el contrato se entienda vigente después de ) Tj
+T* (la muerte del arrendatario promitente comprador, los ) Tj
+T* (herederos, si los hubiere, deberán continuar depositando ) Tj
+T* (los aportes convenidos por el causante y presentar, en ) Tj
+T* (un plazo no superior a dos años, contado desde el ) Tj
+T* (fallecimiento, una copia autorizada de la resolución que ) Tj
+T* (hubiere concedido la posesión efectiva de la herencia y ) Tj
+T* (del inventario de los bienes del difunto, protocolizado ) Tj
+T* (por orden del juez que hubiere concedido la posesión ) Tj
+T* (efectiva. ) Tj
+T* () Tj
+T* (    Artículo 10 bis.- Estas cuentas podrán acogerse al     LEY 19401 ) Tj
+T* (mecanismo establecido en la letra B\) del artículo 57 bis   Art. Unico  N° 12) Tj
+T* (del decreto ley N° 824, de 1974, y para los efectos de     D.O. 28.08.1995) Tj
+T* (lo dispuesto en dicho precepto las instituciones ) Tj
+T* (mencionadas en el artículo 1° de esta ley serán ) Tj
+T* (consideradas como instituciones receptoras. ) Tj
+T* (    Para los efectos señalados en el inciso anterior, no ) Tj
+T* (se considerará giro o retiro la aplicación de los fondos ) Tj
+T* (existentes en la cuenta al pago del precio de la ) Tj
+T* (compraventa prometida ni la transferencia de estos ) Tj
+T* (fondos en caso de cesión, por el arrendatario promitente ) Tj
+T* (comprador, del contrato de arrendamiento con promesa de ) Tj
+T* (compraventa, siempre que en este último caso el ) Tj
+T* (arrendatario promitente comprador celebre un nuevo ) Tj
+T* (contrato de arrendamiento con promesa de compraventa o ) Tj
+T* (bien adquiera una vivienda, destinando a este objeto el ) Tj
+T* (precio que obtuvo por la cesión del contrato, dentro del ) Tj
+T* (plazo de noventa días, contados desde la fecha de la ) Tj
+T* (cesión.) Tj
+T* () Tj
+T* (    TITULO II {ARTS. 11-24}) Tj
+T* (    De las Sociedades Inmobiliarias Propietarias de las) Tj
+T* (Viviendas que podrán darse en Arrendamiento con Promesa) Tj
+T* (de Compraventa) Tj
+T* (    Artículo 11.- Para los efectos de esta ley, son        LEY 19401) Tj
+T* (sociedades inmobiliarias todas aquellas que tengan como    Art. Unico  N° 13) Tj
+T* (objeto la adquisición o construcción de viviendas para     D.O. 28.08.1995) Tj
+T* (darlas en arrendamiento con promesa de compraventa. ) Tj
+T* (    Estas sociedades deberán constituirse como ) Tj
+T* (sociedades anónimas, se regirán por las normas ) Tj
+T* (aplicables a las sociedades anónimas abiertas en lo que ) Tj
+T* (no fuere incompatible con las disposiciones de la ) Tj
+T* (presente ley, y quedarán sometidas a la fiscalización de ) Tj
+T* (la Superintendencia de Valores y Seguros, en adelante ) Tj
+ET
+endstream
+endobj
+34 0 obj
+3679
+endobj
+35 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 36 0 R
+  /Rotate 0
+  >>
+endobj
+36 0 obj
+  <<
+  /Length 37 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* ("la Superintendencia", la que tendrá, para estos fines, ) Tj
+T* (las atribuciones y facultades que le confiere su ley ) Tj
+T* (orgánica.) Tj
+T* () Tj
+T* (    Artículo 12.- Autorízase a las sociedades a que se     LEY 19401) Tj
+T* (refiere la letra j\) del artículo 98 del decreto ley N°     Art. Unico  N° 14) Tj
+T* (3.500, de 1980, para constituir y formar parte de las      D.O. 28.08.1995) Tj
+T* (sociedades inmobiliarias a que se refiere este Título.) Tj
+T* (    Las cooperativas abiertas de vivienda reguladas por    LEY 19401) Tj
+T* (el decreto ley N° 1.320, de 1976, que tengan un            Art. Unico  N° 15) Tj
+T* (patrimonio no inferior a cincuenta mil unidades de         D.O. 28.08.1995) Tj
+T* (fomento podrán constituir y formar parte de las ) Tj
+T* (sociedades inmobiliarias a que se refiere este Título.) Tj
+T* () Tj
+T* (    Artículo 13.- Los bancos y las sociedades ) Tj
+T* (financieras podrán constituir filiales como sociedades ) Tj
+T* (inmobiliarias las que, en su constitución y operación, ) Tj
+T* (se sujetarán a las normas aplicables a las sociedades      LEY 19401 ) Tj
+T* (filiales a que se refiere el artículo 83 número 11 bis     Art. Unico  N° 16) Tj
+T* (letra b\) de la Ley General de Bancos.                      D.O. 28.08.1995) Tj
+T* (    La Superintendencia de Bancos e Instituciones ) Tj
+T* (Financieras podrá también autorizar a las filiales ) Tj
+T* (bancarias y a las filiales de las instituciones ) Tj
+T* (financieras, cuyo objeto sea desarrollar habitualmente ) Tj
+T* (el negocio de dar en arrendamiento bienes con promesa u ) Tj
+T* (opción de compra, para incluir dentro de su giro las       LEY 19401) Tj
+T* (actividades que regula este Título.                        Art. Unico  N° 17) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* (    No obstante lo dispuesto en el artículo 16, las        LEY 19401) Tj
+T* (filiales a que se refiere este artículo no podrán hacer    Art. Unico  N° 18) Tj
+T* (referencia en su nombre al término "sociedades             D.O. 28.08.1995) Tj
+T* (inmobiliarias".) Tj
+T* (    Las facultades que esta ley otorga a la                LEY 19401) Tj
+T* (Superintendencia de Valores y Seguros, respecto de las     Art. Unico  N° 19) Tj
+T* (sociedades inmobiliarias de que trata este Título, serán   D.O. 28.08.1995) Tj
+T* (aplicadas por la Superintendencia de Bancos e ) Tj
+T* (Instituciones Financieras cuando se trate de las ) Tj
+T* (sociedades señaladas en este artículo.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 14.- Autorízase a los agentes                 LEY 19401) Tj
+T* (administradores de mutuos hipotecarios a que se refiere    Art. Unico  N° 20) Tj
+T* (el artículo 21 bis del decreto con fuerza de ley N° 251,   D.O. 28.08.1995) Tj
+T* (de 1931, para constituir y formar parte de las ) Tj
+T* (sociedades a que se refiere este Título.) Tj
+T* () Tj
+T* (    Artículo 15.- Las cajas de compensación de             LEY 19401) Tj
+T* (asignación familiar podrán constituir y formar parte de    Art. Unico  N° 21) Tj
+T* (las sociedades inmobiliarias a que se refiere este         D.O. 28.08.1995) Tj
+T* (Título. ) Tj
+T* (    Para los efectos indicados en el inciso anterior, ) Tj
+T* (autorízase a las cajas de compensación de asignación ) Tj
+T* (familiar para efectuar los correspondientes aportes de ) Tj
+T* (capital con cargo al Fondo Social contemplado en los ) Tj
+T* (artículos 29, 30 y 31 de la ley N° 18.833.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 16.- Para los efectos de esta Ley, se ) Tj
+ET
+endstream
+endobj
+37 0 obj
+3568
+endobj
+38 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 39 0 R
+  /Rotate 0
+  >>
+endobj
+39 0 obj
+  <<
+  /Length 40 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (entiende que son sociedades inmobiliarias todas las ) Tj
+T* (sociedades mencionadas en los artículos anteriores del ) Tj
+T* (presente Título. ) Tj
+T* (    Autorízase a las cajas de compensación de              LEY 19401) Tj
+T* (asignación familiar, a los bancos, a las sociedades        Art. Unico  N° 22) Tj
+T* (financieras y a las cooperativas abiertas de vivienda,     D.O. 28.08.1995) Tj
+T* (para prestar servicios de administración en relación con ) Tj
+T* (los contratos de arrendamiento con promesa de ) Tj
+T* (compraventa que se celebren conforme a esta ley.) Tj
+T* () Tj
+T* (    Artículo 17.- Las sociedades inmobiliarias a que se    LEY 19401 ) Tj
+T* (refiere este Título podrán emitir bonos, de acuerdo con    Art. único N° 23) Tj
+T* (las normas del Título XVI de la ley N° 18.045, cuyos       D.O. 28.08.1995) Tj
+T* (montos y épocas de amortización sean concordantes con ) Tj
+T* (los plazos y flujos de ingresos contenidos en los ) Tj
+T* (contratos de arrendamiento con promesa de compraventa ) Tj
+T* (que suscriban y que formen parte de su activo. ) Tj
+T* (    Estas sociedades podrán enajenar viviendas ) Tj
+T* (arrendadas con promesa de compraventa, siempre que cedan ) Tj
+T* (conjuntamente el contrato de arrendamiento con promesa ) Tj
+T* (de compraventa, a sociedades securitizadoras del Título ) Tj
+T* (XVIII de la ley N° 18.045, las que quedan autorizadas ) Tj
+T* (para adquirirlos con el fin de que emitan títulos de ) Tj
+T* (deuda con respaldo de estos activos, de acuerdo a las ) Tj
+T* (disposiciones de ese Título y de la presente ley. Dicha ) Tj
+T* (enajenación deberá efectuarse de acuerdo a lo dispuesto ) Tj
+T* (en el artículo 30 de esta ley. ) Tj
+T* (    INCISO DEROGADO                                        LEY 19623) Tj
+T* (                                                           Art. 3º) Tj
+T* (                                                           D.O. 26.08.1999) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 18.- Los agentes administradores de mutuos    LEY 19401 ) Tj
+T* (hipotecarios señalados en el artículo 14 y las             Art. Unico  N° 24) Tj
+T* (sociedades inmobiliarias de que trata este Título, salvo   D.O. 28.08.1995) Tj
+T* (las mencionadas en el artículo 13, podrán constituir y ) Tj
+T* (formar parte de sociedades securitizadoras del Título ) Tj
+T* (XVIII de la ley N° 18.045. ) Tj
+T* (    Tratándose de las cajas de compensación de ) Tj
+T* (asignación familiar, las cooperativas abiertas de ) Tj
+T* (viviendas señaladas en el artículo 12, y las sociedades ) Tj
+T* (a que se refiere la letra j\) del artículo 98 del decreto ) Tj
+T* (ley N° 3.500, de 1980, podrán constituir y formar parte, ) Tj
+T* (directa o indirectamente, de dichas sociedades ) Tj
+T* (securitizadoras siempre que éstas tengan por objeto ) Tj
+T* (exclusivo la emisión de los títulos de deuda a que se ) Tj
+T* (refiere el inciso segundo del artículo anterior. ) Tj
+T* (    Para los efectos indicados en el inciso precedente, ) Tj
+T* (se autoriza a las cajas de compensación de asignación ) Tj
+T* (familiar para efectuar los correspondientes aportes de ) Tj
+T* (capital con cargo al Fondo Social contemplado en los ) Tj
+T* (artículos 29, 30 y 31 de la ley N° 18.833. ) Tj
+T* (    Las sociedades securitizadoras filiales de las ) Tj
+T* (entidades referidas en la letra j\) del artículo 98 del ) Tj
+T* (decreto ley N° 3.500, de 1980, deberán sujetarse a los ) Tj
+T* (límites de endeudamiento establecidos en el artículo 130 ) Tj
+T* (del citado decreto, si éstos fueren inferiores a los ) Tj
+T* (dispuestos en el Título XVIII de la ley N° 18.045.) Tj
+T* () Tj
+ET
+endstream
+endobj
+40 0 obj
+3631
+endobj
+41 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 42 0 R
+  /Rotate 0
+  >>
+endobj
+42 0 obj
+  <<
+  /Length 43 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    Artículo 19.- DEROGADO                                 LEY 19401 ) Tj
+T* (                                                           Art. Unico  N° 25) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* () Tj
+T* (    Artículo 20.- Las sociedades securitizadoras que       LEY 19401 ) Tj
+T* (emitan los títulos de deuda a que se refiere el inciso     Art. Unico  N° 26) Tj
+T* (segundo del artículo 17 de esta ley, podrán enajenar los   D.O. 28.08.1995) Tj
+T* (bienes que conforman el respectivo patrimonio separado, ) Tj
+T* (para el solo efecto de dar cumplimiento al contrato de ) Tj
+T* (compraventa prometido o cuando exista consentimiento del ) Tj
+T* (representante de los tenedores de los respectivos ) Tj
+T* (Títulos de deuda. ) Tj
+T* (    Para el efecto de lo dispuesto en el inciso tercero ) Tj
+T* (del artículo 137 de la ley N° 18.045, no será necesario ) Tj
+T* (certificar la custodia de los bienes que conforman el ) Tj
+T* (activo del patrimonio separado.) Tj
+T* () Tj
+T* (    Artículo 21.- En caso de disolución, por cualquier     LEY 19401) Tj
+T* (causa, de las sociedades a que se refiere este Título y    Art. Unico  N° 27) Tj
+T* (que, a la fecha de dicha disolución, aún mantuvieren       D.O. 28.08.1995) Tj
+T* (viviendas arrendadas con promesa de compraventa, la ) Tj
+T* (liquidación de la sociedad será practicada por la ) Tj
+T* (Superintendencia, con todas las facultades que la ley le ) Tj
+T* (otorga para la liquidación de las compañías de seguros. ) Tj
+T* (    La liquidación puede ser delegada por el ) Tj
+T* (Superintendente en uno o más funcionarios de la ) Tj
+T* (Superintendencia o en otras personas, siempre que no les ) Tj
+T* (afecten las inhabilidades contempladas en los artículos ) Tj
+T* (35 y 36 de la ley N° 18.046. ) Tj
+T* (    Los gastos de la liquidación de la sociedad serán de ) Tj
+T* (cargo de la misma. ) Tj
+T* (    A partir del momento en que la sociedad deje de ) Tj
+T* (tener viviendas arrendadas con promesa de compraventa, ) Tj
+T* (la liquidación continuará a su cargo, con arreglo a las ) Tj
+T* (reglas generales. ) Tj
+T* (    En todo caso, la Superintendencia podrá autorizar a ) Tj
+T* (la sociedad para que practique su propia liquidación. ) Tj
+T* (    En caso de disolución o quiebra de una sociedad ) Tj
+T* (inmobiliaria que mantuviere viviendas con contratos de ) Tj
+T* (arrendamiento con promesa de compraventa, el adquirente ) Tj
+T* (a cualquier título de estos activos estará obligado a ) Tj
+T* (cumplir los respectivos contratos en la forma pactada. ) Tj
+T* (Los liquidadores o síndicos, según corresponda, en la ) Tj
+T* (enajenación de dichos activos deberán sujetarse a lo ) Tj
+T* (dispuesto en el artículo 30 de esta ley, en lo que fuere ) Tj
+T* (pertinente.) Tj
+T* () Tj
+T* (    Artículo 22.- El patrimonio de las sociedades          LEY 19401 ) Tj
+T* (inmobiliarias, durante su vigencia, no podrá ser           Art. Unico  N° 28) Tj
+T* (inferior a 10.000 unidades de fomento, ni podrá el         D.O. 28.08.1995) Tj
+T* (cincuenta por ciento de este mínimo estar afecto a ) Tj
+T* (gravámenes, prohibiciones o embargo. ) Tj
+T* (    Asimismo, dichas sociedades no podrán mantener un ) Tj
+T* (endeudamiento que exceda el que establezca la ) Tj
+T* (Superintendencia, en relación a sus niveles de ) Tj
+T* (patrimonio y tipo de operaciones. Con todo, la ) Tj
+T* (Superintendencia no podrá establecer una relación máxima ) Tj
+T* (de endeudamiento inferior a 8 ni superior a 15 veces el ) Tj
+T* (patrimonio de la sociedad. Tratándose de sociedades ) Tj
+T* (inmobiliarias filiales de las entidades a que se refiere ) Tj
+ET
+endstream
+endobj
+43 0 obj
+3656
+endobj
+44 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 45 0 R
+  /Rotate 0
+  >>
+endobj
+45 0 obj
+  <<
+  /Length 46 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (la letra j\) del artículo 98 del decreto ley N° 3.500, de ) Tj
+T* (1980, deberán sujetarse al límite de endeudamiento ) Tj
+T* (establecido en el artículo 130 del citado decreto ley, ) Tj
+T* (si éste fuere inferior. ) Tj
+T* (    Si no se cumpliere con las obligaciones o ) Tj
+T* (prohibiciones antes indicadas, o con una de ellas, la ) Tj
+T* (sociedad tendrá un plazo de 120 días para regularizar ) Tj
+T* (dicha situación. Durante el período en que se mantenga ) Tj
+T* (dicho incumplimiento, la sociedad no podrá celebrar ) Tj
+T* (nuevos contratos de arrendamiento con promesa de ) Tj
+T* (compraventa. Lo dispuesto en este inciso no obsta a las ) Tj
+T* (sanciones administrativas que la Superintendencia pueda ) Tj
+T* (aplicar, en conformidad a su ley orgánica. ) Tj
+T* (    Si la sociedad, en forma reiterada, infringe lo ) Tj
+T* (dispuesto en el inciso primero y segundo de este ) Tj
+T* (artículo, o no regulariza su situación en el plazo ) Tj
+T* (establecido en el inciso anterior, la Superintendencia ) Tj
+T* (podrá prohibirle la celebración de nuevos contratos de ) Tj
+T* (arrendamiento con promesa de compraventa, hasta por un ) Tj
+T* (plazo de dos años, sanción que se podrá renovar de ) Tj
+T* (mantenerse el incumplimiento a la fecha de su respectivo ) Tj
+T* (vencimiento. Para los efectos de este artículo, se ) Tj
+T* (entenderá que hay reiteración cuando se cometan dos o ) Tj
+T* (más de estas infracciones, dentro de un período de doce ) Tj
+T* (meses.) Tj
+T* () Tj
+T* (    Artículo 23.- La emisión de bonos a que se refiere     LEY 19401) Tj
+T* (el inciso primero del artículo 17 de esta ley, y la        Art. Unico  N° 29) Tj
+T* (emisión de títulos de deuda por parte de sociedades        D.O. 28.08.1995) Tj
+T* (securitizadoras dispuesta en el inciso segundo del mismo ) Tj
+T* (artículo, estarán exentas del impuesto establecido en el ) Tj
+T* (N° 3 del artículo 1° del decreto ley N° 3.475, de 1980, ) Tj
+T* (sobre Impuesto de Timbres y Estampillas.) Tj
+T* () Tj
+T* (    Artículo 24.- DEROGADO                                 LEY 19401) Tj
+T* (                                                           Art. Unico  N° 30) Tj
+T* (                                                           D.O. 28.08.1995 ) Tj
+T* () Tj
+T* (    TITULO III {ARTS. 25-41}) Tj
+T* (    Del Contrato de Arrendamiento de Viviendas con) Tj
+T* (Promesa de Compraventa) Tj
+T* (    Artículo 25.- Los titulares de las cuentas a que se ) Tj
+T* (refiere el Título I podrán celebrar contratos de ) Tj
+T* (arrendamiento de viviendas con promesa de compraventa ) Tj
+T* (con las sociedades inmobiliarias a que alude el Título ) Tj
+T* (II. Estos contratos podrán tener por objeto viviendas ) Tj
+T* (terminadas, nuevas, usadas o en construcción. ) Tj
+T* (    Podrán también celebrar este tipo de contratos los ) Tj
+T* (titulares de cuentas, sobre viviendas de las cuales sean ) Tj
+T* (propietarios y que sean vendidas a una sociedad            LEY 19401 ) Tj
+T* (inmobiliaria, celebrando un contrato de arrendamiento      Art. Unico  N° 31) Tj
+T* (con promesa de compraventa por la o las respectivas        D.O. 28.08.1995) Tj
+T* (viviendas. ) Tj
+T* (    Para el titular de la cuenta que postula al            LEY 19401) Tj
+T* (subsidio habitacional, las viviendas objeto del contrato   Art. Unico  N° 32) Tj
+T* (de arrendamiento con promesa de compraventa deberán ser    D.O. 28.08.1995) Tj
+T* (viviendas económicas acogidas al decreto con fuerza de ) Tj
+T* (ley N° 2, de 1959, o viviendas sociales a que se refiere ) Tj
+T* (el artículo 3° del decreto ley N° 2.552, de 1979, o ) Tj
+T* (viviendas construidas con anterioridad a la vigencia del ) Tj
+ET
+endstream
+endobj
+46 0 obj
+3667
+endobj
+47 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 48 0 R
+  /Rotate 0
+  >>
+endobj
+48 0 obj
+  <<
+  /Length 49 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (decreto con fuerza de ley N° 2, de 1959, que cumplan con ) Tj
+T* (los requisitos del artículo 6.1.13. del Capítulo 1 del ) Tj
+T* (Título 6 de la Ordenanza General de Urbanismo y ) Tj
+T* (Construcciones, aprobada por decreto supremo N° 47, de ) Tj
+T* (Vivienda y Urbanismo, de 1992.) Tj
+T* (    En el caso de las viviendas en construcción, se ) Tj
+T* (podrá celebrar, previamente, un contrato de promesa de ) Tj
+T* (arrendamiento con promesa de compraventa, siempre que ) Tj
+T* (cuenten con el respectivo permiso de construcción, que ) Tj
+T* (el terreno en que estuvieren emplazadas esté debidamente ) Tj
+T* (urbanizado o su urbanización haya sido garantizada en la ) Tj
+T* (forma exigida por el artículo 129 del decreto con fuerza   LEY 19401) Tj
+T* (de ley N° 458, de 1975, Ley General de Urbanismo y         Art. Unico  N° 33) Tj
+T* (Construcciones.                                            D.O. 28.08.1995) Tj
+T* (    Las sociedades inmobiliarias no podrán formular ) Tj
+T* (cobro alguno a los promitentes arrendatarios y en caso ) Tj
+T* (de quiebra de la sociedad inmobiliaria, se resolverán ) Tj
+T* (estos contratos por el solo ministerio de la ley y sin ) Tj
+T* (cargo alguno para los promitentes arrendatarios. Sin ) Tj
+T* (embargo, las sociedades inmobiliarias podrán solicitar ) Tj
+T* (garantías para el cumplimiento de los contratos ) Tj
+T* (prometidos, las que expirarán por el solo ministerio de ) Tj
+T* (la ley una vez suscritos los contratos prometidos. ) Tj
+T* (    INCISOS DEROGADOS                                      LEY 19401) Tj
+T* (                                                           Art. Unico  N° 33) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* () Tj
+T* (    Artículo 26.- Los contratos de arrendamiento de ) Tj
+T* (viviendas con promesa de compraventa deberán celebrarse ) Tj
+T* (por escritura pública e inscribirse en el Registro de ) Tj
+T* (Hipotecas y Gravámenes del Conservador de Bienes           LEY 19401) Tj
+T* (Raíces respectivo.                                         Art. Unico  N° 34) Tj
+T* (    Los correspondientes inmuebles no podrán estar         D.O. 28.08.1995) Tj
+T* (hipotecados ni gravados con censos, usufructos, derechos ) Tj
+T* (de uso o habitación o fideicomisos, ni sujetos a           LEY 19401) Tj
+T* (interdicciones o prohibiciones de enajenar.                Art. Unico  N° 35 ) Tj
+T* (    En el contrato de arrendamiento con promesa de         D.O. 28.08.1995 ) Tj
+T* (compraventa, con subsidio habitacional, deberá fijarse    ) Tj
+T* (un plazo no superior a veinte años para la celebración ) Tj
+T* (del contrato de compraventa prometido, que se contará ) Tj
+T* (desde la fecha del contrato de arrendamiento con           LEY 19401 ) Tj
+T* (promesa de compraventa.                                    Art. Unico  N° 36) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* (    El arrendatario promitente vendedor y la sociedad      LEY 19401) Tj
+T* (inmobiliaria podrán convenir la sustitución de la          Art. Unico  N° 37) Tj
+T* (vivienda arrendada por otra, debiendo en los contratos     D.O. 28.08.1995) Tj
+T* (con subsidio habitacional, mantenerse invariable la ) Tj
+T* (fecha convenida para la celebración del contrato de ) Tj
+T* (compraventa prometido. ) Tj
+T* () Tj
+T* (    Artículo 26 bis.- En el caso previsto en el            LEY 19401 ) Tj
+T* (artículo 7°, el contrato de arrendamiento con promesa de   Art. Unico  N° 38) Tj
+T* (compraventa deberá contener, como parte integrante del     D.O. 28.08.1995) Tj
+T* (mismo, una tabla de desarrollo, que establezca, para ) Tj
+T* (cada período de pago del aporte, la parte de éste ) Tj
+T* (destinada al pago de la renta de arrendamiento y la ) Tj
+T* (parte destinada al pago parcial del precio prometido, y ) Tj
+T* (el saldo insoluto del precio, resultante después del ) Tj
+T* (pago del aporte en el respectivo período. ) Tj
+T* (    El reglamento establecerá las condiciones y la ) Tj
+ET
+endstream
+endobj
+49 0 obj
+4034
+endobj
+50 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 51 0 R
+  /Rotate 0
+  >>
+endobj
+51 0 obj
+  <<
+  /Length 52 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (periodicidad con que la sociedad inmobiliaria deberá ) Tj
+T* (informar a los arrendatarios promitentes compradores que ) Tj
+T* (hubieren celebrado contratos en la forma referida en el ) Tj
+T* (inciso anterior, con objeto de que éstos conozcan, ) Tj
+T* (durante toda la vigencia del contrato, el monto de la ) Tj
+T* (renta de arrendamiento, los abonos parciales destinados ) Tj
+T* (al pago del precio de la compraventa prometida, el monto ) Tj
+T* (acumulado de éstos y el saldo insoluto del precio. ) Tj
+T* (    En los contratos con pago directo del aporte a la ) Tj
+T* (sociedad inmobiliaria, a que se refieren los incisos ) Tj
+T* (anteriores, deberá incluirse también la opción del ) Tj
+T* (arrendatario promitente comprador de prepagar en ) Tj
+T* (cualquier época, total o parcialmente, el saldo insoluto ) Tj
+T* (del precio de la compraventa prometida. El reglamento ) Tj
+T* (establecerá las condiciones del prepago, total o ) Tj
+T* (parcial. ) Tj
+T* (    En el contrato de arrendamiento con promesa de ) Tj
+T* (compraventa se debe incluir la opción del arrendatario ) Tj
+T* (promitente comprador de prepagar en cualquier época, ) Tj
+T* (total o parcialmente, el precio de la compraventa ) Tj
+T* (prometida. El reglamento establecerá las condiciones del ) Tj
+T* (prepago, total o parcial.) Tj
+T* () Tj
+T* (    Artículo 27.- El contrato de compraventa prometido ) Tj
+T* (deberá celebrarse una vez cumplidas cualesquiera de las ) Tj
+T* (siguientes circunstancias: ) Tj
+T* (    a\) Cuando el saldo de la cuenta en la institución,     LEY 19401) Tj
+T* (o el total de los abonos al precio de la compraventa       Art. Unico  N° 39) Tj
+T* (prometida a que se refiere el artículo 7°, sea igual al    D.O. 28.08.1995) Tj
+T* (precio de venta estipulado en el contrato de ) Tj
+T* (arrendamiento con promesa de compraventa. ) Tj
+T* (    b\) Cuando se cumpla el plazo convenido para la ) Tj
+T* (celebración del contrato prometido y se entere el precio ) Tj
+T* (de compraventa. Si, al cumplirse el plazo convenido, por ) Tj
+T* (cualquier causa, no se hubiere completado y pagado el ) Tj
+T* (precio estipulado, el contrato se prorrogará en el plazo   LEY 19401) Tj
+T* (que no exceda al que sea necesario para completar la       Art. Unico  N° 40) Tj
+T* (parte del precio no enterada, en tantas cuotas de un       D.O. 28.08.1995) Tj
+T* (monto igual a las estipuladas en el contrato, dentro ) Tj
+T* (del cual el arrendatario promitente comprador deberá ) Tj
+T* (completar el precio bajo sanción de resolución de la ) Tj
+T* (promesa en caso de incumplimiento. ) Tj
+T* (    c\) Cuando opere el seguro de desgravamen por           LEY 19401) Tj
+T* (fallecimiento del arrendatario promitente comprador.       Art. Unico  N° 41) Tj
+T* (    La escritura de compraventa deberá suscribirse por     D.O. 28.08.1995) Tj
+T* (las partes en un plazo no superior a noventa días ) Tj
+T* (hábiles, contado desde la ocurrencia de cualquiera de ) Tj
+T* (las circunstancias señaladas en las letras anteriores de ) Tj
+T* (este artículo. ) Tj
+T* (    Por cada mes de atraso imputable a la sociedad ) Tj
+T* (inmobiliaria o al arrendatario promitente comprador,       LEY 19401) Tj
+T* (ésta o éste, según sea el caso, deberá pagar una multa     Art. Unico  N° 41) Tj
+T* (a beneficio del otro de acuerdo con una tabla que          D.O. 28.08.1995) Tj
+T* (confeccionará el Ministerio de Vivienda y Urbanismo,       NOTA) Tj
+T* (aprobada mediante decreto supremo. ) Tj
+T* () Tj
+T* (NOTA:) Tj
+T* (    El DTO 49, del Ministerio de la Vivienda, publicado) Tj
+T* (en el Diario Oficial de 17 07.1997, aprobó la Tabla de ) Tj
+T* (Multas por atraso en suscripción de escrituras de ) Tj
+ET
+endstream
+endobj
+52 0 obj
+3685
+endobj
+53 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 54 0 R
+  /Rotate 0
+  >>
+endobj
+54 0 obj
+  <<
+  /Length 55 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (compraventa a que se refiere el inciso tercero de este) Tj
+T* (artículo.) Tj
+T* (    Artículo 28.- Serán de cargo del arrendatario          LEY 19401 ) Tj
+T* (promitente comprador todos los gastos, derechos e          Art. Unico  N° 42) Tj
+T* (impuestos que graven directamente el inmueble objeto       D.O. 28.08.1995) Tj
+T* (del respectivo contrato de arrendamiento con promesa ) Tj
+T* (de compraventa, a partir de la fecha del mismo. ) Tj
+T* () Tj
+T* (    Artículo 29.- Celebrado el contrato de promesa de     LEY 19401 ) Tj
+T* (arrendamiento con promesa de compraventa o el contrato    Art. Unico  N° 43) Tj
+T* (de arrendamiento con promesa de compraventa, el titular   D.O. 28.08.1995) Tj
+T* (de la cuenta no podrá girar los fondos existentes en ) Tj
+T* (ella ni constituirlos en ningún tipo de caución. ) Tj
+T* (Celebrado el contrato de compraventa y pagado el precio, ) Tj
+T* (cesará esta prohibición por el solo ministerio de la ) Tj
+T* (ley. ) Tj
+T* (    El promitente comprador podrá ceder los derechos ) Tj
+T* (derivados de su contrato, previa notificación a la ) Tj
+T* (sociedad inmobiliaria, la que no podrá denegarse sin ) Tj
+T* (causa justificada, cesión que deberá incluir el saldo ) Tj
+T* (de su cuenta y sus capitalizaciones, o el total de los     LEY 19401) Tj
+T* (abonos efectuados al precio de la compraventa prometida    Art. Unico  N° 44) Tj
+T* (en el caso previsto en el artículo 7°. El reglamento       D.O. 28.08.1995) Tj
+T* (fijará la forma en que deberá efectuarse esta ) Tj
+T* (notificación, y el procedimiento mediante el cual la ) Tj
+T* (sociedad inmobiliaria deberá dar cumplimiento a esta ) Tj
+T* (disposición.) Tj
+T* () Tj
+T* (    Artículo 30.- La sociedad inmobiliaria sólo podrá      LEY 19401) Tj
+T* (enajenar la vivienda arrendada con promesa de              Art. Unico  N° 45) Tj
+T* (compraventa, siempre que ceda conjuntamente el contrato    D.O. 28.08.1995) Tj
+T* (de arrendamiento con promesa de compraventa, a otra ) Tj
+T* (sociedad del mismo tipo, a un fondo de inversión ) Tj
+T* (inmobiliaria, a un fondo de inversión de créditos ) Tj
+T* (securitizados reglamentados por la ley N° 18.815, a una ) Tj
+T* (sociedad securitizadora del Título XVIII de la ley N° ) Tj
+T* (18.045, o a las personas que la Superintendencia de ) Tj
+T* (Valores y Seguros haya declarado por norma de carácter ) Tj
+T* (general que pueden adquirirlos. El adquirente a ) Tj
+T* (cualquier título de la vivienda, como cesionario del ) Tj
+T* (contrato de arrendamiento con promesa de compraventa, ) Tj
+T* (tendrá iguales obligaciones, derechos y facultades que ) Tj
+T* (el cedente y estará obligado a cumplir el contrato de ) Tj
+T* (arrendamiento con promesa de compraventa en la forma ) Tj
+T* (pactada. Las partes podrán convenir que la ) Tj
+T* (administración del contrato de arrendamiento con promesa ) Tj
+T* (de compraventa la mantenga el cedente. ) Tj
+T* (    Los fondos de inversión inmobiliaria, fondos de ) Tj
+T* (inversión de créditos securitizados y las sociedades ) Tj
+T* (securitizadoras, para los efectos de lo previsto en el ) Tj
+T* (inciso segundo del artículo 17 de esta ley, estarán ) Tj
+T* (facultados para adquirir los activos a que se refiere ) Tj
+T* (este artículo. La Superintendencia de Valores y Seguros ) Tj
+T* (reglamentará, mediante circulares, las condiciones que ) Tj
+T* (deberán cumplirse en estas ventas y cesiones. ) Tj
+T* (    La cesión de los contratos de arrendamiento con ) Tj
+T* (promesa de compraventa, por parte del arrendador ) Tj
+T* (promitente vendedor, como, asimismo, la cesión, por el ) Tj
+T* (arrendatario promitente comprador, de sus derechos ) Tj
+T* (derivados del contrato de arrendamiento con promesa de ) Tj
+ET
+endstream
+endobj
+55 0 obj
+3716
+endobj
+56 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 57 0 R
+  /Rotate 0
+  >>
+endobj
+57 0 obj
+  <<
+  /Length 58 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (compraventa, se efectuarán mediante endoso. Este se ) Tj
+T* (colocará a continuación, al margen o al dorso del ) Tj
+T* (título, con indicación del nombre del cedente y del ) Tj
+T* (cesionario, debiendo las firmas de las partes estar ) Tj
+T* (autorizadas por notario y anotarse la respectiva cesión ) Tj
+T* (al margen de la inscripción del contrato de ) Tj
+T* (arrendamiento con promesa de compraventa.) Tj
+T* () Tj
+T* (    Artículo 31.- En caso de incumplimiento por parte      LEY 19401) Tj
+T* (del arrendador promitente vendedor de las obligaciones     Art. Unico  N° 46) Tj
+T* (que le impone el contrato de arrendamiento con promesa     D.O. 28.08.1995) Tj
+T* (de compraventa, el arrendatario promitente comprador ) Tj
+T* (podrá pedir el cumplimiento forzado del contrato o la ) Tj
+T* (resolución del mismo, con indemnización de perjuicios, ) Tj
+T* (de acuerdo con lo dispuesto en el artículo 1553 del ) Tj
+T* (Código Civil, gozando de la preferencia establecida en ) Tj
+T* (el N° 4 del artículo 2472 del mismo Código, en contra de ) Tj
+T* (la sociedad.) Tj
+T* () Tj
+T* (    Artículo 32.- Para los efectos de lo dispuesto en el ) Tj
+T* (artículo 1.889 del Código Civil, se entenderá que el ) Tj
+T* (justo precio se refiere al tiempo de la celebración del ) Tj
+T* (contrato de arrendamiento con promesa de compraventa de ) Tj
+T* (que trata esta ley. ) Tj
+T* (    Artículo 33.- El arrendatario promitente comprador     LEY 19401 ) Tj
+T* (podrá convenir con el arrendador promitente vendedor       Art. Unico  N° 47) Tj
+T* (condiciones especiales para las reparaciones, mejoras      D.O. 28.08.1995) Tj
+T* (o ampliaciones de la vivienda objeto del contrato. Si ) Tj
+T* (se pactare que dichas mejoras o ampliaciones serán de ) Tj
+T* (cargo de la sociedad inmobiliaria, se señalarán en ese ) Tj
+T* (mismo instrumento las especificaciones de las obras, ) Tj
+T* (la oportunidad u oportunidades en que ellas deberán ) Tj
+T* (efectuarse y su incidencia en la modificación del aporte ) Tj
+T* (mensual y del precio de compraventa. ) Tj
+T* (    Sin embargo, el arrendatario promitente comprador      LEY 19401) Tj
+T* (podrá efectuar mejoras, reparaciones y ampliaciones,       Art. Unico  N° 48) Tj
+T* (de su propio cargo, con autorización escrita de la         D.O. 28.08.1995) Tj
+T* (sociedad inmobiliaria. ) Tj
+T* () Tj
+T* (    Artículo 34.- Si la extinción del derecho del          LEY 19401 ) Tj
+T* (arrendador promitente vendedor se produce por sentencia    Art. Unico  N° 49) Tj
+T* (judicial no imputable al arrendatario promitente           D.O. 28.08.1995) Tj
+T* (comprador, la vivienda arrendada deberá ser reemplazada ) Tj
+T* (por otra similar, de común acuerdo entre las partes.) Tj
+T* (    En estos casos el arrendatario promitente comprador    LEY 19401) Tj
+T* ( podrá ejercer las acciones civiles ordinarias             Art. Unico  N° 50) Tj
+T* (establecidas en el artículo 1.489 del Código Civil,        D.O. 28.08.1995) Tj
+T* (en conformidad a las reglas generales establecidas en ) Tj
+T* (dicho cuerpo legal. ) Tj
+T* () Tj
+T* (    Artículo 35.- El contrato de arrendamiento de la ) Tj
+T* (vivienda y la correspondiente promesa de compraventa a ) Tj
+T* (que se refiere esta ley, terminarán anticipadamente y se ) Tj
+T* (resolverán, respectivamente, por las siguientes ) Tj
+T* (causales: ) Tj
+T* (    1.- Por el no pago de los aportes que se mencionan ) Tj
+T* (en el artículo 37. ) Tj
+T* (    2.- Por daños graves causados a la vivienda por ) Tj
+T* (hecho o culpa del arrendatario o de las personas por las ) Tj
+T* (que responda civilmente. ) Tj
+ET
+endstream
+endobj
+58 0 obj
+3597
+endobj
+59 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 60 0 R
+  /Rotate 0
+  >>
+endobj
+60 0 obj
+  <<
+  /Length 61 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    3.- Por cambio de destino de la vivienda arrendada, ) Tj
+T* (por acto del arrendatario promitente comprador.            LEY 19401) Tj
+T* (    4.- Por incumplimiento de las obligaciones indicadas   Art. Unico  N° 50) Tj
+T* (en el artículo 10 por parte de los herederos del           D.O. 28.08.1995) Tj
+T* (arrendatario promitente comprador. ) Tj
+T* (    5.- Por quiebra del arrendatario promitente            LEY 19401) Tj
+T* (comprador, caso en el cual el juez a que se refiere el     Art. Unico  N° 51) Tj
+T* (artículo 40 de esta ley fijará la fecha de restitución     D.O. 28.08.1995) Tj
+T* (de la vivienda, la que se notificará al síndico para su ) Tj
+T* (cumplimiento, y la indemnización de perjuicios, la que ) Tj
+T* (se pagará con cargo al saldo de la cuenta, o con cargo a ) Tj
+T* (los abonos efectuados al pago del precio de la ) Tj
+T* (compraventa prometida a que se refiere el artículo 7°, ) Tj
+T* (con la preferencia establecida en el N° 4 del artículo ) Tj
+T* (2472 del Código Civil. Si los saldos de la cuenta o los ) Tj
+T* (abonos enterados en la sociedad inmobiliaria en el caso ) Tj
+T* (a que se refiere el artículo 7°, fueren insuficientes ) Tj
+T* (para el pago de la indemnización referida, el remanente ) Tj
+T* (tendrá el carácter de crédito valista. ) Tj
+T* (    6.- por incumplimiento de las obligaciones del ) Tj
+T* (arrendador-promitente vendedor. ) Tj
+T* (    Artículo 36.- Si la vivienda sufriere daños durante    LEY 19401 ) Tj
+T* (la vigencia del contrato de arrendamiento con promesa      Art. Unico  N° 52) Tj
+T* (de compraventa, que provengan de vicios ocultos, serán     D.O. 28.08.1995) Tj
+T* (reparados por el arrendador promitente vendedor. Para ) Tj
+T* (estos efectos, se entenderá por vicios ocultos los que ) Tj
+T* (reúnan las características siguientes: ) Tj
+T* (    a\) Que tengan una causa anterior a la celebración ) Tj
+T* (del contrato de arrendamiento con promesa de ) Tj
+T* (compraventa; ) Tj
+T* (    b\) Que impidan su uso normal, en todo o en parte, de ) Tj
+T* (manera que, conociéndolos, el arrendatario promitente ) Tj
+T* (comprador no habría celebrado el contrato o lo hubiere ) Tj
+T* (celebrado en otras condiciones, y ) Tj
+T* (    c\) No haberlos manifestado el arrendador promitente ) Tj
+T* (vendedor y que el arrendatario promitente comprador haya ) Tj
+T* (podido ignorarlos sin negligencia grave de su parte o ) Tj
+T* (que no haya podido fácilmente conocerlos, en razón de su ) Tj
+T* (profesión u oficio. ) Tj
+T* (    Si los daños provienen de otras causas diferentes de ) Tj
+T* (las señaladas en el inciso anterior, su reparación será ) Tj
+T* (de cargo del arrendatario promitente comprador, sin ) Tj
+T* (perjuicio de las indemnizaciones que corresponda pagar ) Tj
+T* (al asegurador de acuerdo con lo dispuesto en el artículo ) Tj
+T* (42 de esta ley.) Tj
+T* (    Lo dispuesto en este artículo se entenderá sin ) Tj
+T* (perjuicio de las acciones ordinarias de indemnización de ) Tj
+T* (perjuicios que pudiere ejercer el arrendatario promitente  LEY 19401) Tj
+T* (comprador en conformidad a las normas legales vigentes.    Art. Unico  N° 53) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* () Tj
+T* (    Artículo 37.- El arrendatario promitente comprador     LEY 19401) Tj
+T* (podrá, voluntariamente, imputar a los fondos existentes    Art. Unico  N° 54) Tj
+T* (en su cuenta de ahorro el pago de los aportes, las         D.O. 28.08.1995) Tj
+T* (rentas de arrendamiento, las primas del seguro de ) Tj
+T* (desgravamen o las comisiones cuando, por razones ) Tj
+T* (personales, lo requiera, una vez que haya hecho aportes ) Tj
+T* (al menos por cinco años. Lo anterior podrá hacerlo ) Tj
+T* (hasta por cuatro veces durante la vigencia del contrato ) Tj
+T* (y por plazos no superiores a tres meses en cada ocasión. ) Tj
+ET
+endstream
+endobj
+61 0 obj
+3857
+endobj
+62 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 63 0 R
+  /Rotate 0
+  >>
+endobj
+63 0 obj
+  <<
+  /Length 64 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (El arrendatario promitente comprador convendrá con la ) Tj
+T* (sociedad inmobiliaria la manera de reponer los fondos ) Tj
+T* (así imputados. ) Tj
+T* (    El no pago de tres aportes sucesivos o la ) Tj
+T* (acumulación de cuatro aportes que se mantengan sin ) Tj
+T* (pagar, aun cuando estos últimos no fueren sucesivos, ) Tj
+T* (dará derecho a la sociedad inmobiliaria para pedir la ) Tj
+T* (resolución judicial del contrato de arrendamiento con ) Tj
+T* (promesa de compraventa. ) Tj
+T* (    Sin perjuicio de lo anterior, la institución donde ) Tj
+T* (el arrendatario promitente comprador mantuviere la         LEY 19401 ) Tj
+T* (cuenta procederá a pagar a la sociedad inmobiliaria,       Art. Unico  N° 54) Tj
+T* (a requerimiento de ésta, las rentas de arrendamiento       D.O. 28.08.1995) Tj
+T* (y demás sumas adeudadas por el arrendatario promitente) Tj
+T* (comprador, con cargo a los fondos existentes en la) Tj
+T* (cuenta, hasta que quede ejecutoriada la resolución) Tj
+T* (judicial del contrato y la sociedad inmobiliaria ) Tj
+T* (obtenga la restitución de la vivienda. ) Tj
+T* (    Si el contrato se hubiere celebrado de acuerdo a lo    LEY 19401) Tj
+T* (dispuesto en el artículo 7°, las rentas de arrendamiento   Art. Unico  N° 55) Tj
+T* (y demás sumas adeudadas se pagarán con cargo a los         D.O. 28.08.1995) Tj
+T* (fondos mencionados en el precepto antes citado, en la ) Tj
+T* (forma que señale el reglamento.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 38.- Los derechos establecidos en la ley, ) Tj
+T* (en favor del arrendatario-promitente comprador, son ) Tj
+T* (irrenunciables. ) Tj
+T* (    Las partes podrán convenir en los contratos            LEY 19401 ) Tj
+T* (cláusulas penales de evaluación anticipada de perjuicios   Art. Unico  N° 56) Tj
+T* (por incumplimiento de las obligaciones establecidas en     D.O. 28.08.1995) Tj
+T* (los mismos, las que se harán efectivas con cargo al ) Tj
+T* (saldo de la cuenta o a los abonos al precio efectuados ) Tj
+T* (en la sociedad inmobiliaria, si el incumplimiento fuere ) Tj
+T* (imputable al arrendatario promitente comprador. Si el ) Tj
+T* (incumplimiento fuere imputable al arrendador promitente ) Tj
+T* (vendedor, el crédito del arrendatario promitente ) Tj
+T* (comprador gozará de la preferencia establecida en el N° ) Tj
+T* (4 del artículo 2472 del Código Civil.) Tj
+T* () Tj
+T* (    Artículo 39.- El arrendatario promitente comprador     LEY 19401) Tj
+T* (no podrá cambiar el destino habitacional de la vivienda    Art. Unico  N° 57) Tj
+T* (arrendada. En todo caso, podrá establecer en ella una      D.O. 28.08.1995) Tj
+T* (oficina profesional, un pequeño comercio o un taller ) Tj
+T* (artesanal, siempre que su principal destino subsista ) Tj
+T* (como habitacional y cuente con la autorización previa ) Tj
+T* (de la sociedad inmobiliaria y de la Dirección de Obras ) Tj
+T* (Municipales respectiva. ) Tj
+T* () Tj
+T* (    Artículo 40.- Será juez competente para conocer de     LEY 19401) Tj
+T* (cualquier controversia que se produzca entre las partes,   Art. Unico  N° 58) Tj
+T* (incluidas las relativas al cumplimiento, la resolución,    D.O. 28.08.1995) Tj
+T* (la terminación anticipada del contrato, la indemnización ) Tj
+T* (de perjuicios, la fijación de la fecha en que deberá ) Tj
+T* (restituirse la vivienda, las prestaciones mutuas y las ) Tj
+T* (cuestiones de interpretación del contrato, un juez ) Tj
+T* (árbitro de derecho que, en cuanto al procedimiento, ) Tj
+T* (tendrá las facultades de arbitrador a que se refiere el ) Tj
+T* (artículo 223 del Código Orgánico de Tribunales. El ) Tj
+ET
+endstream
+endobj
+64 0 obj
+3611
+endobj
+65 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 66 0 R
+  /Rotate 0
+  >>
+endobj
+66 0 obj
+  <<
+  /Length 67 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (árbitro será designado por el juez letrado de turno, de ) Tj
+T* (entre los inscritos en el Registro a que se refiere el ) Tj
+T* (inciso cuarto de este artículo. ) Tj
+T* (    En contra de la sentencia arbitral se podrán ) Tj
+T* (interponer los recursos de apelación y casación en la ) Tj
+T* (forma, los que serán conocidos y fallados por un juez ) Tj
+T* (árbitro de segunda instancia, que tendrá el mismo ) Tj
+T* (carácter que el juez árbitro de primera instancia y para ) Tj
+T* (cuya designación se observarán las normas del inciso ) Tj
+T* (primero de este artículo. El recurso de apelación se ) Tj
+T* (concederá en el solo efecto devolutivo. ) Tj
+T* (    En contra de la sentencia del árbitro de segunda ) Tj
+T* (instancia no procederá recurso alguno salvo el de ) Tj
+T* (casación en la forma por ultra petita e incompetencia, y ) Tj
+T* (el de queja para ante la Corte Suprema. ) Tj
+T* (    El Ministerio de Vivienda y Urbanismo creará y ) Tj
+T* (mantendrá un registro de jueces árbitros, que operará en ) Tj
+T* (cada región a través de la respectiva Secretaría ) Tj
+T* (Regional Ministerial de Vivienda y Urbanismo, en el cual ) Tj
+T* (podrán inscribirse los abogados habilitados para el ) Tj
+T* (ejercicio de la profesión, que reúnan los requisitos ) Tj
+T* (exigidos para cada categoría de árbitros. ) Tj
+T* (    En la categoría de árbitros de primera instancia, ) Tj
+T* (podrán inscribirse abogados que tengan a lo menos cinco ) Tj
+T* (años de ejercicio de la profesión. ) Tj
+T* (    En la categoría de árbitros de segunda instancia, ) Tj
+T* (podrán inscribirse abogados que tengan a lo menos quince ) Tj
+T* (años de ejercicio de la profesión.) Tj
+T* () Tj
+T* (    Artículo 41.- Cuando el arrendador promitente          LEY 19401 ) Tj
+T* (vendedor obtenga la restitución de una vivienda, el        Art. Unico  N° 59) Tj
+T* (árbitro levantará un acta de su estado de conservación,    D.O. 28.08.1995) Tj
+T* (con la concurrencia de un perito, que sea profesional de ) Tj
+T* (aquellos señalados en el artículo 17 de la Ley General ) Tj
+T* (de Urbanismo y Construcciones, designado por el árbitro ) Tj
+T* (con citación de las partes. Dicho perito emitirá un ) Tj
+T* (informe sobre el estado general de conservación de la ) Tj
+T* (vivienda, señalando y valorizando las mejoras, daños o ) Tj
+T* (deterioros que presentare ésta. ) Tj
+T* (    Con dicho informe y las observaciones que hagan las ) Tj
+T* (partes en el plazo que señale el árbitro, éste fijará el ) Tj
+T* (monto de la indemnización que eventualmente se adeuden ) Tj
+T* (las partes. Si la liquidación arrojare un saldo a favor ) Tj
+T* (del arrendatario promitente comprador, dicho saldo ) Tj
+T* (gozará de la preferencia establecida en el N° 4 del ) Tj
+T* (artículo 2472 del Código Civil. Si arrojare un saldo a ) Tj
+T* (favor del arrendador promitente vendedor, éste se pagará ) Tj
+T* (con cargo a los fondos existentes en la cuenta, o con ) Tj
+T* (cargo a los abonos efectuados al precio del contrato de ) Tj
+T* (compraventa prometido en el caso a que se refiere el ) Tj
+T* (artículo 7°. ) Tj
+T* (    Si los fondos existentes en la cuenta, o los abonos ) Tj
+T* (efectuados al precio de la compraventa prometida a que ) Tj
+T* (se refiere el artículo 7°, fueren insuficientes para ) Tj
+T* (cubrir el monto de las sumas adeudadas, el arrendador ) Tj
+T* (promitente vendedor podrá demandar al arrendatario ) Tj
+T* (promitente comprador el pago de las diferencias, ante el ) Tj
+T* (mismo árbitro que conoció del juicio o del incidente, ) Tj
+T* (conforme con lo previsto en este artículo y en el ) Tj
+T* (artículo anterior.) Tj
+ET
+endstream
+endobj
+67 0 obj
+3627
+endobj
+68 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 69 0 R
+  /Rotate 0
+  >>
+endobj
+69 0 obj
+  <<
+  /Length 70 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* () Tj
+T* (     Artículo 41 bis.- Tratándose de contratos de          LEY 19877) Tj
+T* (arrendamiento con promesa de compraventa con aplicación    Art. único Nº 1 a\)) Tj
+T* (del subsidio habitacional, en que el precio de la          D.O. 31.05.2003) Tj
+T* (compraventa prometida no exceda del que se señale en ) Tj
+T* (el reglamento, el arrendador promitente vendedor podrá ) Tj
+T* (solicitar al árbitro que conoce del juicio de ) Tj
+T* (terminación del contrato por no pago de los aportes ) Tj
+T* (a que se refiere el artículo 37, que ordene la venta ) Tj
+T* (de la vivienda en pública subasta. Dicha resolución ) Tj
+T* (deberá notificarse al SERVIU con una anticipación ) Tj
+T* (mínima de 30 días a la fecha del remate. ) Tj
+T* (     Con el producto del remate, al cual deben ) Tj
+T* (adicionarse los fondos que el arrendatario promitente ) Tj
+T* (comprador tenga depositados en la cuenta de ahorro o ) Tj
+T* (abonados al arrendador promitente vendedor si se ha ) Tj
+T* (operado de acuerdo al artículo 7°, sin deducción de ) Tj
+T* (monto alguno por concepto de otros pagos que ) Tj
+T* (correspondan con cargo a dichos fondos, el árbitro ) Tj
+T* (ordenará que se pague al arrendador promitente vendedor ) Tj
+T* (el precio de la compraventa prometida más las rentas de ) Tj
+T* (arrendamiento devengadas y no pagadas y las costas del ) Tj
+T* (juicio. ) Tj
+T* (     Si quedare un saldo a favor, el SERVIU respectivo     LEY 19877) Tj
+T* (tendrá preferencia sobre cualquier otro acreedor para      Art. único Nº 1 b\)) Tj
+T* (recuperar el monto del subsidio otorgado y si aún          D.O. 31.05.2003) Tj
+T* (quedare remanente, se dará cumplimiento a las demás ) Tj
+T* (obligaciones que procedan conforme a esta ley. El ) Tj
+T* (remanente, si lo hubiere, cederá a favor del ) Tj
+T* (arrendatario promitente comprador. Si resultare un ) Tj
+T* (saldo en contra, el SERVIU respectivo enterará al ) Tj
+T* (arrendador promitente vendedor hasta un 100% de ese ) Tj
+T* (saldo insoluto, con un límite máximo de 200 Unidades ) Tj
+T* (de Fomento por operación. El reglamento respectivo ) Tj
+T* (establecerá los porcentajes, los procedimientos, ) Tj
+T* (condiciones y modalidades necesarios para que proceda ) Tj
+T* (la responsabilidad del SERVIU en el pago de las ) Tj
+T* (cantidades señaladas, el que se efectuará con cargo a ) Tj
+T* (los recursos que se incluirán anualmente en su ) Tj
+T* (presupuesto.) Tj
+T* () Tj
+T* () Tj
+T* (    TITULO IV {ARTS. 42-44}) Tj
+T* (    De los Seguros y del Fondo de Garantía) Tj
+T* (    Artículo 42.- En los contratos de arrendamiento con    LEY 19401) Tj
+T* (promesa de compraventa que se celebren de acuerdo con      Art. Unico  N° 61) Tj
+T* (las normas de esta ley, deberá establecerse la             D.O. 28.08.1995) Tj
+T* (obligación para el arrendatario promitente comprador de ) Tj
+T* (contratar seguro de incendio y seguro de desgravamen y ) Tj
+T* (la obligación del arrendador promitente vendedor de ) Tj
+T* (ofrecer alternativas de primas al arrendatario ) Tj
+T* (promitente comprador. Las primas de estos seguros serán ) Tj
+T* (de cargo del arrendatario promitente comprador. Si el ) Tj
+T* (arrendatario promitente comprador no contratare estos ) Tj
+T* (seguros, la sociedad inmobiliaria podrá contratarlos por ) Tj
+T* (cuenta y cargo de aquél. ) Tj
+T* (    En caso de cesión del contrato de arrendamiento con ) Tj
+T* (promesa de compraventa, deberá contratarse un nuevo ) Tj
+T* (seguro de desgravamen por el cesionario, aplicándose lo ) Tj
+T* (dispuesto en el inciso anterior. ) Tj
+ET
+endstream
+endobj
+70 0 obj
+3559
+endobj
+71 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 72 0 R
+  /Rotate 0
+  >>
+endobj
+72 0 obj
+  <<
+  /Length 73 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (    No será obligatorio el seguro de desgravamen ) Tj
+T* (tratándose de arrendatarios promitentes compradores ) Tj
+T* (mayores de 65 años de edad.) Tj
+T* () Tj
+T* (    Artículo 43.- La sociedad inmobiliaria deberá          LEY 19401  ) Tj
+T* (ofrecer al arrendatario promitente comprador una           Art. Unico  N° 62) Tj
+T* (alternativa de seguro de desempleo o de pérdida de la      D.O. 28.08.1995) Tj
+T* (fuente de ingreso de éste, que cubra el riesgo del no ) Tj
+T* (pago del aporte convenido y podrá contratarlo a ) Tj
+T* (petición del arrendatario promitente comprador, por ) Tj
+T* (cuenta y cargo de éste.) Tj
+T* () Tj
+T* (    Artículo 44.- En los contratos que celebre la          LEY 19401) Tj
+T* (sociedad inmobiliaria con los arrendatarios promitentes    Art. Unico  N° 63) Tj
+T* (compradores que no tengan la calidad de trabajadores       D.O. 28.08.1995) Tj
+T* (dependientes, se podrá estipular la formación de un ) Tj
+T* (fondo de garantía para responder en caso de ) Tj
+T* (incumplimiento en el pago oportuno del aporte. Si se ) Tj
+T* (pactare la formación de este fondo en parcialidades, ) Tj
+T* (éstas no se considerarán para el cálculo del porcentaje ) Tj
+T* (a que se refiere el inciso tercero del artículo 4° y su ) Tj
+T* (monto deberá desglosarse en el aviso de cobro ) Tj
+T* (respectivo. Lo dispuesto en este inciso podrá aplicarse ) Tj
+T* (también a los trabajadores dependientes, a requerimiento ) Tj
+T* (expreso de éstos. ) Tj
+T* (    Los recursos de este fondo se depositarán en la ) Tj
+T* (cuenta a que se refiere el artículo 1°, e integrarán el ) Tj
+T* (fondo disponible a que alude el inciso primero del ) Tj
+T* (artículo 3°.) Tj
+T* () Tj
+T* (    Artículo 44 bis.- Si los pagos por concepto de         LEY 19401) Tj
+T* (gastos, derechos e impuestos a que se refiere el           Art. Unico  N° 64) Tj
+T* (artículo 28, y por primas de seguros de incendio y         D.O. 28.08.1995) Tj
+T* (desgravamen a que alude el artículo 42, fueren ) Tj
+T* (efectuados por el arrendador promitente vendedor y su ) Tj
+T* (cobro al arrendatario promitente comprador se efectuare ) Tj
+T* (en cuotas periódicas, éstos deberán desglosarse en el ) Tj
+T* (aviso de cobro correspondiente.) Tj
+T* () Tj
+T* (     TITULO V {ARTS. 45-53}) Tj
+T* () Tj
+T* (     Del Subsidio Habitacional para el Arrendamiento ) Tj
+T* (de Viviendas con Promesa de Compraventa) Tj
+T* () Tj
+T* (     Artículo 45.- El titular de la cuenta a que se        LEY 19877) Tj
+T* (refiere el Título I, que no posea otra vivienda y que      Art. único Nº 2 a\)) Tj
+T* (cumpla con los requisitos exigidos en el reglamento,       D.O. 31.05.2003) Tj
+T* (podrá postular al subsidio habitacional que, para estos ) Tj
+T* (efectos, otorgará el Ministerio de Vivienda y ) Tj
+T* (Urbanismo, cuyo objeto será contribuir a financiar el ) Tj
+T* (pago del precio de compraventa de la vivienda como ) Tj
+T* (también a solventar los costos de originación del ) Tj
+T* (contrato de arrendamiento con promesa de compraventa. ) Tj
+T* (Sin embargo, no podrá aplicar el subsidio a la ) Tj
+T* (situación prevista en el inciso segundo del artículo 25.) Tj
+T* (     Este subsidio, expresado en Unidades de Fomento,      LEY 19877) Tj
+T* (se pagará a todo evento al beneficiario, o a quien lo      Art. único Nº 2 a\)) Tj
+T* (haya adquirido por endoso de dicho documento a su favor,   D.O. 31.05.2003) Tj
+T* (fraccionado en cuotas periódicas, iguales y sucesivas, ) Tj
+T* (con un máximo de hasta 240 cuotas, o en una modalidad ) Tj
+ET
+endstream
+endobj
+73 0 obj
+3527
+endobj
+74 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 75 0 R
+  /Rotate 0
+  >>
+endobj
+75 0 obj
+  <<
+  /Length 76 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (diferente, la que, en todo caso, quedará establecida en ) Tj
+T* (el correspondiente llamado a postulación. ) Tj
+T* (     El valor de la cuota periódica se establecerá en el ) Tj
+T* (respectivo llamado a postulación, de tal forma que el ) Tj
+T* (Valor Actual Neto \(VAN\) del total de las cuotas ) Tj
+T* (periódicas no exceda los límites mínimos y máximos ) Tj
+T* (señalados en el reglamento. ) Tj
+T* (     El reglamento podrá establecer valores diferenciados ) Tj
+T* (de subsidio, respecto del arrendamiento con promesa de ) Tj
+T* (compraventa de viviendas ubicadas en zonas de renovación ) Tj
+T* (urbana o emplazadas en diferentes regiones del país o ) Tj
+T* (para viviendas de distinto precio. También podrá ) Tj
+T* (establecer valores diferenciados para casas o ) Tj
+T* (departamentos. ) Tj
+T* (     El reglamento determinará la forma de calcular el ) Tj
+T* (Valor Actual Neto \(VAN\) y la fórmula para calcular la ) Tj
+T* (tasa de interés que se utilizará para ello. Asimismo, el ) Tj
+T* (reglamento establecerá la forma como se determinarán las ) Tj
+T* (zonas de renovación urbana. ) Tj
+T* (     El reglamento podrá también establecer la ) Tj
+T* (congelación temporal de los fondos existentes en la ) Tj
+T* (cuenta para los efectos de la postulación al subsidio. ) Tj
+T* (     El subsidio habitacional podrá otorgarse a través     LEY 19877) Tj
+T* (de un instrumento endosable cuyas características serán    Art. único Nº 2 ) Tj
+T* (determinadas por la Superintendencia de Valores y          b\) y c\)) Tj
+T* (Seguros, de tal forma que pueda ser transado en el         D.O. 31.05.2003) Tj
+T* (mercado formal de valores y pueda ser adquirido por ) Tj
+T* (inversionistas institucionales.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 46.- Los contratos de arrendamiento con ) Tj
+T* (promesa de compraventa, que celebren los beneficiarios ) Tj
+T* (del subsidio habitacional de que trata este Título, se ) Tj
+T* (regirán por las normas especiales de éste y, en lo no ) Tj
+T* (previsto por ellas, se aplicarán los demás preceptos de ) Tj
+T* (esta ley. ) Tj
+T* (     Artículo 47.- Para quienes postulen al subsidio a     LEY 19401) Tj
+T* (que se refiere este Título, el precio de compraventa de    Art. único Nº 66) Tj
+T* (la vivienda no podrá ser superior a los valores máximos    D.O. 28.08.1995) Tj
+T* (que señale el reglamento. ) Tj
+T* (     SUPRIMIDO                                             LEY 19877) Tj
+T* (                                                           Art. único Nº 3) Tj
+T* (                                                           D.O. 31.05.2003) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 48.- DEROGADO                                LEY 19877) Tj
+T* (                                                           Art. único Nº 4) Tj
+T* (                                                           D.O. 31.05.2003) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 49.- DEROGADO                                LEY 19877) Tj
+T* (                                                           Art. único Nº 4) Tj
+T* (                                                           D.O. 31.05.2003) Tj
+T* () Tj
+T* () Tj
+T* (     Artículo 50.- Lo dispuesto en el inciso primero del   LEY 19877) Tj
+T* (artículo 10 se aplicará también a los fondos               Art. único Nº 5) Tj
+T* (correspondientes al subsidio otorgado, destinados a ser    D.O. 31.05.2003) Tj
+T* (aplicados al pago del precio de compraventa de la ) Tj
+T* (vivienda. ) Tj
+ET
+endstream
+endobj
+76 0 obj
+3477
+endobj
+77 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 78 0 R
+  /Rotate 0
+  >>
+endobj
+78 0 obj
+  <<
+  /Length 79 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* () Tj
+T* () Tj
+T* (    Artículo 51.- Para los efectos de lo dispuesto en      LEY 19401 ) Tj
+T* (este Título, el Ministerio de Vivienda y Urbanismo         Art. Unico  N° 70) Tj
+T* (creará un registro especial, para lo cual cumplirá las     D.O. 28.08.1995) Tj
+T* (funciones y tendrá los derechos y obligaciones que se ) Tj
+T* (establezcan en el reglamento. ) Tj
+T* (    El Ministerio de Vivienda y Urbanismo creará y ) Tj
+T* (mantendrá un registro nacional público de los ) Tj
+T* (beneficiarios de todos los subsidios habitacionales ) Tj
+T* (otorgados por el Estado y las municipalidades. ) Tj
+T* (    El Ministerio de Vivienda y Urbanismo podrá ) Tj
+T* (encomendar a entidades privadas, mediante licitación ) Tj
+T* (pública, la implementación, administración y operación ) Tj
+T* (de los registros a que se refieren los incisos ) Tj
+T* (precedentes.) Tj
+T* () Tj
+T* (    Artículo 52.- Las sociedades inmobiliarias que hayan   LEY 19401) Tj
+T* (celebrado contratos de arrendamiento con promesa de        Art. Unico  N° 71) Tj
+T* (compraventa, deberán comunicar, en la forma y              D.O. 28.08.1995) Tj
+T* (periodicidad que señale el reglamento, al registro ) Tj
+T* (especial a que se refiere el inciso primero del artículo ) Tj
+T* (precedente, el término de los contratos que se hubieren ) Tj
+T* (producido por causas legales o por las cesiones de ) Tj
+T* (derechos efectuadas por los arrendatarios promitentes ) Tj
+T* (compradores, con autorización de los arrendadores ) Tj
+T* (promitentes vendedores. ) Tj
+T* () Tj
+T* (     Artículo 53.- La Ley de Presupuestos del Sector ) Tj
+T* (Público establecerá la cantidad de subsidios que podrán ) Tj
+T* (otorgarse, anualmente, para los efectos previstos en ) Tj
+T* (esta ley, la que no podrá exceder de diez mil.             LEY 19877) Tj
+T* (                                                           Art. único Nº 6) Tj
+T* (                                                           D.O. 31.05.2003) Tj
+T* () Tj
+T* () Tj
+T* (    TITULO VI.                                            ) Tj
+T* (    DE LOS FONDOS PARA LA VIVIENDA Y DE LAS SOCIEDADES     LEY 19401 ) Tj
+T* (ADMINISTRADORAS.                                           Art. Unico  N° 72) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* (    Artículo 54.- El Fondo para la Vivienda, en adelante   ) Tj
+T* ("el Fondo", es un patrimonio constituido con los fondos ) Tj
+T* (disponibles de los recursos depositados en las cuentas ) Tj
+T* (de ahorro para arrendamiento de viviendas con promesa de ) Tj
+T* (compraventa, para su inversión en los valores señalados ) Tj
+T* (en esta ley, correspondiendo su administración a una ) Tj
+T* (sociedad anónima, en adelante "la Administradora". ) Tj
+T* (    Los aportes quedarán expresados en cuotas del Fondo ) Tj
+T* (de igual valor y características. El valor unitario de ) Tj
+T* (la cuota utilizado para convertir el aporte será el ) Tj
+T* (vigente a la fecha en que los recursos estén disponibles ) Tj
+T* (para su inversión por parte de la Administradora y se ) Tj
+T* (determinará sobre la base de dividir el valor económico ) Tj
+T* (o de mercado de las inversiones del Fondo por el número ) Tj
+T* (de cuotas vigentes a igual fecha. ) Tj
+T* (    Las cuotas del Fondo se valorizarán diariamente y ) Tj
+T* (serán rescatables por la institución que mantenga las ) Tj
+T* (cuentas, en conformidad a lo que disponga el reglamento ) Tj
+T* (de esta ley. ) Tj
+T* (    Sin perjuicio de lo anterior, la institución está ) Tj
+ET
+endstream
+endobj
+79 0 obj
+3548
+endobj
+80 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 81 0 R
+  /Rotate 0
+  >>
+endobj
+81 0 obj
+  <<
+  /Length 82 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (facultada para traspasar los fondos, en los casos que se ) Tj
+T* (determinen en el respectivo contrato de administración, ) Tj
+T* (a otra sociedad administradora de igual giro. ) Tj
+T* (    Los activos del Fondo y las cuotas en que éste se ) Tj
+T* (divide serán inembargables y no serán susceptibles de ) Tj
+T* (medida precautoria alguna.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 55.- La administración del Fondo será         LEY 19401 ) Tj
+T* (ejercida por sociedades anónimas cuyo objeto exclusivo     Art. Unico N° 72) Tj
+T* (sea tal administración. Sin perjuicio de lo anterior,      D.O. 28.08.1995) Tj
+T* (las administradoras podrán realizar las actividades        LEY 20190) Tj
+T* (complementarias que autorice la Superintendencia.          Art. 12 Nº 1 a\)) Tj
+T* (    Las administradoras estarán sujetas a las              D.O. 05.06.2007) Tj
+T* (siguientes reglas especiales: ) Tj
+T* (    a\) Se formarán, existirán y probarán en conformidad ) Tj
+T* (a lo establecido en el artículo 126 de la ley N° 18.046, ) Tj
+T* (siéndoles aplicables los artículos 127, 128 y 129 de la ) Tj
+T* (misma ley. ) Tj
+T* (    b\) Deberán incluir en su nombre la expresión ) Tj
+T* ("Administradora de Fondos para la Vivienda", y ) Tj
+T* (    c\) Acreditar un capital pagado en dinero efectivo,     LEY 20190) Tj
+T* (en la forma y por el monto que indica el artículo 55       Art. 12 Nº 1 b\)) Tj
+T* (A.                                                         D.O. 05.06.2007) Tj
+T* (    Las cajas de compensación de asignación familiar, ) Tj
+T* (los bancos y las sociedades financieras podrán ) Tj
+T* (constituir o formar parte de Administradoras de Fondos ) Tj
+T* (para la Vivienda, de acuerdo con las leyes que los ) Tj
+T* (rijan. Para este efecto, se autoriza a las cajas de ) Tj
+T* (compensación de asignación familiar para efectuar los ) Tj
+T* (correspondientes aportes de capital con cargo al fondo ) Tj
+T* (social contemplado en los artículos 29, 30 y 31 de la ) Tj
+T* (ley N° 18.833.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 55 A.- Para obtener la autorización de        LEY 20190) Tj
+T* (existencia, las administradoras deberán acreditar          Art. 12 Nº 2) Tj
+T* (ante la Superintendencia, un capital pagado en dinero      D.O. 05.06.2007) Tj
+T* (efectivo no inferior al equivalente a 10.000 unidades ) Tj
+T* (de fomento. Asimismo, las administradoras deberán ) Tj
+T* (cumplir con lo dispuesto en los artículos 225 y 226 ) Tj
+T* (de la ley Nº 18.045.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 55 B.- La institución que mantenga las        LEY 20190) Tj
+T* (cuentas con cuyos recursos se hubieren constituido los     Art. 12 Nº 2) Tj
+T* (fondos beneficiarios de la garantía a que se refiere       D.O. 05.06.2007) Tj
+T* (el artículo 226 de la ley Nº 18.045, actuará como ) Tj
+T* (representante de los mismos, desempeñando las funciones ) Tj
+T* (que se señalan en el artículo 227 del mismo cuerpo ) Tj
+T* (legal.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 56.- Los Fondos y las sociedades que los      LEY 19401) Tj
+T* (administren se regirán por las disposiciones de esta       Art. Unico  N° 72) Tj
+T* (ley, de su reglamento, y por las que se establezcan en     D.O. 28.08.1995) Tj
+T* (los respectivos contratos de administración que ) Tj
+T* (suscriban con las instituciones que les encarguen su ) Tj
+T* (administración, y serán fiscalizados por la ) Tj
+T* (Superintendencia de Valores y Seguros, en adelante "la ) Tj
+ET
+endstream
+endobj
+82 0 obj
+3453
+endobj
+83 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 84 0 R
+  /Rotate 0
+  >>
+endobj
+84 0 obj
+  <<
+  /Length 85 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (Superintendencia", de acuerdo con las facultades que le ) Tj
+T* (confieren su ley Orgánica y esta ley.) Tj
+T* () Tj
+T* (    Artículo 57.- La administración del Fondo se           LEY 19401) Tj
+T* (efectuará por cuenta y riesgo de los titulares de las      Art. Unico  N° 72) Tj
+T* (cuentas, de acuerdo con las disposiciones de esta ley y    D.O. 28.08.1995) Tj
+T* (con las estipulaciones del respectivo contrato de ) Tj
+T* (administración.) Tj
+T* () Tj
+T* (    Artículo 58.- La sociedad administradora no podrá      LEY 19401) Tj
+T* (iniciar la administración de un Fondo mientras la          Art. Unico  N° 72) Tj
+T* (Superintendencia no inscriba, en un registro público       D.O. 28.08.1995) Tj
+T* (dispuesto al efecto, el o los contratos de ) Tj
+T* (administración del respectivo Fondo que aquélla suscriba ) Tj
+T* (con la o las instituciones que mantengan las cuentas. El ) Tj
+T* (reglamento de esta ley dispondrá las menciones mínimas ) Tj
+T* (que deban contener dichos contratos. ) Tj
+T* () Tj
+T* (    Artículo 59.- Las operaciones del fondo serán          LEY 20190) Tj
+T* (efectuadas por la sociedad administradora, a nombre        Art. 12 Nº 3 a\)) Tj
+T* (de aquél, el cual será titular de los instrumentos         D.O. 05.06.2007) Tj
+T* (representativos de las inversiones realizadas. La ) Tj
+T* (sociedad administradora del fondo deberá encargar a una ) Tj
+T* (empresa de depósito de valores regulada por la ley N° ) Tj
+T* (18.876 el depósito de aquellos instrumentos que sean ) Tj
+T* (valores de oferta pública susceptibles de ser ) Tj
+T* (custodiados. La Superintendencia, mediante norma de ) Tj
+T* (carácter general, establecerá los títulos no ) Tj
+T* (susceptibles de ser custodiados por parte de las ) Tj
+T* (referidas empresas. Asimismo, podrá autorizar en casos ) Tj
+T* (calificados que todos o un porcentaje de los ) Tj
+T* (instrumentos del fondo sea mantenido en depósito en otra ) Tj
+T* (institución autorizada por ley. En el caso de los ) Tj
+T* (valores extranjeros, la Superintendencia establecerá, ) Tj
+T* (mediante norma de carácter general, la forma en que ) Tj
+T* (deberá llevarse la custodia y depósito.) Tj
+T* (    Las operaciones relativas al patrimonio de la ) Tj
+T* (sociedad administradora se contabilizarán separadamente ) Tj
+T* (de las del Fondo. Asimismo, cuando administre más de un ) Tj
+T* (Fondo, las operaciones de cada uno de ellos se ) Tj
+T* (contabilizarán separadamente.) Tj
+T* (    La responsabilidad por la función de administración    LEY 20190) Tj
+T* (es indelegable, sin perjuicio de que las administradoras   Art. 12 Nº 3 b\)) Tj
+T* (puedan conferir poderes especiales o celebrar contratos    D.O. 05.06.2007) Tj
+T* (por servicios externos para la ejecución de determinados) Tj
+T* (actos, negocios o actividades necesarias para el ) Tj
+T* (cumplimiento del giro.) Tj
+T* (    Cuando se trate de la contratación de servicios ) Tj
+T* (externos, en el contrato de administración deberá ) Tj
+T* (constar la facultad de la administradora para llevar a ) Tj
+T* (cabo dichos contratos. Asimismo, deberá señalarse en el ) Tj
+T* (contrato de administración si los gastos derivados de ) Tj
+T* (las contrataciones serán de cargo de la administradora o ) Tj
+T* (del fondo de que se trate y, en este último caso, la ) Tj
+T* (forma y política de distribución de tales gastos. Sin ) Tj
+T* (embargo, cuando dicha contratación consista en ) Tj
+T* (administración de cartera de recursos del fondo, los ) Tj
+T* (gastos derivados de estas contrataciones serán de ) Tj
+T* (cargo de la administradora.) Tj
+T* () Tj
+ET
+endstream
+endobj
+85 0 obj
+3587
+endobj
+86 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 87 0 R
+  /Rotate 0
+  >>
+endobj
+87 0 obj
+  <<
+  /Length 88 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* () Tj
+T* (    Artículo 60.- La comisión de la administradora por     LEY 19401 ) Tj
+T* (la administración del Fondo será de cargo de la            Art. Unico  N° 72) Tj
+T* (institución que mantenga las cuentas, en las condiciones   D.O. 28.08.1995) Tj
+T* (que se establezcan en el contrato de administración, la ) Tj
+T* (que estará exenta del Impuesto al Valor Agregado.) Tj
+T* () Tj
+T* (    Artículo 61.- La inversión de los Fondos, sin          LEY 19401 ) Tj
+T* (perjuicio de las cantidades que mantengan en cuenta        Art. Unico  N° 72) Tj
+T* (corriente bancaria, deberá efectuarse en valores que       D.O. 28.08.1995) Tj
+T* (puedan ser adquiridos con recursos de los fondos de ) Tj
+T* (pensiones chilenos, de acuerdo a lo dispuesto en el ) Tj
+T* (decreto ley N° 3.500, de 1980, y en cuotas de fondos ) Tj
+T* (mutuos. ) Tj
+T* () Tj
+T* (    Artículo 62.- Las inversiones de los Fondos se         LEY 19401 ) Tj
+T* (sujetarán a las siguientes disposiciones:                  Art. Unico Nº 72) Tj
+T* (    a\) La inversión en instrumentos o valores emitidos     D.O. 28.08.1995) Tj
+T* (o garantizados por una misma entidad, no podrá exceder ) Tj
+T* (del siete por ciento del activo del Fondo. No estarán      LEY 20190) Tj
+T* (sujetos a este límite los títulos emitidos por la          Art. 12 Nº 4 a\)) Tj
+T* (Tesorería General de la República o por el Banco Central   D.O. 05.06.2007) Tj
+T* (de Chile, y otros emitidos o garantizados por el Estado ) Tj
+T* (de Chile. ) Tj
+T* (    El fondo podrá invertir hasta un 25% del valor ) Tj
+T* (de su activo en cuotas de un fondo mutuo o de inversión,   LEY 20190) Tj
+T* (nacional o extranjero, abierto o cerrado, o en títulos     Art. 12 Nº 4 b\)) Tj
+T* (de deuda de securitización correspondientes a un           D.O. 05.06.2007) Tj
+T* (patrimonio de los referidos en el Título XVIII de la ) Tj
+T* (ley Nº 18.045, que cumplan los requisitos que determine ) Tj
+T* (la Superintendencia;) Tj
+T* (    b\) La inversión del Fondo en instrumentos emitidos ) Tj
+T* (o garantizados por entidades pertenecientes a un mismo ) Tj
+T* (grupo empresarial no podrá representar más del ) Tj
+T* (veinticinco por ciento del activo del Fondo;               LEY 20190) Tj
+T* (    c\) La inversión en acciones de sociedades anónimas     Art. 12 Nº 4 c\)) Tj
+T* (no podrá exceder del cuarenta por ciento del activo del    D.O. 05.06.2007) Tj
+T* (Fondo. La inversión en cuotas de fondos de inversión y ) Tj
+T* (en cuotas de fondos mutuos, conjuntamente, no podrá ) Tj
+T* (exceder del veinticinco por ciento del activo del Fondo;   LEY 20190) Tj
+T* (    d\) La inversión en títulos de emisores extranjeros     Art. 12 Nº 4 d\)) Tj
+T* (no podrá exceder del treinta por ciento del activo del     D.O. 05.06.2007) Tj
+T* (Fondo; ) Tj
+T* (    e\) El Fondo no podrá poseer el veinticinco por         LEY 20190) Tj
+T* (ciento o más de las acciones emitidas por una misma        Art. 12 Nº 4 e\)) Tj
+T* (sociedad o de las cuotas de un mismo fondo de inversión    D.O. 05.06.2007) Tj
+T* (o fondo mutuo, nacional o extranjero. El conjunto de ) Tj
+T* (inversiones del Fondo en valores emitidos o garantizados) Tj
+T* (por una misma sociedad no podrá ser igual o superior al ) Tj
+T* (veinticinco por ciento del activo total de dicha ) Tj
+T* (emisora.) Tj
+T* (    Sin perjuicio de lo anterior, las inversiones del ) Tj
+T* (fondo no podrán significar en ningún caso el control ) Tj
+T* (directo o indirecto del respectivo emisor.) Tj
+T* (    Tratándose de títulos de deuda de securitización       LEY 19705) Tj
+T* (regulados por el Título XVIII de la ley Nº 18.045, los     Art. 16 Nº 2) Tj
+T* (límites señalados en esta letra se aplicarán a cada        D.O. 20.12.2000) Tj
+T* (patrimonio por separado.) Tj
+T* (    En caso de que una sociedad administre más de un ) Tj
+T* (Fondo, las inversiones de los mismos, en conjunto, ) Tj
+ET
+endstream
+endobj
+88 0 obj
+3880
+endobj
+89 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 90 0 R
+  /Rotate 0
+  >>
+endobj
+90 0 obj
+  <<
+  /Length 91 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (no podrán exceder estos límites; ) Tj
+T* (    f\) El Fondo no podrá invertir en instrumentos ) Tj
+T* (emitidos o garantizados por la administradora o ) Tj
+T* (personas relacionadas a ella, ni en valores emitidos ) Tj
+T* (por una administradora de fondos de terceros ) Tj
+T* (autorizada por ley, y ) Tj
+T* (    g\) La suma de las operaciones para cobertura de ) Tj
+T* (riesgo financiero efectuadas con recursos del Fondo, ) Tj
+T* (calculada en función del activo objeto de dicha ) Tj
+T* (operación y medida en términos netos, no podrá ) Tj
+T* (exceder el valor de la inversión mantenida por el ) Tj
+T* (Fondo en el instrumento objeto de la cobertura. ) Tj
+T* (    Con todo, la suma de las operaciones para la ) Tj
+T* (cobertura del riesgo financiero que mantenga vigente ) Tj
+T* (el Fondo, y que posean idénticas características ) Tj
+T* (financieras en cuanto a plazo, moneda y activo objeto, ) Tj
+T* (no podrán exceder del diez por ciento del total de ) Tj
+T* (dichas operaciones que se encuentren vigentes en los ) Tj
+T* (mercados secundarios formales. ) Tj
+T* (    Las limitaciones establecidas en este artículo no ) Tj
+T* (regirán durante los primeros seis meses de operación ) Tj
+T* (del Fondo.) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 63.- Las transacciones de acciones, de        LEY 19401) Tj
+T* (cuotas de fondos de inversión y de otros valores que       Art. Unico  N° 72) Tj
+T* (tengan transacción bursátil, de acuerdo con lo que         D.O. 28.08.1995) Tj
+T* (defina el reglamento de esta ley, así como las ) Tj
+T* (operaciones de cobertura de riesgo financiero, deberán ) Tj
+T* (efectuarse en una bolsa de valores. Las transacciones o ) Tj
+T* (negociaciones de los demás valores deberán efectuarse a ) Tj
+T* (precios similares a los que habitualmente prevalecen en ) Tj
+T* (el mercado cuidando de no exceder los máximos o mínimos, ) Tj
+T* (según se trate de adquisiciones o enajenaciones, ) Tj
+T* (respectivamente. ) Tj
+T* (    La sociedad administradora, sus accionistas, ) Tj
+T* (directores o gerentes, no podrán adquirir, directamente ) Tj
+T* (o a través de otras personas naturales o jurídicas, ) Tj
+T* (valores de propiedad del o de los Fondos que administre, ) Tj
+T* (ni enajenar de los suyos a éstos. Asimismo, la ) Tj
+T* (adquisición o enajenación de valores por cuenta del ) Tj
+T* (Fondo a personas relacionadas a la administradora no ) Tj
+T* (podrá efectuarse a través de negociaciones privadas. ) Tj
+T* (    Los bienes que integran el activo del Fondo no ) Tj
+T* (podrán estar afectos a gravámenes o prohibiciones de ) Tj
+T* (cualquier especie. ) Tj
+T* () Tj
+T* (    Artículo 64.- El reglamento deberá fijar las normas    LEY 19401 ) Tj
+T* (relativas a valorización de inversiones, procedimiento y   Art. Unico  N° 72) Tj
+T* (plazos para corregir excesos de inversión y otras que      D.O. 28.08.1995) Tj
+T* (sean necesarias para el adecuado funcionamiento de los ) Tj
+T* (Fondos y de las sociedades administradoras. ) Tj
+T* () Tj
+T* (    Artículo 64 A.- A los directores de las                LEY 20190) Tj
+T* (administradoras les serán aplicables las obligaciones      Art. 12 Nº 5) Tj
+T* (señaladas en el artículo 236 de la ley N° 18.045.          D.O. 05.06.2007) Tj
+T* () Tj
+T* () Tj
+T* (    Artículo 65.- La Superintendencia podrá revocar la     LEY 19401) Tj
+T* (autorización de existencia a la sociedad administradora,   Art. Unico  N° 72) Tj
+ET
+endstream
+endobj
+91 0 obj
+3417
+endobj
+92 0 obj
+  <<
+  /Type /Page
+  /Parent 18 0 R
+  /Resources 19 0 R
+  /Contents 93 0 R
+  /Rotate 0
+  >>
+endobj
+93 0 obj
+  <<
+  /Length 94 0 R
+  >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+T* (en caso de infracción grave de las normas legales que      D.O. 28.08.1995) Tj
+T* (rijan la administración de los Fondos para la Vivienda o ) Tj
+T* (cuando la administración haya sido llevada en forma ) Tj
+T* (fraudulenta o gravemente culpable. ) Tj
+T* (    Disuelta la sociedad administradora por revocación ) Tj
+T* (de la autorización de existencia o por cualquier otra ) Tj
+T* (causa, la institución que mantenga las cuentas deberá ) Tj
+T* (traspasar la administración del o de los Fondos a otra ) Tj
+T* (sociedad administradora; mientras ello no ocurra, la ) Tj
+T* (liquidación de la administradora será practicada por la ) Tj
+T* (Superintendencia. Una vez traspasado el Fondo, la ) Tj
+T* (liquidación será efectuada por la propia sociedad. ) Tj
+T* (    Declarada la quiebra de una sociedad administradora ) Tj
+T* (y mientras no se traspasen los Fondos administrados por ) Tj
+T* (la fallida, el Superintendente de Valores y Seguros, o ) Tj
+T* (la persona que éste designe, actuará como síndico, con ) Tj
+T* (todas las facultades que al efecto les confiere a los ) Tj
+T* (síndicos la ley N° 18.175, sobre Quiebras.) Tj
+T* () Tj
+T* (    TITULO VII ) Tj
+T* (    De las Disposiciones Generales                         LEY 19401) Tj
+T* (                                                           Art.Unico N°72 y 73) Tj
+T* (                                                           D.O. 28.08.1995) Tj
+T* (    Artículo 66.- Reemplázase, en los incisos segundo y ) Tj
+T* (tercero del artículo 6° del decreto ley N° 539, de 1974, ) Tj
+T* (las locuciones "cinco y veinte sueldos vitales mensuales ) Tj
+T* (del departamento de Santiago" y "diez a cuarenta sueldos ) Tj
+T* (vitales mensuales del departamento de Santiago", por ) Tj
+T* ("cinco y quince unidades tributarias mensuales" y "diez ) Tj
+T* (a treinta unidades tributarias mensuales", ) Tj
+T* (respectivamente. ) Tj
+T* () Tj
+T* (     Artículo 67.- En todo lo no contemplado expresamente  LEY 19401) Tj
+T* (en esta ley se aplicarán las disposiciones del Código      Art.Unico N° 73 y 74) Tj
+T* (Civil, del Código de Comercio y de otros cuerpos           D.O. 28.08.1995) Tj
+T* (legales, según corresponda, con excepción de la ) Tj
+T* (ley N° 18.101. ) Tj
+T* () Tj
+T* (    Artículo 68.- Por decretos supremos dictados a         LEY 19401) Tj
+T* (través del Ministerio de Hacienda, con la firma del        Art.Unico N° 73 y 75) Tj
+T* (Ministro de Vivienda y Urbanismo, podrán reglamentarse     D.O. 28.08.1995) Tj
+T* (las disposiciones de los Títulos I, II y VI de esta ley.) Tj
+T* (Las restantes disposiciones podrán reglamentarse por ) Tj
+T* (decreto supremo dictado a través del Ministerio de ) Tj
+T* (Vivienda y Urbanismo.) Tj
+T* () Tj
+T* (    Y por cuanto he tenido a bien aprobarlo y ) Tj
+T* (sancionarlo; por tanto promúlguese y llévese a efecto ) Tj
+T* (como Ley de la República. ) Tj
+T* (    Santiago, 15 de diciembre de 1993.- PATRICIO AYLWIN ) Tj
+T* (AZOCAR, Presidente de la República.- Alberto Etchegaray ) Tj
+T* (Aubry, Ministro de Vivienda y Urbanismo.- Alejandro ) Tj
+T* (Foxley Rioseco, Ministro de Hacienda. ) Tj
+T* (    Lo que transcribo a Ud., para su conocimiento.- Joan ) Tj
+T* (Mac Donald Maier, Subsecretario de Vivienda y Urbanismo. ) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+94 0 obj
+3276
+endobj
+17 0 obj
+  <<
+  /Type /Catalog
+  /Pages 18 0 R
+  >>
+endobj
+18 0 obj
+  <<
+  /Type /Pages
+  /Count 25
+  /MediaBox [ 0 0 612 792 ]
+  /Kids [ 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 38 0 R 41 0 R 44 0 R 47 0 R 50 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 68 0 R 71 0 R 74 0 R 77 0 R 80 0 R 83 0 R 86 0 R 89 0 R 92 0 R ]
+  >>
+endobj
+xref
+0 95
+0000000000 65535 f 0000000015 00000 n 0000000102 00000 n 0000002285 00000 n 0000002393 00000 n 0000002509 00000 n 0000002622 00000 n 0000002742 00000 n 0000002852 00000 n 0000002970 00000 n 0000003085 00000 n 0000003208 00000 n 0000003321 00000 n 0000003436 00000 n 0000003549 00000 n 0000003668 00000 n 0000003759 00000 n 0000099226 00000 n 0000099285 00000 n 0000003856 00000 n 0000004164 00000 n 0000004272 00000 n 0000007467 00000 n 0000007488 00000 n 0000007596 00000 n 0000011401 00000 n 0000011422 00000 n 0000011530 00000 n 0000015323 00000 n 0000015344 00000 n 0000015452 00000 n 0000019184 00000 n 0000019205 00000 n 0000019313 00000 n 0000023052 00000 n 0000023073 00000 n 0000023181 00000 n 0000026809 00000 n 0000026830 00000 n 0000026938 00000 n 0000030629 00000 n 0000030650 00000 n 0000030758 00000 n 0000034474 00000 n 0000034495 00000 n 0000034603 00000 n 0000038330 00000 n 0000038351 00000 n 0000038459 00000 n 0000042553 00000 n 0000042574 00000 n 0000042682 00000 n 0000046427 00000 n 0000046448 00000 n 0000046556 00000 n 0000050332 00000 n 0000050353 00000 n 0000050461 00000 n 0000054118 00000 n 0000054139 00000 n 0000054247 00000 n 0000058164 00000 n 0000058185 00000 n 0000058293 00000 n 0000061964 00000 n 0000061985 00000 n 0000062093 00000 n 0000065780 00000 n 0000065801 00000 n 0000065909 00000 n 0000069528 00000 n 0000069549 00000 n 0000069657 00000 n 0000073244 00000 n 0000073265 00000 n 0000073373 00000 n 0000076910 00000 n 0000076931 00000 n 0000077039 00000 n 0000080647 00000 n 0000080668 00000 n 0000080776 00000 n 0000084289 00000 n 0000084310 00000 n 0000084418 00000 n 0000088065 00000 n 0000088086 00000 n 0000088194 00000 n 0000092134 00000 n 0000092155 00000 n 0000092263 00000 n 0000095740 00000 n 0000095761 00000 n 0000095869 00000 n 0000099205 00000 n trailer
+<<
+  /Size 95
+  /Root 17 0 R
+  /Info 1 0 R
+>>
+startxref
+99553
+%%EOF
